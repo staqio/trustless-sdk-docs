@@ -2,7 +2,7 @@
 
 # periodRaw
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;Period&quot;)
 

@@ -15,4 +15,4 @@ class [CreateAnAccountParams](index.md)(currency: [String](https://kotlinlang.or
 
 | | |
 |---|---|
-| [CreateAnAccountParams](-create-an-account-params.md) | <br>constructor(currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), accountName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [CreateAnAccountParams](-create-an-account-params.md) | [kotlin]<br>constructor(currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), accountName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |

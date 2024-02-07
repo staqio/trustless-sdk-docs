@@ -2,5 +2,5 @@
 
 # TrustlessPageNumberException
 
-\
+[kotlin]\
 constructor()

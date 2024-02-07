@@ -2,5 +2,5 @@
 
 # validateAmount
 
-\
+[kotlin]\
 fun [validateAmount](validate-amount.md)(amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html))

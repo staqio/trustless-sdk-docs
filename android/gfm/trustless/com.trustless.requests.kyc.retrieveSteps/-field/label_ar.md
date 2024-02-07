@@ -2,5 +2,5 @@
 
 # label_ar
 
-\
+[kotlin]\
 val [label_ar](label_ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

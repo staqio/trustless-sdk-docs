@@ -2,7 +2,7 @@
 
 # createAnAccount
 
-\
+[kotlin]\
 suspend fun [createAnAccount](create-an-account.md)(params: [CreateAnAccountParams](../../com.trustless.requests.accounts.createAnAccount/-create-an-account-params/index.md)): [StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md)
 
-[Api Reference](https://developer.finto.io/docs/apis/accounts#/Accounts/Create%20an%20account)
+[Api Reference](https://developer.staq.io/docs/apis/accounts#/Accounts/Create%20an%20account)

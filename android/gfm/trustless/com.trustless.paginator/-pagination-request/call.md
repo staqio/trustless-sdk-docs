@@ -2,5 +2,5 @@
 
 # call
 
-\
+[kotlin]\
 abstract suspend fun [call](call.md)(params: [UrlQueryParamsPagination](../../com.trustless.requests.accounts.getAccounts/-url-query-params-pagination/index.md)): [PaginatedResponse](../-paginated-response/index.md)&lt;[T](index.md)&gt;

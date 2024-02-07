@@ -2,5 +2,5 @@
 
 # operation
 
-\
+[kotlin]\
 val [operation](operation.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null

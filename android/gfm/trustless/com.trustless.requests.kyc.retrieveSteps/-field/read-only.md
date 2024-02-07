@@ -2,5 +2,5 @@
 
 # readOnly
 
-\
+[kotlin]\
 val [readOnly](read-only.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)

@@ -2,18 +2,13 @@
 
 # GetPurpusesRequestParams
 
-\
+[kotlin]\
 class [GetPurpusesRequestParams](index.md)(aliasType: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [UrlQueryParams](../../com.trustless.queryParams/-url-query-params/index.md)
+
+[Api Reference](https://developer.staq.io/docs/apis/cliq#/Aliases/List%20all%20purpose%20codes)
 
 ## Constructors
 
 | | |
 |---|---|
-| [GetPurpusesRequestParams](-get-purpuses-request-params.md) | <br>constructor(aliasType: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
-
-## Functions
-
-| Name | Summary |
-|---|---|
-| [getQuery](../../com.trustless.queryParams/-url-query-params/get-query.md) | <br>open override fun [getQuery](../../com.trustless.queryParams/-url-query-params/get-query.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [put](../../com.trustless.queryParams/-url-query-params/put.md) | <br>fun [put](../../com.trustless.queryParams/-url-query-params/put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html))<br>fun [put](../../com.trustless.queryParams/-url-query-params/put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html))<br>fun [put](../../com.trustless.queryParams/-url-query-params/put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [GetPurpusesRequestParams](-get-purpuses-request-params.md) | [kotlin]<br>constructor(aliasType: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |

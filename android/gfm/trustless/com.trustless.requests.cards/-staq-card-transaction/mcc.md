@@ -2,7 +2,7 @@
 
 # mcc
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;MCC&quot;)
 

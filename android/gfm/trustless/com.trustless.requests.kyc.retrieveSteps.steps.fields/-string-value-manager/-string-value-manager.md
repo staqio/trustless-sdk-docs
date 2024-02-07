@@ -2,5 +2,5 @@
 
 # StringValueManager
 
-\
+[kotlin]\
 constructor(field: [Field](../../com.trustless.requests.kyc.retrieveSteps/-field/index.md), context: [Page](../../com.trustless.requests.kyc.retrieveSteps.steps/-page/index.md))

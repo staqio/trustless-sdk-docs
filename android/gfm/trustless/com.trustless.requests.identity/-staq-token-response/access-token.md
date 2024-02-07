@@ -2,7 +2,7 @@
 
 # accessToken
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;access_token&quot;)
 

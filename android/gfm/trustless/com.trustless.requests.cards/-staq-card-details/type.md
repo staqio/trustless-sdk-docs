@@ -2,5 +2,5 @@
 
 # type
 
-\
+[kotlin]\
 val [type](type.md): [StaqCardType](../-staq-card-type/index.md)?

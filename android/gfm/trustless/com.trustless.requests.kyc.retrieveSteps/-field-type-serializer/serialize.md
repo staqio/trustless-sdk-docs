@@ -2,5 +2,5 @@
 
 # serialize
 
-\
+[kotlin]\
 open override fun [serialize](serialize.md)(encoder: Encoder, value: [FieldType](../-field-type/index.md))

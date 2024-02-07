@@ -10,7 +10,7 @@ kotlin
 
 | | |
 |---|---|
-|  | [Api Reference](https://developer.finto.io/docs/apis/identity#/User%20management/Create%20a%20user) |
+|  | [Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Create%20a%20user) |
 
 #### Throws
 
@@ -25,4 +25,4 @@ kotlin
 
 | | |
 |---|---|
-| [RegisterUserRequestParams](-register-user-request-params.md) | <br>constructor(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), username: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), firstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, lastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, phoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) |
+| [RegisterUserRequestParams](-register-user-request-params.md) | [kotlin]<br>constructor(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), username: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), firstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, lastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, phoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) |

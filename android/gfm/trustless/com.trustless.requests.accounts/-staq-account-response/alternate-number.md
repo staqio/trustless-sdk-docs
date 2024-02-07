@@ -2,7 +2,7 @@
 
 # alternateNumber
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;AlternateNumber&quot;)
 

@@ -2,7 +2,7 @@
 
 # pendingAmount
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;PendingAmount&quot;)
 

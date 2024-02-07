@@ -2,5 +2,5 @@
 
 # call
 
-\
+[kotlin]\
 suspend fun [call](call.md)(params: [UpdateCustomerContactParams](../-update-customer-contact-params/index.md)): [UpdateCustomerContactResponse](../-update-customer-contact-response/index.md)

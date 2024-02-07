@@ -2,5 +2,5 @@
 
 # deserialize
 
-\
+[kotlin]\
 open override fun [deserialize](deserialize.md)(decoder: Decoder): [FieldType](../-field-type/index.md)

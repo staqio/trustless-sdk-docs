@@ -2,5 +2,5 @@
 
 # TrustlessAmountException
 
-\
+[kotlin]\
 constructor()

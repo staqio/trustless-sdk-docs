@@ -10,7 +10,7 @@ kotlin
 
 | | |
 |---|---|
-|  | [Api Reference](https://developer.finto.io/docs/apis/identity#/User%20management/Set%20password) |
+|  | [Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Set%20password) |
 
 #### Throws
 
@@ -22,4 +22,4 @@ kotlin
 
 | | |
 |---|---|
-| [ResetPasswordRequestParams](-reset-password-request-params.md) | <br>constructor(oldPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), newPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [ResetPasswordRequestParams](-reset-password-request-params.md) | [kotlin]<br>constructor(oldPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), newPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |

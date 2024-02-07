@@ -2,5 +2,5 @@
 
 # getString
 
-\
+[kotlin]\
 fun [getString](get-string.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

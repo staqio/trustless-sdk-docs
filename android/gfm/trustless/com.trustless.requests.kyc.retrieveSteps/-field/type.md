@@ -2,7 +2,7 @@
 
 # type
 
-\
+[kotlin]\
 
 @Serializable(with = [FieldTypeSerializer::class](../-field-type-serializer/index.md))
 

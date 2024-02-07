@@ -2,5 +2,5 @@
 
 # UpdateCustomerContactResponse
 
-\
+[kotlin]\
 constructor(KycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), MobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), Email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

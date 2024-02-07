@@ -2,11 +2,11 @@
 
 # GetAccountByAccountNumber
 
-\
+[kotlin]\
 class [GetAccountByAccountNumber](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | <br>suspend fun [call](call.md)(): [StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md) |
+| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(): [StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md) |

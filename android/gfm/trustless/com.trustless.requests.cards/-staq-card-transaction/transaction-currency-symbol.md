@@ -2,7 +2,7 @@
 
 # transactionCurrencySymbol
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;TransactionCurrencySymbol&quot;)
 

@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [AppTokenRequest](-app-token-request/index.md) | <br>class [AppTokenRequest](-app-token-request/index.md) |
+| [AppTokenRequest](-app-token-request/index.md) | [kotlin]<br>class [AppTokenRequest](-app-token-request/index.md) |

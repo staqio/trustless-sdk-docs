@@ -2,5 +2,7 @@
 
 # getPurposes
 
-\
+[kotlin]\
 suspend fun [getPurposes](get-purposes.md)(params: [GetPurpusesRequestParams](../../com.trustless.requests.cliq/-get-purpuses-request-params/index.md)): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqPurpose](../../com.trustless.requests.cliq/-staq-purpose/index.md)&gt;
+
+[Api Reference](https://developer.staq.io/docs/apis/cliq#/Aliases/List%20all%20purpose%20codes)

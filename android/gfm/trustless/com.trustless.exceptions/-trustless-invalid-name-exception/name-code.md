@@ -2,5 +2,5 @@
 
 # nameCode
 
-\
+[kotlin]\
 val [nameCode](name-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

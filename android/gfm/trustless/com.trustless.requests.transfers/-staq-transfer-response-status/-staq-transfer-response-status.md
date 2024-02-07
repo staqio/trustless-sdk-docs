@@ -2,5 +2,5 @@
 
 # StaqTransferResponseStatus
 
-\
+[kotlin]\
 constructor(id: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), label: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), labelAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

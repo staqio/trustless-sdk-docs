@@ -2,5 +2,5 @@
 
 # descriptor
 
-\
+[kotlin]\
 open override val [descriptor](descriptor.md): SerialDescriptor

@@ -2,7 +2,7 @@
 
 # isDefault
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;IsDefault&quot;)
 

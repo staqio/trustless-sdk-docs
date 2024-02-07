@@ -2,5 +2,5 @@
 
 # UpdateCustomerContactParams
 
-\
+[kotlin]\
 constructor(mobile: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

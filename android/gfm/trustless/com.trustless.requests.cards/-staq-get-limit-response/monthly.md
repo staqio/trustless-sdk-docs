@@ -2,7 +2,7 @@
 
 # monthly
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;Monthly&quot;)
 

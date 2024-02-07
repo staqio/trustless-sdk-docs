@@ -2,7 +2,7 @@
 
 # tokenType
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;token_type&quot;)
 

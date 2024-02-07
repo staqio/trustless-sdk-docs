@@ -2,5 +2,5 @@
 
 # onSuccess
 
-\
+[kotlin]\
 abstract fun [onSuccess](on-success.md)(result: [T](index.md))

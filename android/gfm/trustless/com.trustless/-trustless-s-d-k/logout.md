@@ -2,7 +2,7 @@
 
 # logout
 
-\
+[kotlin]\
 suspend fun [logout](logout.md)()
 
-[Api Reference](https://developer.finto.io/docs/apis/identity#/Authentication/Logout%20User) This endpoint is used to invalidate the token, and to remove the data of the current user from the memory.
+[Api Reference](https://developer.staq.io/docs/apis/identity#/Authentication/Logout%20User) This endpoint is used to invalidate the token, and to remove the data of the current user from the memory.

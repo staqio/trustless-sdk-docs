@@ -2,5 +2,5 @@
 
 # call
 
-\
+[kotlin]\
 suspend fun [call](call.md)(): [StaqCardDetails](../../com.trustless.requests.cards/-staq-card-details/index.md)

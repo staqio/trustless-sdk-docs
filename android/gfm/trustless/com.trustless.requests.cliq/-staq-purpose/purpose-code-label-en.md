@@ -2,7 +2,7 @@
 
 # purposeCodeLabelEn
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;PurposeCodeLabelEn&quot;)
 

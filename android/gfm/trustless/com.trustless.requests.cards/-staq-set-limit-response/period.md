@@ -2,5 +2,5 @@
 
 # period
 
-\
+[kotlin]\
 val [period](period.md): [StaqCardLimitPeriod](../-staq-card-limit-period/index.md)?

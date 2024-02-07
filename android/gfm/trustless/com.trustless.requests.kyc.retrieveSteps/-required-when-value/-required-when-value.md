@@ -2,5 +2,5 @@
 
 # RequiredWhenValue
 
-\
+[kotlin]\
 constructor(field: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), operation: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[FieldValue](../-field-value/index.md)&gt;? = null)

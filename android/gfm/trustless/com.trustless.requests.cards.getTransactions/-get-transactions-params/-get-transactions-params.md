@@ -2,5 +2,5 @@
 
 # GetTransactionsParams
 
-\
+[kotlin]\
 constructor(dateFrom: [Date](https://developer.android.com/reference/kotlin/java/util/Date.html), dateTo: [Date](https://developer.android.com/reference/kotlin/java/util/Date.html) = Date())

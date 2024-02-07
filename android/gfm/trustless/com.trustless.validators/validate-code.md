@@ -2,5 +2,5 @@
 
 # validateCode
 
-\
+[kotlin]\
 fun [validateCode](validate-code.md)(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

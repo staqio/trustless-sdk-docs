@@ -2,7 +2,7 @@
 
 # expiryDate
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;ExpiryDate&quot;)
 

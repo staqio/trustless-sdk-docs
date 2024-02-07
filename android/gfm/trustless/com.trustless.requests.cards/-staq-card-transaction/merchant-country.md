@@ -2,7 +2,7 @@
 
 # merchantCountry
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;MerchantCountry&quot;)
 

@@ -2,7 +2,7 @@
 
 # availableBalance
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;AvailableBalance&quot;)
 

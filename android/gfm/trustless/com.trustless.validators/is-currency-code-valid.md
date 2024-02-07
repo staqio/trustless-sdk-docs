@@ -2,5 +2,5 @@
 
 # isCurrencyCodeValid
 
-\
+[kotlin]\
 fun [isCurrencyCodeValid](is-currency-code-valid.md)(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)

@@ -2,5 +2,5 @@
 
 # deinitialize
 
-\
+[kotlin]\
 fun [deinitialize](deinitialize.md)()

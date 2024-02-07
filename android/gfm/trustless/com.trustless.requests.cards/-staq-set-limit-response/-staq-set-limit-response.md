@@ -2,5 +2,5 @@
 
 # StaqSetLimitResponse
 
-\
+[kotlin]\
 constructor(periodRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), typeRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), limit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), status: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

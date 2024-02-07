@@ -10,7 +10,7 @@ kotlin
 
 | | |
 |---|---|
-|  | [Api Reference](https://developer.finto.io/docs/apis/identity#/User%20management/Initiate%20password%20reset) |
+|  | [Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Initiate%20password%20reset) |
 
 #### Throws
 
@@ -22,4 +22,4 @@ kotlin
 
 | | |
 |---|---|
-| [PasswordRecoveryRequestParams](-password-recovery-request-params.md) | <br>constructor(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [PasswordRecoveryRequestParams](-password-recovery-request-params.md) | [kotlin]<br>constructor(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |

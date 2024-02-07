@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [GetCardByTokenRequest](-get-card-by-token-request/index.md) | <br>class [GetCardByTokenRequest](-get-card-by-token-request/index.md) |
+| [GetCardByTokenRequest](-get-card-by-token-request/index.md) | [kotlin]<br>class [GetCardByTokenRequest](-get-card-by-token-request/index.md) |

@@ -2,7 +2,7 @@
 
 # labelAr
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;LabelAr&quot;)
 

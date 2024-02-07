@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [TrustlessSDK](-trustless-s-d-k/index.md) | <br>class [TrustlessSDK](-trustless-s-d-k/index.md) |
+| [TrustlessSDK](-trustless-s-d-k/index.md) | [kotlin]<br>class [TrustlessSDK](-trustless-s-d-k/index.md) |

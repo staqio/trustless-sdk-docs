@@ -2,7 +2,7 @@
 
 # MapField
 
-\
+[kotlin]\
 @Serializable
 
 data class [MapField](index.md)(val Field: [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [Field](../-field/index.md)&gt;) : [FieldState](../-field-state/index.md)
@@ -11,10 +11,10 @@ data class [MapField](index.md)(val Field: [Map](https://kotlinlang.org/api/late
 
 | | |
 |---|---|
-| [MapField](-map-field.md) | <br>constructor(Field: [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [Field](../-field/index.md)&gt;) |
+| [MapField](-map-field.md) | [kotlin]<br>constructor(Field: [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [Field](../-field/index.md)&gt;) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [Field](-field.md) | <br>val [Field](-field.md): [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [Field](../-field/index.md)&gt; |
+| [Field](-field.md) | [kotlin]<br>val [Field](-field.md): [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [Field](../-field/index.md)&gt; |

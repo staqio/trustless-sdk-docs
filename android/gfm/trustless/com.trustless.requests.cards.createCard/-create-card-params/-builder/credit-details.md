@@ -2,5 +2,5 @@
 
 # creditDetails
 
-\
+[kotlin]\
 fun [creditDetails](credit-details.md)(creditDetails: [CreditDetails](../../-credit-details/index.md)?): [CreateCardParams.Builder](index.md)

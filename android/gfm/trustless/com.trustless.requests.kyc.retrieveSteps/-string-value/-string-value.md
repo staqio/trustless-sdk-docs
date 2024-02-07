@@ -2,5 +2,5 @@
 
 # StringValue
 
-\
+[kotlin]\
 constructor(value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

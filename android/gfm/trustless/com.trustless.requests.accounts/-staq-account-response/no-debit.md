@@ -2,7 +2,7 @@
 
 # noDebit
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;NoDebit&quot;)
 

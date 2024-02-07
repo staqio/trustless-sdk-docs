@@ -2,7 +2,7 @@
 
 # refreshToken
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;refresh_token&quot;)
 

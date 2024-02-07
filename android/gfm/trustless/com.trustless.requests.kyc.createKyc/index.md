@@ -6,5 +6,5 @@
 
 | Name | Summary |
 |---|---|
-| [CreateKYCRequest](-create-k-y-c-request/index.md) | <br>class [CreateKYCRequest](-create-k-y-c-request/index.md) |
-| [CreateKycResponse](-create-kyc-response/index.md) | <br>@Serializable<br>data class [CreateKycResponse](-create-kyc-response/index.md)(val KycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [CreateKYCRequest](-create-k-y-c-request/index.md) | [kotlin]<br>class [CreateKYCRequest](-create-k-y-c-request/index.md) |
+| [CreateKycResponse](-create-kyc-response/index.md) | [kotlin]<br>@Serializable<br>data class [CreateKycResponse](-create-kyc-response/index.md)(val KycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |

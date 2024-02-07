@@ -6,5 +6,5 @@
 
 | Name | Summary |
 |---|---|
-| [ResetPasswordRequest](-reset-password-request/index.md) | <br>class [ResetPasswordRequest](-reset-password-request/index.md) |
-| [ResetPasswordRequestParams](-reset-password-request-params/index.md) | <br>class [ResetPasswordRequestParams](-reset-password-request-params/index.md)(oldPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), newPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../com.trustless.params/-j-s-o-n-params-builder/index.md) |
+| [ResetPasswordRequest](-reset-password-request/index.md) | [kotlin]<br>class [ResetPasswordRequest](-reset-password-request/index.md) |
+| [ResetPasswordRequestParams](-reset-password-request-params/index.md) | [kotlin]<br>class [ResetPasswordRequestParams](-reset-password-request-params/index.md)(oldPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), newPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../com.trustless.params/-j-s-o-n-params-builder/index.md) |

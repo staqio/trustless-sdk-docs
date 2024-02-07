@@ -2,5 +2,5 @@
 
 # getSteps
 
-\
+[kotlin]\
 fun [getSteps](get-steps.md)(): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Page](../-page/index.md)&gt;

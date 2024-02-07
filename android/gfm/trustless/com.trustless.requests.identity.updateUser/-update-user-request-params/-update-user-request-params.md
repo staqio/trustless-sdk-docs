@@ -2,7 +2,7 @@
 
 # UpdateUserRequestParams
 
-\
+[kotlin]\
 constructor(firstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, lastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, phoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?)
 
 #### Parameters
@@ -11,4 +11,4 @@ kotlin
 
 | | |
 |---|---|
-|  | [Api Reference](https://developer.finto.io/docs/apis/identity#/User%20management/Update%20a%20user) |
+|  | [Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Update%20a%20user) |

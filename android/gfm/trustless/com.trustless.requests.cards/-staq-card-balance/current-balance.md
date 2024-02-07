@@ -2,7 +2,7 @@
 
 # currentBalance
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;CurrentBalance&quot;)
 

@@ -2,5 +2,5 @@
 
 # UrlQueryParamsPagination
 
-\
+[kotlin]\
 constructor(pageSize: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), pageNumber: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html))

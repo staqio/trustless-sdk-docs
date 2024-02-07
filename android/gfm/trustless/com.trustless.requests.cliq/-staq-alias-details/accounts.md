@@ -2,7 +2,7 @@
 
 # accounts
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;Accounts&quot;)
 

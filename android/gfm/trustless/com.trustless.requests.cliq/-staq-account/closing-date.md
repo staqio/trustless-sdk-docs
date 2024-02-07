@@ -2,7 +2,7 @@
 
 # closingDate
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;ClosingDate&quot;)
 

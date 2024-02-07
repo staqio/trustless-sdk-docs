@@ -2,5 +2,5 @@
 
 # TrustlessUserIsNotAuthorizedException
 
-\
+[kotlin]\
 constructor()

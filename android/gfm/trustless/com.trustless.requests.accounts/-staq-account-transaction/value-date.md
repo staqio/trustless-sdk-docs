@@ -2,7 +2,7 @@
 
 # valueDate
 
-\
+[kotlin]\
 
 @SerialName(value = &quot;ValueDate&quot;)
 

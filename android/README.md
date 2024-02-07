@@ -58,6 +58,8 @@ To use TrustlessSdk, you must first obtain a client certificate and credentials 
     }
 ```
 Optionally, customize the SDK initialization by adding your own `OkHttp` client to the `TrustlessConfiguration` as the last parameter for advanced networking configurations.
+
+
 # Basic Usage
 Interact with Staq APIs using the `TrustlessSDK` class. Here’s how to register a new user:
 

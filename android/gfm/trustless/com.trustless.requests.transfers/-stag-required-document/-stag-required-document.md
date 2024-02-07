@@ -2,5 +2,5 @@
 
 # StagRequiredDocument
 
-\
+[kotlin]\
 constructor(label: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), labelAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), isRequired: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html))

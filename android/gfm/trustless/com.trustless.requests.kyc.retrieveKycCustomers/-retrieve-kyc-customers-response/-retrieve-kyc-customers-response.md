@@ -2,5 +2,5 @@
 
 # RetrieveKycCustomersResponse
 
-\
+[kotlin]\
 constructor(KycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, CustomerId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, UserId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)

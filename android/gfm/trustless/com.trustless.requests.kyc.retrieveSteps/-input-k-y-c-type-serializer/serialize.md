@@ -2,5 +2,5 @@
 
 # serialize
 
-\
+[kotlin]\
 open override fun [serialize](serialize.md)(encoder: Encoder, value: [InputKYCType](../-input-k-y-c-type/index.md))

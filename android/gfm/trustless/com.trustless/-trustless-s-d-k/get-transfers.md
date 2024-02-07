@@ -2,10 +2,10 @@
 
 # getTransfers
 
-\
+[kotlin]\
 fun [getTransfers](get-transfers.md)(pageSize: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), currentPage: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 1, type: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, month: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null, year: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null): [Paginator](../../com.trustless.paginator/-paginator/index.md)&lt;[StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)&gt;
 
-[Api Reference](https://developer.finto.io/docs/apis/transfers#/Transfers/List%20all%20transfers)
+[Api Reference](https://developer.staq.io/docs/apis/transfers#/Transfers/List%20all%20transfers)
 
 #### Parameters
 

@@ -2,5 +2,5 @@
 
 # type
 
-\
+[kotlin]\
 val [type](type.md): [StaqCardLimitType](../-staq-card-limit-type/index.md)?

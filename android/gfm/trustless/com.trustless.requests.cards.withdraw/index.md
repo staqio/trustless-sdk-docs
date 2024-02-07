@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [WithdrawFromCardRequest](-withdraw-from-card-request/index.md) | <br>class [WithdrawFromCardRequest](-withdraw-from-card-request/index.md) |
+| [WithdrawFromCardRequest](-withdraw-from-card-request/index.md) | [kotlin]<br>class [WithdrawFromCardRequest](-withdraw-from-card-request/index.md) |
