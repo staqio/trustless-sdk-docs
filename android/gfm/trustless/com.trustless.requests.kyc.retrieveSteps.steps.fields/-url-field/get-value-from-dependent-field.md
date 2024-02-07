@@ -2,5 +2,5 @@
 
 # getValueFromDependentField
 
-[kotlin]\
+\
 fun [getValueFromDependentField](get-value-from-dependent-field.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?

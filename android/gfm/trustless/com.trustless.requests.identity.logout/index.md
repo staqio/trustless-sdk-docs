@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [LogoutRequest](-logout-request/index.md) | [kotlin]<br>class [LogoutRequest](-logout-request/index.md) |
+| [LogoutRequest](-logout-request/index.md) | <br>class [LogoutRequest](-logout-request/index.md) |

@@ -2,7 +2,7 @@
 
 # number
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Number&quot;)
 

@@ -2,7 +2,7 @@
 
 # ecommerce
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;ECommerce&quot;)
 

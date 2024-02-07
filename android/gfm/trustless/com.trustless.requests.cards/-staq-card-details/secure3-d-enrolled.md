@@ -2,7 +2,7 @@
 
 # secure3DEnrolled
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Secure3DEnrolled&quot;)
 

@@ -2,5 +2,5 @@
 
 # clientBuilder
 
-[kotlin]\
+\
 val [clientBuilder](client-builder.md): OkHttpClient.Builder

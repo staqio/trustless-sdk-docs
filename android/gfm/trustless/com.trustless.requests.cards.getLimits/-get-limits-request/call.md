@@ -2,5 +2,5 @@
 
 # call
 
-[kotlin]\
+\
 suspend fun [call](call.md)(): [StaqGetLimitResponse](../../com.trustless.requests.cards/-staq-get-limit-response/index.md)

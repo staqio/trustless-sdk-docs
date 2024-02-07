@@ -2,5 +2,5 @@
 
 # data
 
-[kotlin]\
+\
 val [data](data.md): [T](index.md)

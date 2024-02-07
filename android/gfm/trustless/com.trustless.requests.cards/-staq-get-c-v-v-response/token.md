@@ -2,7 +2,7 @@
 
 # token
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Token&quot;)
 

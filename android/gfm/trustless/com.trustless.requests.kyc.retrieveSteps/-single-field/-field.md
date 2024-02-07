@@ -2,5 +2,5 @@
 
 # Field
 
-[kotlin]\
+\
 val [Field](-field.md): [Field](../-field/index.md)

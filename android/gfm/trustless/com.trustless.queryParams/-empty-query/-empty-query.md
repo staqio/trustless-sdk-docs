@@ -2,5 +2,5 @@
 
 # EmptyQuery
 
-[kotlin]\
+\
 constructor()

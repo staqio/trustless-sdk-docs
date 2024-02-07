@@ -2,7 +2,7 @@
 
 # cardCurrencyAmount
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;CardCurrencyAmount&quot;)
 

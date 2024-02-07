@@ -2,5 +2,5 @@
 
 # call
 
-[kotlin]\
+\
 suspend fun [call](call.md)(params: [ResetPasswordRequestParams](../-reset-password-request-params/index.md))

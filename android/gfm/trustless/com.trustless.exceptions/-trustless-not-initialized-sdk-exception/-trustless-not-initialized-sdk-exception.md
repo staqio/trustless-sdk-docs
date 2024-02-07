@@ -2,5 +2,5 @@
 
 # TrustlessNotInitializedSdkException
 
-[kotlin]\
+\
 constructor()

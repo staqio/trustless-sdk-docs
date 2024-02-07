@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [GetAccountByAccountNumber](-get-account-by-account-number/index.md) | [kotlin]<br>class [GetAccountByAccountNumber](-get-account-by-account-number/index.md) |
+| [GetAccountByAccountNumber](-get-account-by-account-number/index.md) | <br>class [GetAccountByAccountNumber](-get-account-by-account-number/index.md) |

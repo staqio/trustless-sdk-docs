@@ -2,5 +2,5 @@
 
 # call
 
-[kotlin]\
+\
 suspend fun [call](call.md)(): [StaqTransferResponse](../-staq-transfer-response/index.md)

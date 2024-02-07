@@ -2,5 +2,5 @@
 
 # call
 
-[kotlin]\
+\
 suspend fun [call](call.md)(): [StaqGetPanResponse](../../com.trustless.requests.cards/-staq-get-pan-response/index.md)

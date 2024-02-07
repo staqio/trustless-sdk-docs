@@ -2,5 +2,5 @@
 
 # validations
 
-[kotlin]\
+\
 val [validations](validations.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Validation](../-validation/index.md)&gt;

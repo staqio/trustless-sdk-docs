@@ -2,7 +2,7 @@
 
 # label
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Label&quot;)
 

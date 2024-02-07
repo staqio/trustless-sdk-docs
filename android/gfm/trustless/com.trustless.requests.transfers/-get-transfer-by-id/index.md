@@ -2,11 +2,11 @@
 
 # GetTransferById
 
-[kotlin]\
+\
 class [GetTransferById](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(): [StaqTransferResponse](../-staq-transfer-response/index.md) |
+| [call](call.md) | <br>suspend fun [call](call.md)(): [StaqTransferResponse](../-staq-transfer-response/index.md) |

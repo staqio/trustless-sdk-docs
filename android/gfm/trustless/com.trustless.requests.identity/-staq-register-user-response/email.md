@@ -2,7 +2,7 @@
 
 # email
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Email&quot;)
 

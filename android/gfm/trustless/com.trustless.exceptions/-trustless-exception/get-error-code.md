@@ -2,5 +2,5 @@
 
 # getErrorCode
 
-[kotlin]\
+\
 fun [getErrorCode](get-error-code.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

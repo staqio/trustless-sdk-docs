@@ -2,5 +2,5 @@
 
 # minLength
 
-[kotlin]\
+\
 val [minLength](min-length.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null

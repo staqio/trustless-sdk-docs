@@ -2,5 +2,5 @@
 
 # serialize
 
-[kotlin]\
+\
 open override fun [serialize](serialize.md)(encoder: Encoder, value: [FieldState](../-field-state/index.md))

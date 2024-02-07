@@ -2,5 +2,5 @@
 
 # source
 
-[kotlin]\
+\
 open override val [source](source.md): [InputKYCType](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/index.md)

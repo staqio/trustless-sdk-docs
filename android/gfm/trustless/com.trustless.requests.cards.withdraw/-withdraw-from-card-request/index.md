@@ -2,11 +2,11 @@
 
 # WithdrawFromCardRequest
 
-[kotlin]\
+\
 class [WithdrawFromCardRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(params: [TopUpCardParams](../../com.trustless.requests.cards.topUp/-top-up-card-params/index.md)): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqCardBalance](../../com.trustless.requests.cards/-staq-card-balance/index.md)&gt; |
+| [call](call.md) | <br>suspend fun [call](call.md)(params: [TopUpCardParams](../../com.trustless.requests.cards.topUp/-top-up-card-params/index.md)): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqCardBalance](../../com.trustless.requests.cards/-staq-card-balance/index.md)&gt; |

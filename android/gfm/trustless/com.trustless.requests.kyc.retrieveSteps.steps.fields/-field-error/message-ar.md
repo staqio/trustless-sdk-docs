@@ -2,5 +2,5 @@
 
 # messageAr
 
-[kotlin]\
+\
 val [messageAr](message-ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

@@ -2,7 +2,7 @@
 
 # address
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Address&quot;)
 

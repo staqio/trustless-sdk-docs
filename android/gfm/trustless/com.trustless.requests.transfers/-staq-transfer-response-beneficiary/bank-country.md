@@ -2,7 +2,7 @@
 
 # bankCountry
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;BankCountry&quot;)
 

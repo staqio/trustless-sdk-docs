@@ -2,5 +2,5 @@
 
 # getCurrentValueAr
 
-[kotlin]\
+\
 fun [getCurrentValueAr](get-current-value-ar.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

@@ -2,7 +2,7 @@
 
 # localCurrencyAmount
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;LocalCurrencyAmount&quot;)
 

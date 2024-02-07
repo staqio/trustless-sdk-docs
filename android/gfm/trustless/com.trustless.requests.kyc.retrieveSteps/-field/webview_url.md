@@ -2,5 +2,5 @@
 
 # webview_url
 
-[kotlin]\
+\
 val [webview_url](webview_url.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

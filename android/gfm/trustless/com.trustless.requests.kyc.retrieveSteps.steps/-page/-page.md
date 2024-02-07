@@ -2,5 +2,5 @@
 
 # Page
 
-[kotlin]\
+\
 constructor(pageResponse: [RetrieveStep](../../com.trustless.requests.kyc.retrieveSteps/-retrieve-step/index.md), sourceFields: [SourceFieldsMap](../-source-fields-map/index.md))

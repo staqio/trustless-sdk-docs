@@ -15,4 +15,4 @@ interface [QueryParams](index.md)
 
 | Name | Summary |
 |---|---|
-| [getQuery](get-query.md) | [kotlin]<br>abstract fun [getQuery](get-query.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [getQuery](get-query.md) | <br>abstract fun [getQuery](get-query.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |

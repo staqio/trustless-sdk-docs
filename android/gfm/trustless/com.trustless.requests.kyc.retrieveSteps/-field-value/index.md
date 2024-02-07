@@ -18,4 +18,4 @@ abstract class [FieldValue](index.md)
 
 | | |
 |---|---|
-| [FieldValue](-field-value.md) | [kotlin]<br>constructor() |
+| [FieldValue](-field-value.md) | <br>constructor() |

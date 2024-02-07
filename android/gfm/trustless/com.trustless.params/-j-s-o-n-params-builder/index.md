@@ -31,10 +31,10 @@ open class [JSONParamsBuilder](index.md) : ParamsBuilder
 
 | | |
 |---|---|
-| [JSONParamsBuilder](-j-s-o-n-params-builder.md) | [kotlin]<br>constructor() |
+| [JSONParamsBuilder](-j-s-o-n-params-builder.md) | <br>constructor() |
 
 ## Types
 
 | Name | Summary |
 |---|---|
-| [Companion](-companion/index.md) | [kotlin]<br>object [Companion](-companion/index.md) |
+| [Companion](-companion/index.md) | <br>object [Companion](-companion/index.md) |

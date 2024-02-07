@@ -2,5 +2,5 @@
 
 # currentPage
 
-[kotlin]\
+\
 val [currentPage](current-page.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)

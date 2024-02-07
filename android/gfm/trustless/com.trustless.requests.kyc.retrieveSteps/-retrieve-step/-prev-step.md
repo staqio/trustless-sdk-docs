@@ -2,5 +2,5 @@
 
 # PrevStep
 
-[kotlin]\
+\
 val [PrevStep](-prev-step.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

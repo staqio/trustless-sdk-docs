@@ -2,7 +2,7 @@
 
 # cardHolderName
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;CardHolderName&quot;)
 

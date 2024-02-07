@@ -2,5 +2,5 @@
 
 # getTransferById
 
-[kotlin]\
+\
 suspend fun [getTransferById](get-transfer-by-id.md)(transferId: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)): [StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)

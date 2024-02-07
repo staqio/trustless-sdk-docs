@@ -2,5 +2,5 @@
 
 # TrustlessPageSizeException
 
-[kotlin]\
+\
 constructor()

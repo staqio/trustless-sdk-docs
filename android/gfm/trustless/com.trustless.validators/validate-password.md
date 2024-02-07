@@ -2,5 +2,5 @@
 
 # validatePassword
 
-[kotlin]\
+\
 fun [validatePassword](validate-password.md)(password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

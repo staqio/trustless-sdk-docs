@@ -2,5 +2,5 @@
 
 # userWasAuthenticated
 
-[kotlin]\
+\
 suspend fun [userWasAuthenticated](user-was-authenticated.md)()

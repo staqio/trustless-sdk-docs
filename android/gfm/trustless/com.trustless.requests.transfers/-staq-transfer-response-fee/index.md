@@ -2,7 +2,7 @@
 
 # StaqTransferResponseFee
 
-[kotlin]\
+\
 @Serializable
 
 data class [StaqTransferResponseFee](index.md)(val amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
@@ -11,11 +11,11 @@ data class [StaqTransferResponseFee](index.md)(val amount: [Double](https://kotl
 
 | | |
 |---|---|
-| [StaqTransferResponseFee](-staq-transfer-response-fee.md) | [kotlin]<br>constructor(amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [StaqTransferResponseFee](-staq-transfer-response-fee.md) | <br>constructor(amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [amount](amount.md) | [kotlin]<br>@SerialName(value = &quot;Amount&quot;)<br>val [amount](amount.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) |
-| [currency](currency.md) | [kotlin]<br>@SerialName(value = &quot;Currency&quot;)<br>val [currency](currency.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [amount](amount.md) | <br>@SerialName(value = &quot;Amount&quot;)<br>val [amount](amount.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) |
+| [currency](currency.md) | <br>@SerialName(value = &quot;Currency&quot;)<br>val [currency](currency.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |

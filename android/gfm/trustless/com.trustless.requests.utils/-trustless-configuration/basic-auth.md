@@ -2,5 +2,5 @@
 
 # basicAuth
 
-[kotlin]\
+\
 val [basicAuth](basic-auth.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

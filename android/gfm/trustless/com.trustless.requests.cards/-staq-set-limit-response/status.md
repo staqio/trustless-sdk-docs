@@ -2,7 +2,7 @@
 
 # status
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Status&quot;)
 

@@ -2,7 +2,7 @@
 
 # iban
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Iban&quot;)
 

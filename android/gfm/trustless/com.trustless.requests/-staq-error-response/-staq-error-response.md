@@ -2,5 +2,5 @@
 
 # StaqErrorResponse
 
-[kotlin]\
+\
 constructor(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), requestId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), dateTime: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

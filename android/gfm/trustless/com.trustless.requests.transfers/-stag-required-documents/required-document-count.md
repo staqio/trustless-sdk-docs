@@ -2,7 +2,7 @@
 
 # requiredDocumentCount
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;RequiredDocumentCount&quot;)
 

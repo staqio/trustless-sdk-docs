@@ -2,5 +2,5 @@
 
 # status
 
-[kotlin]\
+\
 val [status](status.md): [StaqStatusType](../-staq-status-type/index.md)?

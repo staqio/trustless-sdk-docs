@@ -2,7 +2,7 @@
 
 # isDocumentsRequired
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;IsDocumentsRequired&quot;)
 

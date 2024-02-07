@@ -14,16 +14,16 @@ open class [FormUrlParamsBuilder](index.md) : ParamsBuilder
 
 | | |
 |---|---|
-| [FormUrlParamsBuilder](-form-url-params-builder.md) | [kotlin]<br>constructor() |
+| [FormUrlParamsBuilder](-form-url-params-builder.md) | <br>constructor() |
 
 ## Types
 
 | Name | Summary |
 |---|---|
-| [Companion](-companion/index.md) | [kotlin]<br>object [Companion](-companion/index.md) |
+| [Companion](-companion/index.md) | <br>object [Companion](-companion/index.md) |
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [put](put.md) | [kotlin]<br>fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [put](put.md) | <br>fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |

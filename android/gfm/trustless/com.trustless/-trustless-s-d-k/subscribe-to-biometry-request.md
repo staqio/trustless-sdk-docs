@@ -2,5 +2,5 @@
 
 # subscribeToBiometryRequest
 
-[kotlin]\
+\
 fun [subscribeToBiometryRequest](subscribe-to-biometry-request.md)(listener: () -&gt; [Unit](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html))

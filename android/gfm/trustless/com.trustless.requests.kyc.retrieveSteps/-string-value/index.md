@@ -2,7 +2,7 @@
 
 # StringValue
 
-[kotlin]\
+\
 @Serializable
 
 data class [StringValue](index.md)(val value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [FieldValue](../-field-value/index.md)
@@ -11,10 +11,10 @@ data class [StringValue](index.md)(val value: [String](https://kotlinlang.org/ap
 
 | | |
 |---|---|
-| [StringValue](-string-value.md) | [kotlin]<br>constructor(value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [StringValue](-string-value.md) | <br>constructor(value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [value](value.md) | [kotlin]<br>val [value](value.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [value](value.md) | <br>val [value](value.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |

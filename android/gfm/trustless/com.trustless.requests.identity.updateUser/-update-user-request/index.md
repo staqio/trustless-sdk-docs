@@ -2,11 +2,11 @@
 
 # UpdateUserRequest
 
-[kotlin]\
+\
 class [UpdateUserRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(params: [UpdateUserRequestParams](../-update-user-request-params/index.md)): [StaqRetrieveUserResponse](../../com.trustless.requests.identity/-staq-retrieve-user-response/index.md) |
+| [call](call.md) | <br>suspend fun [call](call.md)(params: [UpdateUserRequestParams](../-update-user-request-params/index.md)): [StaqRetrieveUserResponse](../../com.trustless.requests.identity/-staq-retrieve-user-response/index.md) |

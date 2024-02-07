@@ -2,5 +2,5 @@
 
 # call
 
-[kotlin]\
+\
 suspend fun [call](call.md)(params: [UserTokenRequestParams](../-user-token-request-params/index.md)): [StaqUserTokenResponse](../../com.trustless.requests.identity/-staq-user-token-response/index.md)

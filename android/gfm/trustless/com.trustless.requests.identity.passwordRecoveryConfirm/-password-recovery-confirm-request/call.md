@@ -2,5 +2,5 @@
 
 # call
 
-[kotlin]\
+\
 suspend fun [call](call.md)(params: [PasswordRecoveryConfirmRequestParams](../-password-recovery-confirm-request-params/index.md))

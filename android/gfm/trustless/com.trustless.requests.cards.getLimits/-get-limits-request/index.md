@@ -2,11 +2,11 @@
 
 # GetLimitsRequest
 
-[kotlin]\
+\
 class [GetLimitsRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(): [StaqGetLimitResponse](../../com.trustless.requests.cards/-staq-get-limit-response/index.md) |
+| [call](call.md) | <br>suspend fun [call](call.md)(): [StaqGetLimitResponse](../../com.trustless.requests.cards/-staq-get-limit-response/index.md) |

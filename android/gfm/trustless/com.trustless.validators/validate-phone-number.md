@@ -2,5 +2,5 @@
 
 # validatePhoneNumber
 
-[kotlin]\
+\
 fun [validatePhoneNumber](validate-phone-number.md)(number: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

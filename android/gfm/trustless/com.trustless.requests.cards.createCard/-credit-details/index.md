@@ -16,4 +16,4 @@ Optional Parameter for [CreateCardParams](../-create-card-params/index.md) class
 
 | | |
 |---|---|
-| [CreditDetails](-credit-details.md) | [kotlin]<br>constructor(accountNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)) |
+| [CreditDetails](-credit-details.md) | <br>constructor(accountNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)) |

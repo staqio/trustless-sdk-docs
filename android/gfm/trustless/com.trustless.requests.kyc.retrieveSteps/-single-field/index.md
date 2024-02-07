@@ -2,7 +2,7 @@
 
 # SingleField
 
-[kotlin]\
+\
 @Serializable
 
 data class [SingleField](index.md)(val Field: [Field](../-field/index.md)) : [FieldState](../-field-state/index.md)
@@ -11,10 +11,10 @@ data class [SingleField](index.md)(val Field: [Field](../-field/index.md)) : [Fi
 
 | | |
 |---|---|
-| [SingleField](-single-field.md) | [kotlin]<br>constructor(Field: [Field](../-field/index.md)) |
+| [SingleField](-single-field.md) | <br>constructor(Field: [Field](../-field/index.md)) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [Field](-field.md) | [kotlin]<br>val [Field](-field.md): [Field](../-field/index.md) |
+| [Field](-field.md) | <br>val [Field](-field.md): [Field](../-field/index.md) |

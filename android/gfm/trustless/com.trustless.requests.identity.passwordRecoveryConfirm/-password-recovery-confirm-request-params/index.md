@@ -16,4 +16,4 @@ class [PasswordRecoveryConfirmRequestParams](index.md)(email: [String](https://k
 
 | | |
 |---|---|
-| [PasswordRecoveryConfirmRequestParams](-password-recovery-confirm-request-params.md) | [kotlin]<br>constructor(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [PasswordRecoveryConfirmRequestParams](-password-recovery-confirm-request-params.md) | <br>constructor(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |

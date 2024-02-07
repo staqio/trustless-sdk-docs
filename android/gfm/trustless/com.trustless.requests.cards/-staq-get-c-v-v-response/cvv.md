@@ -2,7 +2,7 @@
 
 # cvv
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;CVV&quot;)
 

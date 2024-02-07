@@ -2,5 +2,5 @@
 
 # getArrayValue
 
-[kotlin]\
+\
 fun [getArrayValue](get-array-value.md)(): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[File](https://developer.android.com/reference/kotlin/java/io/File.html)&gt;

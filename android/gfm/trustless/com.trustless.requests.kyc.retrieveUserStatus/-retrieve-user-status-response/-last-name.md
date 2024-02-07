@@ -2,5 +2,5 @@
 
 # LastName
 
-[kotlin]\
+\
 val [LastName](-last-name.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

@@ -2,5 +2,5 @@
 
 # TrustlessAccountNameException
 
-[kotlin]\
+\
 constructor()

@@ -2,5 +2,5 @@
 
 # DocumentCode
 
-[kotlin]\
+\
 val [DocumentCode](-document-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null

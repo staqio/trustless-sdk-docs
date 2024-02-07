@@ -2,5 +2,5 @@
 
 # SourceFieldsMap
 
-[kotlin]\
+\
 constructor()

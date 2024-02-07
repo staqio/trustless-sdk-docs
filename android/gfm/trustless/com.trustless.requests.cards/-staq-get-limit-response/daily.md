@@ -2,7 +2,7 @@
 
 # daily
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Daily&quot;)
 

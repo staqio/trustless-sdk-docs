@@ -2,7 +2,7 @@
 
 # transactionAmountLimit
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;TransactionAmountLimit&quot;)
 

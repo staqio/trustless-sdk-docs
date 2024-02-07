@@ -2,7 +2,7 @@
 
 # message
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Message&quot;)
 

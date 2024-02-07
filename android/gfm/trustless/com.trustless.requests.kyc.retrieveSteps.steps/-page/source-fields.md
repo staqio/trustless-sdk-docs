@@ -2,5 +2,5 @@
 
 # sourceFields
 
-[kotlin]\
+\
 val [sourceFields](source-fields.md): [SourceFieldsMap](../-source-fields-map/index.md)

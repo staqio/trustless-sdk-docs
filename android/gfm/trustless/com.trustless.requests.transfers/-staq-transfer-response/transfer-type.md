@@ -2,7 +2,7 @@
 
 # transferType
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;TransferType&quot;)
 

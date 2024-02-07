@@ -2,7 +2,7 @@
 
 # pan
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;PAN&quot;)
 

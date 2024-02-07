@@ -22,4 +22,4 @@ kotlin
 
 | | |
 |---|---|
-| [ResetPasswordRequestParams](-reset-password-request-params.md) | [kotlin]<br>constructor(oldPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), newPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [ResetPasswordRequestParams](-reset-password-request-params.md) | <br>constructor(oldPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), newPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |

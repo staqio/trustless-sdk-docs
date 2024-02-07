@@ -2,5 +2,5 @@
 
 # KycIdSimulateParams
 
-[kotlin]\
+\
 constructor()

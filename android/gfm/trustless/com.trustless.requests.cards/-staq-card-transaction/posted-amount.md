@@ -2,7 +2,7 @@
 
 # postedAmount
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;PostedAmount&quot;)
 

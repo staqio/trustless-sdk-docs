@@ -2,5 +2,5 @@
 
 # isAbleToLogInUsingBiometry
 
-[kotlin]\
+\
 fun [isAbleToLogInUsingBiometry](is-able-to-log-in-using-biometry.md)(): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)

@@ -2,5 +2,5 @@
 
 # TrustlessRootDetectedException
 
-[kotlin]\
+\
 constructor()

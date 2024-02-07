@@ -2,5 +2,5 @@
 
 # validateAccountName
 
-[kotlin]\
+\
 fun [validateAccountName](validate-account-name.md)(name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

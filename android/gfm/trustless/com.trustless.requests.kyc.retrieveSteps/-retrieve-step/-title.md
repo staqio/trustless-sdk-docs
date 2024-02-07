@@ -2,5 +2,5 @@
 
 # Title
 
-[kotlin]\
+\
 val [Title](-title.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

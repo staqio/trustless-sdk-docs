@@ -2,7 +2,7 @@
 
 # exchangeRate
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;ExchangeRate&quot;)
 

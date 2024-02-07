@@ -2,7 +2,7 @@
 
 # requiredDocumentsList
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;RequiredDocumentsList&quot;)
 

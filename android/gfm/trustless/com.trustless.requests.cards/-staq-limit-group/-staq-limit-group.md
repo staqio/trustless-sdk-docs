@@ -2,5 +2,5 @@
 
 # StaqLimitGroup
 
-[kotlin]\
+\
 constructor(cash: [StaqLimitEntry](../-staq-limit-entry/index.md), ecommerce: [StaqLimitEntry](../-staq-limit-entry/index.md))

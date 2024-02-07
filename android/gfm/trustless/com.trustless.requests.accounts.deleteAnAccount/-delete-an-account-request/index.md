@@ -2,11 +2,11 @@
 
 # DeleteAnAccountRequest
 
-[kotlin]\
+\
 class [DeleteAnAccountRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)() |
+| [call](call.md) | <br>suspend fun [call](call.md)() |

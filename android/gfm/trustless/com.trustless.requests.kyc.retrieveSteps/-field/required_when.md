@@ -2,5 +2,5 @@
 
 # required_when
 
-[kotlin]\
+\
 val [required_when](required_when.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[RequiredWhen](../-required-when/index.md)&gt;

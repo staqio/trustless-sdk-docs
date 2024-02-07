@@ -2,5 +2,5 @@
 
 # call
 
-[kotlin]\
+\
 suspend fun [call](call.md)(params: [CreateInternalTransferParams](../-create-internal-transfer-params/index.md)): [StaqTransferResponse](../-staq-transfer-response/index.md)

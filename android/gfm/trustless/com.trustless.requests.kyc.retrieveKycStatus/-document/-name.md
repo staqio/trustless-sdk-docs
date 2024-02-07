@@ -2,5 +2,5 @@
 
 # Name
 
-[kotlin]\
+\
 val [Name](-name.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null

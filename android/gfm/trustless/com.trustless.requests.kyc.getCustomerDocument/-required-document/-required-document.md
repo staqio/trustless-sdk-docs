@@ -2,5 +2,5 @@
 
 # RequiredDocument
 
-[kotlin]\
+\
 constructor(Label: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), LabelAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), Code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

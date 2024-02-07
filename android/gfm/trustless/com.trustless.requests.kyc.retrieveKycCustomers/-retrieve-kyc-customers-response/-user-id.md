@@ -2,5 +2,5 @@
 
 # UserId
 
-[kotlin]\
+\
 val [UserId](-user-id.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null

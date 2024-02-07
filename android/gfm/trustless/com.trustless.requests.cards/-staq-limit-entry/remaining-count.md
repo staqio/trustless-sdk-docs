@@ -2,7 +2,7 @@
 
 # remainingCount
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;RemainingCount&quot;)
 

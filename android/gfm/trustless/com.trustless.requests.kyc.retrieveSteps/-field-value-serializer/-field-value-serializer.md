@@ -2,5 +2,5 @@
 
 # FieldValueSerializer
 
-[kotlin]\
+\
 constructor()

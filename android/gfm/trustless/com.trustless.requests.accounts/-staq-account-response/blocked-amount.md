@@ -2,7 +2,7 @@
 
 # blockedAmount
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;BlockedAmount&quot;)
 

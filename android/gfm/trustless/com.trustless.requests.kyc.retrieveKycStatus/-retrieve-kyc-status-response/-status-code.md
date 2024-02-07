@@ -2,5 +2,5 @@
 
 # StatusCode
 
-[kotlin]\
+\
 val [StatusCode](-status-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

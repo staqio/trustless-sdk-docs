@@ -2,7 +2,7 @@
 
 # type
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Type&quot;)
 

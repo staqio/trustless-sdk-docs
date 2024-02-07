@@ -2,5 +2,5 @@
 
 # instance
 
-[kotlin]\
+\
 val [instance](instance.md): [TrustlessSDK](../index.md)

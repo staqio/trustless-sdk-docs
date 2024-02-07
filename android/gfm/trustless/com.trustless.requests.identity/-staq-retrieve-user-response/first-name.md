@@ -2,7 +2,7 @@
 
 # firstName
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;FirstName&quot;)
 

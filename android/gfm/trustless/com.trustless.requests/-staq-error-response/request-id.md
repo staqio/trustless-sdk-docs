@@ -2,7 +2,7 @@
 
 # requestId
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;RequestId&quot;)
 

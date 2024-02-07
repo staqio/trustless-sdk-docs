@@ -2,5 +2,5 @@
 
 # countryCode
 
-[kotlin]\
+\
 val [countryCode](country-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

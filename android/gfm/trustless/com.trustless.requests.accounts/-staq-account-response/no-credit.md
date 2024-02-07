@@ -2,7 +2,7 @@
 
 # noCredit
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;NoCredit&quot;)
 

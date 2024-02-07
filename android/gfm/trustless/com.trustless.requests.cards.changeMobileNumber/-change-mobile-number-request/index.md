@@ -2,11 +2,11 @@
 
 # ChangeMobileNumberRequest
 
-[kotlin]\
+\
 class [ChangeMobileNumberRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(params: [ChangeMobileNumberParams](../-change-mobile-number-params/index.md)): [StaqChangeMobileNumberResponse](../../com.trustless.requests.cards/-staq-change-mobile-number-response/index.md) |
+| [call](call.md) | <br>suspend fun [call](call.md)(params: [ChangeMobileNumberParams](../-change-mobile-number-params/index.md)): [StaqChangeMobileNumberResponse](../../com.trustless.requests.cards/-staq-change-mobile-number-response/index.md) |

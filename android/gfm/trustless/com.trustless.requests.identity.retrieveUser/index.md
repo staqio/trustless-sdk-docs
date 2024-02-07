@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [RetrieveUserRequest](-retrieve-user-request/index.md) | [kotlin]<br>class [RetrieveUserRequest](-retrieve-user-request/index.md) |
+| [RetrieveUserRequest](-retrieve-user-request/index.md) | <br>class [RetrieveUserRequest](-retrieve-user-request/index.md) |

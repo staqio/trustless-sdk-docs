@@ -2,29 +2,29 @@
 
 # PlainTextParamsBuilder
 
-[kotlin]\
+\
 class [PlainTextParamsBuilder](index.md) : ParamsBuilder
 
 ## Constructors
 
 | | |
 |---|---|
-| [PlainTextParamsBuilder](-plain-text-params-builder.md) | [kotlin]<br>constructor() |
+| [PlainTextParamsBuilder](-plain-text-params-builder.md) | <br>constructor() |
 
 ## Types
 
 | Name | Summary |
 |---|---|
-| [Companion](-companion/index.md) | [kotlin]<br>object [Companion](-companion/index.md) |
+| [Companion](-companion/index.md) | <br>object [Companion](-companion/index.md) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [text](text.md) | [kotlin]<br>var [text](text.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [text](text.md) | <br>var [text](text.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [putText](put-text.md) | [kotlin]<br>fun [putText](put-text.md)(newText: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [putText](put-text.md) | <br>fun [putText](put-text.md)(newText: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |

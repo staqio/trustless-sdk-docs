@@ -2,5 +2,5 @@
 
 # builder
 
-[kotlin]\
+\
 val [builder](builder.md): MultipartBody.Builder

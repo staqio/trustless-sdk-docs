@@ -2,7 +2,7 @@
 
 # branch
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Branch&quot;)
 

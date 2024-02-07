@@ -2,7 +2,7 @@
 
 # RequiredWhen
 
-[kotlin]\
+\
 @Serializable
 
 data class [RequiredWhen](index.md)(val operation: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, val value: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[RequiredWhenValue](../-required-when-value/index.md)&gt;)
@@ -11,11 +11,11 @@ data class [RequiredWhen](index.md)(val operation: [String](https://kotlinlang.o
 
 | | |
 |---|---|
-| [RequiredWhen](-required-when.md) | [kotlin]<br>constructor(operation: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, value: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[RequiredWhenValue](../-required-when-value/index.md)&gt;) |
+| [RequiredWhen](-required-when.md) | <br>constructor(operation: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, value: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[RequiredWhenValue](../-required-when-value/index.md)&gt;) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [operation](operation.md) | [kotlin]<br>val [operation](operation.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null |
-| [value](value.md) | [kotlin]<br>val [value](value.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[RequiredWhenValue](../-required-when-value/index.md)&gt; |
+| [operation](operation.md) | <br>val [operation](operation.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null |
+| [value](value.md) | <br>val [value](value.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[RequiredWhenValue](../-required-when-value/index.md)&gt; |

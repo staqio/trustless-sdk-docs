@@ -2,7 +2,7 @@
 
 # chargeTypeCode
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;ChargeTypeCode&quot;)
 

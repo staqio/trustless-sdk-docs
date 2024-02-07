@@ -2,7 +2,7 @@
 
 # timestamp
 
-[kotlin]\
+\
 
 @SerialName(value = &quot;Timestamp&quot;)
 

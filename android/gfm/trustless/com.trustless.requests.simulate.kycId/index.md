@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [KycIdSimulateParams](-kyc-id-simulate-params/index.md) | [kotlin]<br>class [KycIdSimulateParams](-kyc-id-simulate-params/index.md) : [JSONParamsBuilder](../com.trustless.params/-j-s-o-n-params-builder/index.md) |
+| [KycIdSimulateParams](-kyc-id-simulate-params/index.md) | <br>class [KycIdSimulateParams](-kyc-id-simulate-params/index.md) : [JSONParamsBuilder](../com.trustless.params/-j-s-o-n-params-builder/index.md) |
