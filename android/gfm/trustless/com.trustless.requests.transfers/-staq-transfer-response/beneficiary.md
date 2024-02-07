@@ -2,7 +2,7 @@
 
 # beneficiary
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;Beneficiary&quot;)
 

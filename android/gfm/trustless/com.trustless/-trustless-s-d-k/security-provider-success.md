@@ -2,5 +2,5 @@
 
 # securityProviderSuccess
 
-[]\
+[kotlin]\
 suspend fun [securityProviderSuccess](security-provider-success.md)()

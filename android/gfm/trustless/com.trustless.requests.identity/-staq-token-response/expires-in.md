@@ -2,7 +2,7 @@
 
 # expiresIn
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;expires_in&quot;)
 

@@ -2,5 +2,5 @@
 
 # call
 
-[]\
+[kotlin]\
 suspend fun [call](call.md)(): [GetCustomerDocumentsResponse](../-get-customer-documents-response/index.md)

@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [GetCVVRequest](-get-c-v-v-request/index.md) | []<br>class [GetCVVRequest](-get-c-v-v-request/index.md) |
+| [GetCVVRequest](-get-c-v-v-request/index.md) | [kotlin]<br>class [GetCVVRequest](-get-c-v-v-request/index.md) |

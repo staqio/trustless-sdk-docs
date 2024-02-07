@@ -2,5 +2,5 @@
 
 # onFailure
 
-[]\
+[kotlin]\
 abstract fun [onFailure](on-failure.md)(exception: [TrustlessException](../../com.trustless.exceptions/-trustless-exception/index.md))

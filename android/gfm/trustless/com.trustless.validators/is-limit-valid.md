@@ -2,5 +2,5 @@
 
 # isLimitValid
 
-[]\
+[kotlin]\
 fun [isLimitValid](is-limit-valid.md)(limit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)

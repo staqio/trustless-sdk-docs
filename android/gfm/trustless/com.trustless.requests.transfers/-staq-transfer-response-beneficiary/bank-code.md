@@ -2,7 +2,7 @@
 
 # bankCode
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;BankCode&quot;)
 

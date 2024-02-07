@@ -2,7 +2,7 @@
 
 # annual
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;Annual&quot;)
 

@@ -6,5 +6,5 @@
 
 | Name | Summary |
 |---|---|
-| [PasswordRecoveryRequest](-password-recovery-request/index.md) | []<br>class [PasswordRecoveryRequest](-password-recovery-request/index.md) |
-| [PasswordRecoveryRequestParams](-password-recovery-request-params/index.md) | []<br>class [PasswordRecoveryRequestParams](-password-recovery-request-params/index.md)(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../com.trustless.params/-j-s-o-n-params-builder/index.md) |
+| [PasswordRecoveryRequest](-password-recovery-request/index.md) | [kotlin]<br>class [PasswordRecoveryRequest](-password-recovery-request/index.md) |
+| [PasswordRecoveryRequestParams](-password-recovery-request-params/index.md) | [kotlin]<br>class [PasswordRecoveryRequestParams](-password-recovery-request-params/index.md)(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../com.trustless.params/-j-s-o-n-params-builder/index.md) |

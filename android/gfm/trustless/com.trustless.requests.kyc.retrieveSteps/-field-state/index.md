@@ -18,4 +18,4 @@ abstract class [FieldState](index.md)
 
 | | |
 |---|---|
-| [FieldState](-field-state.md) | []<br>constructor() |
+| [FieldState](-field-state.md) | [kotlin]<br>constructor() |

@@ -2,7 +2,7 @@
 
 # BooleanValue
 
-[]\
+[kotlin]\
 @Serializable
 
 data class [BooleanValue](index.md)(val value: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)) : [FieldValue](../-field-value/index.md)
@@ -11,10 +11,10 @@ data class [BooleanValue](index.md)(val value: [Boolean](https://kotlinlang.org/
 
 | | |
 |---|---|
-| [BooleanValue](-boolean-value.md) | []<br>constructor(value: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)) |
+| [BooleanValue](-boolean-value.md) | [kotlin]<br>constructor(value: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [value](value.md) | []<br>val [value](value.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html) |
+| [value](value.md) | [kotlin]<br>val [value](value.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html) |

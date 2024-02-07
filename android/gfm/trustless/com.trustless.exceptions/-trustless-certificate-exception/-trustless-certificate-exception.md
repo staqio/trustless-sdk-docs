@@ -2,5 +2,5 @@
 
 # TrustlessCertificateException
 
-[]\
+[kotlin]\
 constructor(reason: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

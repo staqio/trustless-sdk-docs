@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [GetLimitsRequest](-get-limits-request/index.md) | []<br>class [GetLimitsRequest](-get-limits-request/index.md) |
+| [GetLimitsRequest](-get-limits-request/index.md) | [kotlin]<br>class [GetLimitsRequest](-get-limits-request/index.md) |

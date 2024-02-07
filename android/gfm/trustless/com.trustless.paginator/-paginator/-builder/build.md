@@ -2,5 +2,5 @@
 
 # build
 
-[]\
+[kotlin]\
 fun [build](build.md)(): [Paginator](../index.md)&lt;[T](index.md)&gt;

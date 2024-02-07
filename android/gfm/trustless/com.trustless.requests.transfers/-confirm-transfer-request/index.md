@@ -2,11 +2,11 @@
 
 # ConfirmTransferRequest
 
-[]\
+[kotlin]\
 class [ConfirmTransferRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | []<br>suspend fun [call](call.md)(params: [ConfirmTransferParams](../-confirm-transfer-params/index.md)? = null): [StaqTransferResponse](../-staq-transfer-response/index.md) |
+| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(params: [ConfirmTransferParams](../-confirm-transfer-params/index.md)? = null): [StaqTransferResponse](../-staq-transfer-response/index.md) |

@@ -2,7 +2,7 @@
 
 # StaqChangeMobileNumberResponse
 
-[]\
+[kotlin]\
 @Serializable
 
 data class [StaqChangeMobileNumberResponse](index.md)(val mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
@@ -11,10 +11,10 @@ data class [StaqChangeMobileNumberResponse](index.md)(val mobileNumber: [String]
 
 | | |
 |---|---|
-| [StaqChangeMobileNumberResponse](-staq-change-mobile-number-response.md) | []<br>constructor(mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [StaqChangeMobileNumberResponse](-staq-change-mobile-number-response.md) | [kotlin]<br>constructor(mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [mobileNumber](mobile-number.md) | []<br>@SerialName(value = &quot;MobileNumber&quot;)<br>val [mobileNumber](mobile-number.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [mobileNumber](mobile-number.md) | [kotlin]<br>@SerialName(value = &quot;MobileNumber&quot;)<br>val [mobileNumber](mobile-number.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |

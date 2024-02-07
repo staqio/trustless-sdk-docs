@@ -2,5 +2,5 @@
 
 # RetrieveUserStatusResponse
 
-[]\
+[kotlin]\
 constructor(Username: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), Email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), FirstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), LastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), PhoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))

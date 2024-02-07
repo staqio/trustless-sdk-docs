@@ -2,7 +2,7 @@
 
 # merchantName
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;MerchantName&quot;)
 

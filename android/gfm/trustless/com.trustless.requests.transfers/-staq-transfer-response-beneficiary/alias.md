@@ -2,7 +2,7 @@
 
 # alias
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;Alias&quot;)
 

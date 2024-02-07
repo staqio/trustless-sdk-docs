@@ -2,5 +2,5 @@
 
 # GetOnlyActiveCardsRequestUrlQueryParams
 
-[]\
+[kotlin]\
 constructor()

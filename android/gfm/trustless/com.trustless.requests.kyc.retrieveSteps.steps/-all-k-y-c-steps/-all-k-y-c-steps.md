@@ -2,5 +2,5 @@
 
 # AllKYCSteps
 
-[]\
+[kotlin]\
 constructor(steps: [RetrieveStepsResponse](../../com.trustless.requests.kyc.retrieveSteps/-retrieve-steps-response/index.md), sourceFields: [SourceFieldsMap](../-source-fields-map/index.md))

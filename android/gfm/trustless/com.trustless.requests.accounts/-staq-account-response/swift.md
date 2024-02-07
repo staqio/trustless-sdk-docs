@@ -2,7 +2,7 @@
 
 # swift
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;SWIFT&quot;)
 

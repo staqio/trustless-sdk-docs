@@ -2,7 +2,7 @@
 
 # CreateKycResponse
 
-[]\
+[kotlin]\
 @Serializable
 
 data class [CreateKycResponse](index.md)(val KycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
@@ -11,10 +11,10 @@ data class [CreateKycResponse](index.md)(val KycId: [String](https://kotlinlang.
 
 | | |
 |---|---|
-| [CreateKycResponse](-create-kyc-response.md) | []<br>constructor(KycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [CreateKycResponse](-create-kyc-response.md) | [kotlin]<br>constructor(KycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [KycId](-kyc-id.md) | []<br>val [KycId](-kyc-id.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [KycId](-kyc-id.md) | [kotlin]<br>val [KycId](-kyc-id.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |

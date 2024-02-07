@@ -2,7 +2,7 @@
 
 # merchantCity
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;MerchantCity&quot;)
 

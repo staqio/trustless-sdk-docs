@@ -2,5 +2,5 @@
 
 # text
 
-[]\
+[kotlin]\
 var [text](text.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

@@ -2,7 +2,7 @@
 
 # debitCreditIndicator
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;DebitCreditIndicator&quot;)
 

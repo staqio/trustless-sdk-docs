@@ -2,5 +2,5 @@
 
 # clear
 
-[]\
+[kotlin]\
 fun [clear](clear.md)()

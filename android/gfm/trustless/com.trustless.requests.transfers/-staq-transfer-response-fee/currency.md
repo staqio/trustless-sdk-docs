@@ -2,7 +2,7 @@
 
 # currency
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;Currency&quot;)
 

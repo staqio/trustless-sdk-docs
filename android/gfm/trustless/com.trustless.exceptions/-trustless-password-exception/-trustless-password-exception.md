@@ -2,5 +2,5 @@
 
 # TrustlessPasswordException
 
-[]\
+[kotlin]\
 constructor()

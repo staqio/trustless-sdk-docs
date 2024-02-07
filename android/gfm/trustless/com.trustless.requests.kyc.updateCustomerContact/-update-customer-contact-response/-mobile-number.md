@@ -2,5 +2,5 @@
 
 # MobileNumber
 
-[]\
+[kotlin]\
 val [MobileNumber](-mobile-number.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)

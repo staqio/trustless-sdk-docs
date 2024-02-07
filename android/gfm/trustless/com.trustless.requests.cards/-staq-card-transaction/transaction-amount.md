@@ -2,7 +2,7 @@
 
 # transactionAmount
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;TransactionAmount&quot;)
 

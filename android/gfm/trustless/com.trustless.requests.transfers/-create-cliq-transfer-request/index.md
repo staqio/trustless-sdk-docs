@@ -2,11 +2,11 @@
 
 # CreateCliqTransferRequest
 
-[]\
+[kotlin]\
 class [CreateCliqTransferRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | []<br>suspend fun [call](call.md)(params: [CreateCliqTransferParams](../-create-cliq-transfer-params/index.md)): [StaqTransferResponse](../-staq-transfer-response/index.md) |
+| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(params: [CreateCliqTransferParams](../-create-cliq-transfer-params/index.md)): [StaqTransferResponse](../-staq-transfer-response/index.md) |

@@ -2,5 +2,5 @@
 
 # TrustlessServerException
 
-[]\
+[kotlin]\
 constructor(response: Response)

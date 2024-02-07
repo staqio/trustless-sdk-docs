@@ -2,5 +2,5 @@
 
 # SingleFieldWrapper
 
-[]\
+[kotlin]\
 constructor(field: [FieldManager](../-field-manager/index.md))

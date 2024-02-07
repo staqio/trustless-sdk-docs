@@ -2,7 +2,7 @@
 
 # cardCurrencyISO
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;CardCurrencyISO&quot;)
 

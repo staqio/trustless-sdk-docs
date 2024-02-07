@@ -2,5 +2,5 @@
 
 # updateForm
 
-[]\
+[kotlin]\
 fun [updateForm](update-form.md)()

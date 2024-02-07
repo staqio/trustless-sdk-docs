@@ -2,7 +2,7 @@
 
 # fees
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;Fees&quot;)
 

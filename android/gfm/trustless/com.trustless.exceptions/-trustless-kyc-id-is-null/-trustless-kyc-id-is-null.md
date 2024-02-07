@@ -2,5 +2,5 @@
 
 # TrustlessKycIdIsNull
 
-[]\
+[kotlin]\
 constructor()

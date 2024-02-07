@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [UserRefreshTokenRequest](-user-refresh-token-request/index.md) | []<br>class [UserRefreshTokenRequest](-user-refresh-token-request/index.md) |
+| [UserRefreshTokenRequest](-user-refresh-token-request/index.md) | [kotlin]<br>class [UserRefreshTokenRequest](-user-refresh-token-request/index.md) |

@@ -2,5 +2,5 @@
 
 # TrustlessMobileNumberException
 
-[]\
+[kotlin]\
 constructor()

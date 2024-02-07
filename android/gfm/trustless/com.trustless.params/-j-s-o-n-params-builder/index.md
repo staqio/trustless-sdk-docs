@@ -31,16 +31,10 @@ open class [JSONParamsBuilder](index.md) : ParamsBuilder
 
 | | |
 |---|---|
-| [JSONParamsBuilder](-j-s-o-n-params-builder.md) | []<br>constructor() |
+| [JSONParamsBuilder](-j-s-o-n-params-builder.md) | [kotlin]<br>constructor() |
 
 ## Types
 
 | Name | Summary |
 |---|---|
-| [Companion](-companion/index.md) | []<br>object [Companion](-companion/index.md) |
-
-## Functions
-
-| Name | Summary |
-|---|---|
-| [put](put.md) | []<br>fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [JSONParamsBuilder](index.md))<br>fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html))<br>fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)) |
+| [Companion](-companion/index.md) | [kotlin]<br>object [Companion](-companion/index.md) |

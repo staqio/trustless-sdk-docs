@@ -2,7 +2,7 @@
 
 # source
 
-[]\
+[kotlin]\
 
 @Serializable(with = [InputKYCTypeSerializer::class](../-input-k-y-c-type-serializer/index.md))
 

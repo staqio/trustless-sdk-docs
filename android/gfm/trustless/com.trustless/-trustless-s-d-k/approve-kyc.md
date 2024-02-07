@@ -2,5 +2,5 @@
 
 # approveKyc
 
-[]\
+[kotlin]\
 suspend fun [approveKyc](approve-kyc.md)()

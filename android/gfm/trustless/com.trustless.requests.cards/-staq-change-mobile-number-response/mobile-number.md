@@ -2,7 +2,7 @@
 
 # mobileNumber
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;MobileNumber&quot;)
 

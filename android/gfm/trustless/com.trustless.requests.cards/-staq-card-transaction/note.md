@@ -2,7 +2,7 @@
 
 # note
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;Note&quot;)
 

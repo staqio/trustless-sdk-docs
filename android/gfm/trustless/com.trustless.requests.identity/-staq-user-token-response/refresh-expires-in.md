@@ -2,7 +2,7 @@
 
 # refreshExpiresIn
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;refresh_expires_in&quot;)
 

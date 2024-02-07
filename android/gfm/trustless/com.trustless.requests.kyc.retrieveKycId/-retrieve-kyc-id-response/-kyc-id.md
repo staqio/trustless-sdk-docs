@@ -2,5 +2,5 @@
 
 # KycId
 
-[]\
+[kotlin]\
 val [KycId](-kyc-id.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null

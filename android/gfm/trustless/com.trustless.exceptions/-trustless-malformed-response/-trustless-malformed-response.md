@@ -2,5 +2,5 @@
 
 # TrustlessMalformedResponse
 
-[]\
+[kotlin]\
 constructor(response: Response)

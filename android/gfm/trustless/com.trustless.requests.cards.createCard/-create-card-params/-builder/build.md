@@ -2,5 +2,5 @@
 
 # build
 
-[]\
+[kotlin]\
 fun [build](build.md)(): [CreateCardParams](../index.md)

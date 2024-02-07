@@ -2,11 +2,11 @@
 
 # RegisterUserRequest
 
-[]\
+[kotlin]\
 class [RegisterUserRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | []<br>suspend fun [call](call.md)(paramsBuilder: [RegisterUserRequestParams](../-register-user-request-params/index.md)): [StaqRegisterUserResponse](../../com.trustless.requests.identity/-staq-register-user-response/index.md) |
+| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(paramsBuilder: [RegisterUserRequestParams](../-register-user-request-params/index.md)): [StaqRegisterUserResponse](../../com.trustless.requests.identity/-staq-register-user-response/index.md) |

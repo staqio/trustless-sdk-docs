@@ -2,7 +2,7 @@
 
 # resetPassword
 
-[]\
+[kotlin]\
 suspend fun [resetPassword](reset-password.md)(params: [PasswordRecoveryRequestParams](../../com.trustless.requests.identity.passwordRecovery/-password-recovery-request-params/index.md))
 
 [Api Reference](https://developer.finto.io/docs/apis/identity#/User%20management/Initiate%20password%20reset)

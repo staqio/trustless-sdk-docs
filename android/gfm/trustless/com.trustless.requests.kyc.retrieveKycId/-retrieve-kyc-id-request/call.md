@@ -2,5 +2,5 @@
 
 # call
 
-[]\
+[kotlin]\
 suspend fun [call](call.md)(): [RetrieveKycIdResponse](../-retrieve-kyc-id-response/index.md)

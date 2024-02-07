@@ -2,5 +2,5 @@
 
 # call
 
-[]\
+[kotlin]\
 suspend fun [call](call.md)(params: [CreateCliqParams](../-create-cliq-params/index.md)): [StaqCreateAlias](../-staq-create-alias/index.md)

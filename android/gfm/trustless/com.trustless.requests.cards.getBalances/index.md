@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [GetBalancesRequest](-get-balances-request/index.md) | []<br>class [GetBalancesRequest](-get-balances-request/index.md) |
+| [GetBalancesRequest](-get-balances-request/index.md) | [kotlin]<br>class [GetBalancesRequest](-get-balances-request/index.md) |

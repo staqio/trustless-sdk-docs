@@ -2,7 +2,7 @@
 
 # purposeCode
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;PurposeCode&quot;)
 

@@ -2,5 +2,5 @@
 
 # call
 
-[]\
+[kotlin]\
 suspend fun [call](call.md)(params: [ConfirmTransferParams](../-confirm-transfer-params/index.md)? = null): [StaqTransferResponse](../-staq-transfer-response/index.md)

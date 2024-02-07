@@ -2,7 +2,7 @@
 
 # requiredDocumentsRaw
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;RequiredDocuments&quot;)
 

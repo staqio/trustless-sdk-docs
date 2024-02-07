@@ -2,11 +2,11 @@
 
 # GetCardByTokenRequest
 
-[]\
+[kotlin]\
 class [GetCardByTokenRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | []<br>suspend fun [call](call.md)(): [StaqCardDetails](../../com.trustless.requests.cards/-staq-card-details/index.md) |
+| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(): [StaqCardDetails](../../com.trustless.requests.cards/-staq-card-details/index.md) |

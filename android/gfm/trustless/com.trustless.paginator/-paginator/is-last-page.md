@@ -2,5 +2,5 @@
 
 # isLastPage
 
-[]\
+[kotlin]\
 fun [isLastPage](is-last-page.md)(): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)

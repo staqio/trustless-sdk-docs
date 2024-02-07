@@ -2,5 +2,5 @@
 
 # requestAndResponseModule
 
-[]\
+[kotlin]\
 val [requestAndResponseModule](request-and-response-module.md): SerializersModule

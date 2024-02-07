@@ -2,5 +2,5 @@
 
 # validateMonth
 
-[]\
+[kotlin]\
 fun [validateMonth](validate-month.md)(month: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html))

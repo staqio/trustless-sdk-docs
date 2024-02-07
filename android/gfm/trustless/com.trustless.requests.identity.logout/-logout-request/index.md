@@ -2,11 +2,11 @@
 
 # LogoutRequest
 
-[]\
+[kotlin]\
 class [LogoutRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | []<br>suspend fun [call](call.md)() |
+| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)() |

@@ -2,10 +2,12 @@
 
 # ResetPasswordRequestParams
 
-[]\
+[kotlin]\
 constructor(oldPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), newPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
 
 #### Parameters
+
+kotlin
 
 | | |
 |---|---|

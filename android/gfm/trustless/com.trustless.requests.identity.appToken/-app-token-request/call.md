@@ -2,5 +2,5 @@
 
 # call
 
-[]\
+[kotlin]\
 suspend fun [call](call.md)(): [StaqTokenResponse](../../com.trustless.requests.identity/-staq-token-response/index.md)

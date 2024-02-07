@@ -2,5 +2,5 @@
 
 # currentPage
 
-[]\
+[kotlin]\
 fun [currentPage](current-page.md)(currentPage: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)): [Paginator.Builder](index.md)&lt;[T](index.md)&gt;

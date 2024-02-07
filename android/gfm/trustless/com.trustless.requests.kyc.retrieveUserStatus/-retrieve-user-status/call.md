@@ -2,5 +2,5 @@
 
 # call
 
-[]\
+[kotlin]\
 suspend fun [call](call.md)(): [RetrieveUserStatusResponse](../-retrieve-user-status-response/index.md)

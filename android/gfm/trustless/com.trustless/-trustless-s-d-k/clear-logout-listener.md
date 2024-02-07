@@ -2,5 +2,5 @@
 
 # clearLogoutListener
 
-[]\
+[kotlin]\
 fun [clearLogoutListener](clear-logout-listener.md)()

@@ -2,5 +2,5 @@
 
 # call
 
-[]\
+[kotlin]\
 suspend fun [call](call.md)(params: [MultiPartParamsBuilder](../../com.trustless.params/-multi-part-params-builder/index.md)): [CreateKycResponse](../-create-kyc-response/index.md)

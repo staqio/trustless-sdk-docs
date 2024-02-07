@@ -2,5 +2,5 @@
 
 # SetLimitsParams
 
-[]\
+[kotlin]\
 constructor(period: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), cashLimit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)?, eCommerceLimit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)?)

@@ -2,7 +2,7 @@
 
 # transferNote
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;TransferNote&quot;)
 

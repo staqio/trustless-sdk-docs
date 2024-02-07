@@ -2,11 +2,11 @@
 
 # RetrieveStepsRequest
 
-[]\
+[kotlin]\
 class [RetrieveStepsRequest](index.md)
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | []<br>suspend fun [call](call.md)(): [RetrieveStepsResponse](../-retrieve-steps-response/index.md) |
+| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(): [RetrieveStepsResponse](../-retrieve-steps-response/index.md) |

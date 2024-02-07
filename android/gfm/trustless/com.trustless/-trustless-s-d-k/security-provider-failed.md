@@ -2,5 +2,5 @@
 
 # securityProviderFailed
 
-[]\
+[kotlin]\
 suspend fun [securityProviderFailed](security-provider-failed.md)()

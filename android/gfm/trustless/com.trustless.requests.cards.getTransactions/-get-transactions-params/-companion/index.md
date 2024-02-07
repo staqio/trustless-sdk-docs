@@ -2,5 +2,5 @@
 
 # Companion
 
-[]\
+[kotlin]\
 object [Companion](index.md)

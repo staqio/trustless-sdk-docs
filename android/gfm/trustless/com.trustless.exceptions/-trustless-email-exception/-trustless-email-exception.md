@@ -2,5 +2,5 @@
 
 # TrustlessEmailException
 
-[]\
+[kotlin]\
 constructor()

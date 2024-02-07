@@ -2,5 +2,5 @@
 
 # getJSON
 
-[]\
+[kotlin]\
 fun [getJSON](get-j-s-o-n.md)(): [JSONObject](https://developer.android.com/reference/kotlin/org/json/JSONObject.html)

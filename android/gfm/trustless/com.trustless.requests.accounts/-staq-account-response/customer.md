@@ -2,7 +2,7 @@
 
 # customer
 
-[]\
+[kotlin]\
 
 @SerialName(value = &quot;Customer&quot;)
 
