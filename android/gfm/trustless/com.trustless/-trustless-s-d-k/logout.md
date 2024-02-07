@@ -1,0 +1,8 @@
+//[trustless](../../../index.md)/[com.trustless](../index.md)/[TrustlessSDK](index.md)/[logout](logout.md)
+
+# logout
+
+[]\
+suspend fun [logout](logout.md)()
+
+[Api Reference](https://developer.finto.io/docs/apis/identity#/Authentication/Logout%20User) This endpoint is used to invalidate the token, and to remove the data of the current user from the memory.

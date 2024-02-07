@@ -1,0 +1,6 @@
+//[trustless](../../../index.md)/[com.trustless.requests.kyc.retrieveSteps.steps](../index.md)/[SourceFieldsMap](index.md)/[getFileOrNull](get-file-or-null.md)
+
+# getFileOrNull
+
+[]\
+fun [getFileOrNull](get-file-or-null.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [File](https://developer.android.com/reference/kotlin/java/io/File.html)?

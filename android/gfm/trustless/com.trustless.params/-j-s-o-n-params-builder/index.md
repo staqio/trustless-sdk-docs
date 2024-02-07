@@ -1,0 +1,46 @@
+//[trustless](../../../index.md)/[com.trustless.params](../index.md)/[JSONParamsBuilder](index.md)
+
+# JSONParamsBuilder
+
+open class [JSONParamsBuilder](index.md) : ParamsBuilder
+
+#### Inheritors
+
+| |
+|---|
+| [CreateAnAccountParams](../../com.trustless.requests.accounts.createAnAccount/-create-an-account-params/index.md) |
+| [ChangeCardStatusParams](../../com.trustless.requests.cards.changeCardStatus/-change-card-status-params/index.md) |
+| [ChangeMobileNumberParams](../../com.trustless.requests.cards.changeMobileNumber/-change-mobile-number-params/index.md) |
+| [CreditDetails](../../com.trustless.requests.cards.createCard/-credit-details/index.md) |
+| [CreateCardParams](../../com.trustless.requests.cards.createCard/-create-card-params/index.md) |
+| [SetLimitsParams](../../com.trustless.requests.cards.setLimits/-set-limits-params/index.md) |
+| [TopUpCardParams](../../com.trustless.requests.cards.topUp/-top-up-card-params/index.md) |
+| [CreateCliqParams](../../com.trustless.requests.cliq/-create-cliq-params/index.md) |
+| [PasswordRecoveryRequestParams](../../com.trustless.requests.identity.passwordRecovery/-password-recovery-request-params/index.md) |
+| [PasswordRecoveryConfirmRequestParams](../../com.trustless.requests.identity.passwordRecoveryConfirm/-password-recovery-confirm-request-params/index.md) |
+| [RegisterUserRequestParams](../../com.trustless.requests.identity.registerUser/-register-user-request-params/index.md) |
+| [ResetPasswordRequestParams](../../com.trustless.requests.identity.resetPassword/-reset-password-request-params/index.md) |
+| [UpdateUserRequestParams](../../com.trustless.requests.identity.updateUser/-update-user-request-params/index.md) |
+| [UpdateCustomerContactParams](../../com.trustless.requests.kyc.updateCustomerContact/-update-customer-contact-params/index.md) |
+| [KycIdSimulateParams](../../com.trustless.requests.simulate.kycId/-kyc-id-simulate-params/index.md) |
+| [SetBalanceParams](../../com.trustless.requests.simulate.setBalance/-set-balance-params/index.md) |
+| [CreateCliqTransferParams](../../com.trustless.requests.transfers/-create-cliq-transfer-params/index.md) |
+| [CreateInternalTransferParams](../../com.trustless.requests.transfers/-create-internal-transfer-params/index.md) |
+
+## Constructors
+
+| | |
+|---|---|
+| [JSONParamsBuilder](-j-s-o-n-params-builder.md) | []<br>constructor() |
+
+## Types
+
+| Name | Summary |
+|---|---|
+| [Companion](-companion/index.md) | []<br>object [Companion](-companion/index.md) |
+
+## Functions
+
+| Name | Summary |
+|---|---|
+| [put](put.md) | []<br>fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [JSONParamsBuilder](index.md))<br>fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html))<br>fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)) |
