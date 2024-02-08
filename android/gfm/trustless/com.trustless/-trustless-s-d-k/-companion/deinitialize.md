@@ -4,3 +4,5 @@
 
 [kotlin]\
 fun [deinitialize](deinitialize.md)()
+
+Cleans up the SDK's allocated resources and resets its state. This function should be called when the SDK is no longer needed, typically at the application's shutdown.

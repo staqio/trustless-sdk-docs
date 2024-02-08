@@ -88,6 +88,48 @@ lifecycleScope.launch {
         }
 }
 ```
+## Deinitialization
+To ensure efficient memory management and clean up resources utilized by the Trustless SDK, incorporate the following code snippet when the SDK is no longer needed, typically during the shutdown or cleanup phase of your application:
+```kotlin
+TrustlessSDK.deinitialize()
+```
+### Managing User Logout
+#### Clearing User Data
+To securely remove user-specific data from memory, utilize the `logout` method provided by the Trustless SDK. This method is essential for maintaining user privacy and security by ensuring that sensitive information is not retained in memory longer than necessary.
+
+#### Handling Token Expiration
+
+The Trustless SDK provides a mechanism to detect and respond to the expiration of a user's authentication token. When the token expires, subsequent API requests will fail. To handle this scenario gracefully, register a logout listener as follows:
+
+```kotlin 
+TrustlessSDK.instance.setLogoutListener {
+    lifecycleScope.launch {
+        try {
+            showLoader()
+            TrustlessSDK.instance.logout()
+            requireActivity().viewModelStore.clear()
+        } catch (e: TrustlessException) {
+            showToast(e.message)
+        } finally {
+            hideLoader()
+            findNavController().popBackStack(R.id.navigation_start, false)
+        }
+    }
+}
+```
+This listener ensures that you can perform necessary cleanup and UI updates when a logout is initiated, either manually or due to token expiration.
+
+#### Unregistering the Logout Listener
+To prevent potential memory leaks and ensure that callbacks do not occur after a user has logged out or when your UI component (such as a Fragment or Activity) is destroyed, unregister the logout listener. This is particularly important in Android applications to manage lifecycle events effectively:
+```kotlin
+override fun onDestroyView() {
+    super.onDestroyView()
+    TrustlessSDK.instance.clearLogoutListener()
+}
+```
+Place this code in the `onDestroyView` method of your Fragment or the `onDestroy` method of your Activity to ensure the listener is removed at the appropriate time in the lifecycle.
+
+
 
 # API Reference
 [API](gfm/index.md)

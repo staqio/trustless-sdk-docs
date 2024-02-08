@@ -24,7 +24,5 @@ class [Page](index.md)(pageResponse: [RetrieveStep](../../com.trustless.requests
 
 | Name | Summary |
 |---|---|
-| [getStructuredFields](get-structured-fields.md) | [kotlin]<br>fun [getStructuredFields](get-structured-fields.md)(): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[FieldWrapper](../../com.trustless.requests.kyc.retrieveSteps.steps.wrapper/-field-wrapper/index.md)&gt; |
 | [isKyc](is-kyc.md) | [kotlin]<br>fun [isKyc](is-kyc.md)(): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html) |
-| [updateForm](update-form.md) | [kotlin]<br>fun [updateForm](update-form.md)() |
 | [validate](validate.md) | [kotlin]<br>fun [validate](validate.md)(): [ArrayList](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-array-list/index.html)&lt;[FieldManager](../../com.trustless.requests.kyc.retrieveSteps.steps.wrapper/-field-manager/index.md)&gt; |
