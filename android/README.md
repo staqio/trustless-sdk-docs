@@ -14,7 +14,7 @@ To add TrustlessSdk to your project, update your build configuration as follows:
 ```kotlin
     repositories {
         maven {
-            url = uri("...")
+            url = uri("https://repo.staq.io/repository/trustless-sdk/")
         }
     }
 ```
