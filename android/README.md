@@ -128,7 +128,28 @@ override fun onDestroyView() {
 }
 ```
 Place this code in the `onDestroyView` method of your Fragment or the `onDestroy` method of your Activity to ensure the listener is removed at the appropriate time in the lifecycle.
+## Biometry
+To enable biometric authentication within your application, follow the steps outlined below. This process ensures a secure and user-friendly authentication experience:
 
+Initiate the login process by calling `login` on the `TrustlessSDK` instance, setting the `useBiometry` option to `true`:
+```kotlin
+val params = UserTokenRequestParams(
+                    usernameEditText.getTextString(),
+                    passwordEditText.getTextString()
+                )
+TrustlessSDK.instance.login(params, true)
+```
+To handle biometry requests from the SDK, subscribe to biometry requests using `subscribeToBiometryRequest`. Inside this subscription, implement the logic to prompt the user for biometric authentication:
+```kotlin
+TrustlessSDK.instance.subscribeToBiometryRequest {
+    // Implement the prompt for biometric authentication here.
+}
+```
+After the user successfully completes the biometric authentication, notify the SDK by calling `userWasAuthenticated`. This step is crucial for resuming any pending requests that require authentication confirmation:
+```kotlin
+TrustlessSDK.instance.userWasAuthenticated()
+```
+**`Note`**: The SDK automatically checks the biometry status during requests. If biometric authentication is necessary, it will pause the current request. To continue, you must invoke `TrustlessSDK.instance.userWasAuthenticated()` after the user passes the biometric check.
 
 # Miscellaneous
 ## KYC ID and Customer ID
@@ -147,6 +168,8 @@ To clear the cache, including stored KYC and customer IDs, use the following met
 ```kotlin
 TrustlessSDK.instance.logout()
 ```
+
+
 
 # API Reference
 [API](gfm/index.md)
