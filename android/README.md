@@ -101,7 +101,7 @@ To securely remove user-specific data from memory, utilize the `logout` method p
 
 The Trustless SDK provides a mechanism to detect and respond to the expiration of a user's authentication token. When the token expires, subsequent API requests will fail. To handle this scenario gracefully, register a logout listener as follows:
 
-```kotlin 
+```kotlin
 TrustlessSDK.instance.setLogoutListener {
     lifecycleScope.launch {
         try {
@@ -130,6 +130,23 @@ override fun onDestroyView() {
 Place this code in the `onDestroyView` method of your Fragment or the `onDestroy` method of your Activity to ensure the listener is removed at the appropriate time in the lifecycle.
 
 
+# Miscellaneous
+## KYC ID and Customer ID
+To obtain the KYC ID use:
+```kotlin
+TrustlessSDK.instance.retrieveCustomerId()
+```
+
+For acquiring the unique identifier associated with a customer, execute:
+```kotlin
+TrustlessSDK.instance.retrieveKycId()
+```
+Both identifiers are fetched as needed and stored in the cache to minimize redundant network requests and optimize performance.
+
+To clear the cache, including stored KYC and customer IDs, use the following method:
+```kotlin
+TrustlessSDK.instance.logout()
+```
 
 # API Reference
 [API](gfm/index.md)
