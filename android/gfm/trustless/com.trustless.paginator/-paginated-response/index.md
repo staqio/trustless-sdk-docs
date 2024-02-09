@@ -2,14 +2,21 @@
 
 # PaginatedResponse
 
-[kotlin]\
-data class [PaginatedResponse](index.md)&lt;[T](index.md)&gt;(val data: [T](index.md), val totalPages: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), val pageSize: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), val currentPage: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html))
+data class [PaginatedResponse](index.md)&lt;[T](index.md)&gt;
 
-## Constructors
+Represents a paginated response from the server, encapsulating the returned data along with pagination details.
+
+#### Parameters
+
+kotlin
 
 | | |
 |---|---|
-| [PaginatedResponse](-paginated-response.md) | [kotlin]<br>constructor(data: [T](index.md), totalPages: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), pageSize: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), currentPage: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)) |
+| T | The type of data contained in the response. |
+| data | The data returned from the server for the current page. |
+| totalPages | The total number of pages available. |
+| pageSize | The number of items per page. |
+| currentPage | The index of the current page, starting from 1. |
 
 ## Properties
 

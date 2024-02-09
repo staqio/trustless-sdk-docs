@@ -7,6 +7,10 @@ fun [getAccounts](get-accounts.md)(pageSize: [Int](https://kotlinlang.org/api/la
 
 [Api Reference](https://developer.staq.io/docs/apis/accounts#/Accounts/List%20all%20customer's%20accounts)
 
+#### Return
+
+A [com.trustless.paginator.Paginator](../../com.trustless.paginator/-paginator/index.md) instance configured to manage the pagination of [com.trustless.requests.accounts.StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md) objects.
+
 #### Parameters
 
 kotlin
