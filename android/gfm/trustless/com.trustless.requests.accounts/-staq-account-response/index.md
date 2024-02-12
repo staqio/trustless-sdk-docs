@@ -2,10 +2,32 @@
 
 # StaqAccountResponse
 
-[kotlin]\
 @Serializable
 
 data class [StaqAccountResponse](index.md)(val branch: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val number: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val typeRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val alternateNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, val name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val iban: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val swift: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val bankName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val customer: [StaqCustomer](../-staq-customer/index.md), val currencyCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val noDebit: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html), val noCredit: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html), val dormant: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html), val currentBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val localCurrencyCurrentBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val blockedAmount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) = 0.0, val availableBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html))
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| branch | The code of the Bank branch that holds the account |
+| number | Number |
+| alternateNumber | Alternate account number |
+| name | Account name |
+| iban | Account IBAN |
+| swift | SWIFT code |
+| bankName | Bank name |
+| customer | Customer data object |
+| currencyCode | The ISO 3 chars code of the account currency |
+| noDebit | The indication that account debit is prohibited |
+| noCredit | The indication that account credit is prohibited |
+| dormant | The indication that account is dormant |
+| currentBalance | Account current balance in the account currency |
+| localCurrencyCurrentBalance | Account current balance in JOD |
+| blockedAmount | Account blocked amount in the account currency |
+| availableBalance | Account available balance in the account currency |
 
 ## Constructors
 

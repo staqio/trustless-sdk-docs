@@ -2,10 +2,21 @@
 
 # StaqPurpose
 
-[kotlin]\
 @Serializable
 
 data class [StaqPurpose](index.md)(val purposeCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val purposeCodeLabelAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val purposeCodeLabelEn: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+Purpose object
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| purposeCode | Purpose code |
+| purposeCodeLabelAr | Purpose code name in Arabic |
+| purposeCodeLabelEn | Purpose code name in English |
 
 ## Constructors
 

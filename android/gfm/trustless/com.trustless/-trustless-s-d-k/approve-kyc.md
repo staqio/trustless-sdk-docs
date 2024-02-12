@@ -5,4 +5,6 @@
 [kotlin]\
 suspend fun [approveKyc](approve-kyc.md)()
 
-[Api Reference](https://developer.staq.io/docs/apis/simulation#/KYC/Update%20KYC%20Status) This function will work only on dev server, and is used to update kyc
+Update status of customer by kycId (DEV ONLY)
+
+[Server Api Reference](https://developer.staq.io/docs/apis/simulation#/KYC/Update%20KYC%20Status)

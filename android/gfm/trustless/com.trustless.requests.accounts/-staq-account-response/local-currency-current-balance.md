@@ -7,3 +7,11 @@
 @SerialName(value = &quot;LocalCurrencyCurrentBalance&quot;)
 
 val [localCurrencyCurrentBalance](local-currency-current-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| localCurrencyCurrentBalance | Account current balance in JOD |

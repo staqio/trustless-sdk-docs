@@ -4,6 +4,18 @@
 
 class [PasswordRecoveryConfirmRequestParams](index.md)(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
+[Server Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Confirm%20password%20reset)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| email | Email of the application user |
+| code | OTP code |
+| password | New password of the application user |
+
 #### Throws
 
 | |

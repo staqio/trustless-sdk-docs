@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessPhoneNumberException](index.md) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
 
+This error is thrown when number length isn't between 4 and 16, or the phone doesn't follow this regex ^\+0-9*\$
+
 ## Constructors
 
 | | |

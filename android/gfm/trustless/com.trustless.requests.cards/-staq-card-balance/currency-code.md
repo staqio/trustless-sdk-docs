@@ -7,3 +7,11 @@
 @SerialName(value = &quot;CurrencyCode&quot;)
 
 val [currencyCode](currency-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| currencyCode | Currency code of the card |

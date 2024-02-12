@@ -11,4 +11,6 @@ kotlin
 
 | | |
 |---|---|
-|  | [Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Update%20a%20user) |
+| firstName | First name of the application user |
+| lastName | Last name of the application user |
+| phoneNumber | Phone number of the application user. Should start from a + (plus), no zero as a first digit is allowed. |

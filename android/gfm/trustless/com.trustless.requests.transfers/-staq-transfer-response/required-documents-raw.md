@@ -7,3 +7,11 @@
 @SerialName(value = &quot;RequiredDocuments&quot;)
 
 val [requiredDocumentsRaw](required-documents-raw.md): [StagRequiredDocuments](../-stag-required-documents/index.md)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| requiredDocumentsRaw | Object with required documents |

@@ -7,3 +7,11 @@
 @SerialName(value = &quot;Customer&quot;)
 
 val [customer](customer.md): [StaqCustomer](../-staq-customer/index.md)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| customer | Customer data object |

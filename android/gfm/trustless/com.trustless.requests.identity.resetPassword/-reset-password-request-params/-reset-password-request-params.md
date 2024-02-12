@@ -11,4 +11,5 @@ kotlin
 
 | | |
 |---|---|
-|  | [Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Set%20password) |
+| oldPassword | Current password of the application user |
+| newPassword | New password of the application user |

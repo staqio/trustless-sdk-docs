@@ -5,4 +5,14 @@
 [kotlin]\
 suspend fun [getTransferById](get-transfer-by-id.md)(transferId: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)): [StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)
 
-[Api Reference](https://developer.staq.io/docs/apis/transfers#/Transfers/List%20all%20transfers)
+Retrieves details on the single transfer identified by transferId
+
+[Server Api Reference](https://developer.staq.io/docs/apis/transfers#/Transfers/Get%20a%20transfer%20details)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| transferId | The unique identifier of the transfer |

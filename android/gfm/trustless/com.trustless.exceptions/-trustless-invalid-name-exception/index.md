@@ -3,7 +3,9 @@
 # TrustlessInvalidNameException
 
 [kotlin]\
-class [TrustlessInvalidNameException](index.md)(val nameCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
+class [TrustlessInvalidNameException](index.md)(nameCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
+
+This error is thrown if name length isn't between  1 and 255.
 
 ## Constructors
 
@@ -17,7 +19,6 @@ class [TrustlessInvalidNameException](index.md)(val nameCode: [String](https://k
 |---|---|
 | [cause](../-trustless-user-token-expired-exception/index.md#-654012527%2FProperties%2F-1818097539) | [kotlin]<br>open val [cause](../-trustless-user-token-expired-exception/index.md#-654012527%2FProperties%2F-1818097539): [Throwable](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-throwable/index.html)? |
 | [message](../-trustless-user-token-expired-exception/index.md#1824300659%2FProperties%2F-1818097539) | [kotlin]<br>open val [message](../-trustless-user-token-expired-exception/index.md#1824300659%2FProperties%2F-1818097539): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? |
-| [nameCode](name-code.md) | [kotlin]<br>val [nameCode](name-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 
 ## Functions
 

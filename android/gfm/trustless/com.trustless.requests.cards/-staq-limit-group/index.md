@@ -2,10 +2,20 @@
 
 # StaqLimitGroup
 
-[kotlin]\
 @Serializable
 
 data class [StaqLimitGroup](index.md)(val cash: [StaqLimitEntry](../-staq-limit-entry/index.md), val ecommerce: [StaqLimitEntry](../-staq-limit-entry/index.md))
+
+Limit group
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| cash | cash limit entry |
+| ecommerce | ecommerce limit entry |
 
 ## Constructors
 

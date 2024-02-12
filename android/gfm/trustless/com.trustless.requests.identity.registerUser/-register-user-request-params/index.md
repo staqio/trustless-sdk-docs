@@ -4,13 +4,20 @@
 
 class [RegisterUserRequestParams](index.md)(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), username: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), firstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, lastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, phoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
+[Server Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Create%20a%20user)
+
 #### Parameters
 
 kotlin
 
 | | |
 |---|---|
-|  | [Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Create%20a%20user) |
+| email | Email of the application user |
+| username | Username of the application user |
+| password | Password of the application user |
+| firstName | First name of the application user |
+| lastName | Last name of the application user |
+| phoneNumber | Phone number of the application user. Should start from a + (plus), no zero as a first digit is allowed. |
 
 #### Throws
 

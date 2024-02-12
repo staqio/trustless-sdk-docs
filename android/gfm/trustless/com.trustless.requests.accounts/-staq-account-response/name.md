@@ -7,3 +7,11 @@
 @SerialName(value = &quot;Name&quot;)
 
 val [name](name.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| name | Account name |

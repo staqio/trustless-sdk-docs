@@ -7,3 +7,11 @@
 @SerialName(value = &quot;Type&quot;)
 
 val [type](type.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| type | Type of Beneficiary |

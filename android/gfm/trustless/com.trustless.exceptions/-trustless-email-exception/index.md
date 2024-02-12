@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessEmailException](index.md) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
 
+This error is thrown if email length isn't between 3 and 255.
+
 ## Constructors
 
 | | |

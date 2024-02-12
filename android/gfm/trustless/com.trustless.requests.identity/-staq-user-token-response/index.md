@@ -2,10 +2,22 @@
 
 # StaqUserTokenResponse
 
-[kotlin]\
 @Serializable
 
 data class [StaqUserTokenResponse](index.md)(val accessToken: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val tokenType: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val expiresIn: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), val scope: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val refreshToken: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val refreshExpiresIn: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html))
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| accessToken | Access token to invoke Finto API methods MINLENGTH: 1 |
+| tokenType | Type of token MINLENGTH: 1 |
+| expiresIn | Token lifetime in seconds MAXIMUM: 2147483647 MINIMUM: 0 |
+| scope | Scope name. Indicates the API that application is going to access with the token. MINLENGTH: 1 |
+| refreshToken | Refresh token for the access token MINLENGTH: 1 |
+| refreshExpiresIn | Token lifetime in seconds |
 
 ## Constructors
 

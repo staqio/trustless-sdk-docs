@@ -7,3 +7,11 @@
 @SerialName(value = &quot;PAN&quot;)
 
 val [pan](pan.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| pan | Full unmasked card number (sensitive information) |

@@ -3,4 +3,14 @@
 # call
 
 [kotlin]\
-suspend fun [call](call.md)(params: [TopUpCardParams](../-top-up-card-params/index.md)): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqCardBalance](../../com.trustless.requests.cards/-staq-card-balance/index.md)&gt;
+suspend fun [call](call.md)(params: [ChangeCardBalanceParams](../-change-card-balance-params/index.md)): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqCardBalance](../../com.trustless.requests.cards/-staq-card-balance/index.md)&gt;
+
+Method to perform server request to top up card
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| params | top up card params |

@@ -5,7 +5,9 @@
 [kotlin]\
 suspend fun [deleteAccountByNumber](delete-account-by-number.md)(accountNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), accountNumberTransferMoneyTo: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)
 
-[Api Reference](https://developer.staq.io/docs/apis/accounts#/Accounts/Close%20an%20account)
+Closes the customer's bank account
+
+[Server Api Reference](https://developer.staq.io/docs/apis/accounts#/Accounts/Close%20an%20account)
 
 #### Parameters
 

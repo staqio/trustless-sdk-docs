@@ -7,3 +7,11 @@
 @SerialName(value = &quot;RemainingCount&quot;)
 
 val [remainingCount](remaining-count.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| remainingCount | Remainig Count Limit |

@@ -2,10 +2,23 @@
 
 # StaqLimitEntry
 
-[kotlin]\
 @Serializable
 
 data class [StaqLimitEntry](index.md)(val limit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val transactionCountLimit: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), val transactionAmountLimit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val remainingAmount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)? = null, val remainingCount: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null)
+
+Limit entry
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| limit | Maximum limit amount |
+| transactionCountLimit | Maximum number of transactions |
+| transactionAmountLimit | Maximum single transaction amount |
+| remainingAmount | Remaining Amount Limit |
+| remainingCount | Remainig Count Limit |
 
 ## Constructors
 

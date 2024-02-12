@@ -2,10 +2,23 @@
 
 # StaqTransferResponseStatus
 
-[kotlin]\
 @Serializable
 
 data class [StaqTransferResponseStatus](index.md)(val id: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), val code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val label: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val labelAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+Status response object
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| id | The unique transaction id |
+| code | The code of status |
+| name | The name of status |
+| label | The label of status |
+| labelAr | The label of status in Arabic |
 
 ## Constructors
 

@@ -2,10 +2,25 @@
 
 # StaqTransferResponseBeneficiary
 
-[kotlin]\
 @Serializable
 
 data class [StaqTransferResponseBeneficiary](index.md)(val name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, val account: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val address: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val bankCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val bankCountry: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val type: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)
+
+Beneficiary object.
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| name | Name of Beneficiary |
+| alias | Alias of Beneficiary |
+| account | Address of Beneficiary |
+| address | Address of Beneficiary |
+| bankCode | Bank Code of Beneficiary |
+| bankCountry | Bank Country of Beneficiary |
+| type | Type of Beneficiary |
 
 ## Constructors
 

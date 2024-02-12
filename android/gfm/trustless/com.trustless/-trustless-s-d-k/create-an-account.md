@@ -5,4 +5,14 @@
 [kotlin]\
 suspend fun [createAnAccount](create-an-account.md)(params: [CreateAnAccountParams](../../com.trustless.requests.accounts.createAnAccount/-create-an-account-params/index.md)): [StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md)
 
-[Api Reference](https://developer.staq.io/docs/apis/accounts#/Accounts/Create%20an%20account)
+Opens a new account for the customer
+
+[Server Api Reference](https://developer.staq.io/docs/apis/accounts#/Accounts/Create%20an%20account)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| params | params to create an account |

@@ -4,3 +4,11 @@
 
 [kotlin]\
 constructor(mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| mobileNumber | Mobile number |

@@ -7,3 +7,11 @@
 @SerialName(value = &quot;Monthly&quot;)
 
 val [monthly](monthly.md): [StaqLimitGroup](../-staq-limit-group/index.md)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| monthly | Monthly limit group |

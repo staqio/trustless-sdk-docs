@@ -2,10 +2,24 @@
 
 # StaqAccountTransaction
 
-[kotlin]\
 @Serializable
 
 data class [StaqAccountTransaction](index.md)(val date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val valueDate: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val description: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val debitCreditIndicator: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val transactionAmount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val transactionCurrency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+Transaction object.
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| date | Transaction date |
+| valueDate | Transaction value date |
+| description | Transaction description |
+| debitCreditIndicator | Indicator of the transaction side. (D) for debit or (C) for credit |
+| transactionAmount | Transaction amount |
+| transactionCurrency | Transaction currency code |
 
 ## Constructors
 

@@ -2,10 +2,21 @@
 
 # StaqTransferResponseChargeType
 
-[kotlin]\
 @Serializable
 
 data class [StaqTransferResponseChargeType](index.md)(val chargeTypeId: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), val chargeTypeCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val chargeTypeName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+Charge type object
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| chargeTypeId | The unique charge type id |
+| chargeTypeCode | Charge Type Code |
+| chargeTypeName | Charge Type Name |
 
 ## Constructors
 

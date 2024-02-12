@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessAmountException](index.md) : [TrustlessPreconditionException](../-trustless-precondition-exception/index.md)
 
+Thrown when amount is not between  0.0001 and 1000000000000000000.
+
 ## Constructors
 
 | | |

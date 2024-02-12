@@ -2,10 +2,19 @@
 
 # StaqCustomer
 
-[kotlin]\
 @Serializable
 
 data class [StaqCustomer](index.md)(val name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val fullName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val typeRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| name | Account holder name |
+| fullName | Account holder full name |
+| typeRaw | Account holder customer type |
 
 ## Constructors
 

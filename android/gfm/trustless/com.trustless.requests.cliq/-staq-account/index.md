@@ -2,10 +2,23 @@
 
 # StaqAccount
 
-[kotlin]\
 @Serializable
 
 data class [StaqAccount](index.md)(val currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val openingDate: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val closingDate: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val iban: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val isDefault: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html))
+
+Account object
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| currency | Cliq Account currency |
+| openingDate | Cliq Account opening date |
+| closingDate | Cliq Account closing date |
+| iban | Cliq Account IBAN |
+| isDefault | The field shows if the account is default by default for the alias |
 
 ## Constructors
 

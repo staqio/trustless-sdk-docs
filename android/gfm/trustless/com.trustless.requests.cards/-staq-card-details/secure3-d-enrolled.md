@@ -7,3 +7,11 @@
 @SerialName(value = &quot;Secure3DEnrolled&quot;)
 
 val [secure3DEnrolled](secure3-d-enrolled.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)? = null
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| secure3DEnrolled | 3DS enrollment status |

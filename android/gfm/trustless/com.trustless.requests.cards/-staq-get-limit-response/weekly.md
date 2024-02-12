@@ -7,3 +7,11 @@
 @SerialName(value = &quot;Weekly&quot;)
 
 val [weekly](weekly.md): [StaqLimitGroup](../-staq-limit-group/index.md)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| weekly | Weekly limit group |

@@ -7,6 +7,8 @@
 
 data class [StaqCreateAlias](index.md)(val iban: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val isDefault: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html))
 
+Create alias object
+
 ## Constructors
 
 | | |

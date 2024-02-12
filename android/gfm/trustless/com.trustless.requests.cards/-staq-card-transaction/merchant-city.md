@@ -7,3 +7,11 @@
 @SerialName(value = &quot;MerchantCity&quot;)
 
 val [merchantCity](merchant-city.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| merchantCity | Merchant City associated with the transaction |

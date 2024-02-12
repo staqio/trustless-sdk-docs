@@ -5,7 +5,9 @@
 [kotlin]\
 fun [getCards](get-cards.md)(pageSize: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), currentPage: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 1): [Paginator](../../com.trustless.paginator/-paginator/index.md)&lt;[StaqCardDetails](../../com.trustless.requests.cards/-staq-card-details/index.md)&gt;
 
-[Api Reference](https://developer.staq.io/docs/apis/cards#/Cards/Create%20card.%20V2)
+Creates a new virtual prepaid card. Afer card is created, you can retrieve sensitive card information (e.g. Pan. Cvv) later using /pan API endpoint.
+
+[Server Api Reference](https://developer.staq.io/docs/apis/cards#/Cards/Create%20card.%20V2)
 
 #### Parameters
 

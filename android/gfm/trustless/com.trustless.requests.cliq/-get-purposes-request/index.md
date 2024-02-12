@@ -9,4 +9,4 @@ class [GetPurposesRequest](index.md)
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(params: [GetPurpusesRequestParams](../-get-purpuses-request-params/index.md)): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqPurpose](../-staq-purpose/index.md)&gt; |
+| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(params: [GetPurposesRequestParams](../-get-purposes-request-params/index.md)): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqPurpose](../-staq-purpose/index.md)&gt; |

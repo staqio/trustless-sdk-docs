@@ -5,7 +5,9 @@
 [kotlin]\
 fun [getAccounts](get-accounts.md)(pageSize: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), currentPage: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) = 1): [Paginator](../../com.trustless.paginator/-paginator/index.md)&lt;[StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md)&gt;
 
-[Api Reference](https://developer.staq.io/docs/apis/accounts#/Accounts/List%20all%20customer's%20accounts)
+Returns all accounts for the specified customer
+
+[Server Api Reference](https://developer.staq.io/docs/apis/accounts#/Accounts/List%20all%20customer's%20accounts)
 
 #### Return
 

@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessAccountNameException](index.md) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
 
+This exception is thrown when Account name length is not between 1 and 105.
+
 ## Constructors
 
 | | |

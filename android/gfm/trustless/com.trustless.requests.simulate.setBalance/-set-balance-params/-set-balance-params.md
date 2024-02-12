@@ -4,3 +4,11 @@
 
 [kotlin]\
 constructor(balance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html))
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| balance | New balance of the account |

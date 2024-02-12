@@ -2,10 +2,21 @@
 
 # StaqRetrieveUserResponse
 
-[kotlin]\
 @Serializable
 
 data class [StaqRetrieveUserResponse](index.md)(val username: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val firstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val lastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val phoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| username | Username of the application user |
+| phoneNumber | Phone number of the application user |
+| email | Email of the application user |
+| lastName | Last name of the application user |
+| firstName | First name of the application user |
 
 ## Constructors
 

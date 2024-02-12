@@ -5,7 +5,11 @@
 [kotlin]\
 suspend fun [getSteps](get-steps.md)(sourceFields: [SourceFieldsMap](../../com.trustless.requests.kyc.retrieveSteps.steps/-source-fields-map/index.md)): [AllKYCSteps](../../com.trustless.requests.kyc.retrieveSteps.steps/-all-k-y-c-steps/index.md)
 
-[Api Reference](https://developer.staq.io/docs/apis/kyc#/Metadata/Get%20KYC%20attributes) For more information refer to KYC section in the documentation
+Retrieves JSON descriptor of the data that should be collected by partner application and submitted to initiate KYC
+
+[Server Api Reference](https://developer.staq.io/docs/apis/kyc#/Metadata/Get%20KYC%20attributes)
+
+For more information refer to KYC section in the documentation
 
 #### Parameters
 

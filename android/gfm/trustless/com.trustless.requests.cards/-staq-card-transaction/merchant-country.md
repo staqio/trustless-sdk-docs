@@ -7,3 +7,11 @@
 @SerialName(value = &quot;MerchantCountry&quot;)
 
 val [merchantCountry](merchant-country.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| merchantCountry | Merchant Country associated with the transaction |

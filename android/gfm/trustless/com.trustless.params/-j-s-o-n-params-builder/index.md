@@ -14,7 +14,7 @@ open class [JSONParamsBuilder](index.md) : ParamsBuilder
 | [CreditDetails](../../com.trustless.requests.cards.createCard/-credit-details/index.md) |
 | [CreateCardParams](../../com.trustless.requests.cards.createCard/-create-card-params/index.md) |
 | [SetLimitsParams](../../com.trustless.requests.cards.setLimits/-set-limits-params/index.md) |
-| [TopUpCardParams](../../com.trustless.requests.cards.topUp/-top-up-card-params/index.md) |
+| [ChangeCardBalanceParams](../../com.trustless.requests.cards.topUp/-change-card-balance-params/index.md) |
 | [CreateCliqParams](../../com.trustless.requests.cliq/-create-cliq-params/index.md) |
 | [PasswordRecoveryRequestParams](../../com.trustless.requests.identity.passwordRecovery/-password-recovery-request-params/index.md) |
 | [PasswordRecoveryConfirmRequestParams](../../com.trustless.requests.identity.passwordRecoveryConfirm/-password-recovery-confirm-request-params/index.md) |

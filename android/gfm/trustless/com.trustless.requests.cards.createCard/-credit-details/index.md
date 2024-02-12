@@ -6,6 +6,15 @@ class [CreditDetails](index.md)(accountNumber: [String](https://kotlinlang.org/a
 
 Optional Parameter for [CreateCardParams](../-create-card-params/index.md) class
 
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| accountNumber | Bank Account number to be used as a source of funds for the card. Account should have sufficient balance if Amount field is greater than 0 (zero). |
+| amount | to be credited to the card right after the card is created. You should specify 0 (zero) Amount if top-up is not required. MAXIMUM: 1000000000000000000 MINIMUM: 0 |
+
 #### Throws
 
 | |

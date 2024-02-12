@@ -4,3 +4,13 @@
 
 [kotlin]\
 suspend fun [call](call.md)(params: [SetBalanceParams](../-set-balance-params/index.md))
+
+Function to perform server request
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| params | Set Balance params |

@@ -4,6 +4,17 @@
 
 class [CreateAnAccountParams](index.md)(currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), accountName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
+[Server Api Reference](https://developer.staq.io/docs/apis/accounts#/Accounts/Create%20an%20account)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| currency | The ISO 3 chars code of the account currency |
+| accountName | Account name |
+
 #### Throws
 
 | |

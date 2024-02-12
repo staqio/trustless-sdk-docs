@@ -7,3 +7,11 @@
 @SerialName(value = &quot;ClosingDate&quot;)
 
 val [closingDate](closing-date.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| closingDate | Cliq Account closing date |

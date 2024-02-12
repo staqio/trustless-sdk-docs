@@ -7,3 +7,11 @@
 @SerialName(value = &quot;Iban&quot;)
 
 val [iban](iban.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| iban | Cliq Account IBAN |

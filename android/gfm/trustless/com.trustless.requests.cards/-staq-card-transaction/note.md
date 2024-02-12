@@ -7,3 +7,11 @@
 @SerialName(value = &quot;Note&quot;)
 
 val [note](note.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| note | Transaction note |

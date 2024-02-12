@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessCodeException](index.md) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
 
+This exception is thrown when code's length is not 20.
+
 ## Constructors
 
 | | |

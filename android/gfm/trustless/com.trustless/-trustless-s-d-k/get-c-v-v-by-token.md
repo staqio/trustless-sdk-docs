@@ -5,7 +5,9 @@
 [kotlin]\
 suspend fun [getCVVByToken](get-c-v-v-by-token.md)(token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [StaqGetCVVResponse](../../com.trustless.requests.cards/-staq-get-c-v-v-response/index.md)
 
-[Api Reference](https://developer.staq.io/docs/apis/cards#/Cards/Get%20PAN%2FCVV)
+Retrieves unmasked card PAN and CVV code
+
+[Server Api Reference](https://developer.staq.io/docs/apis/cards#/Cards/Get%20PAN%2FCVV)
 
 #### Parameters
 

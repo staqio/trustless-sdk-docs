@@ -7,3 +7,11 @@
 @SerialName(value = &quot;refresh_expires_in&quot;)
 
 val [refreshExpiresIn](refresh-expires-in.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| refreshExpiresIn | Token lifetime in seconds |

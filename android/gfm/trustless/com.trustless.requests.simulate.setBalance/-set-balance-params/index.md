@@ -2,8 +2,15 @@
 
 # SetBalanceParams
 
-[kotlin]\
 class [SetBalanceParams](index.md)(balance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| balance | New balance of the account |
 
 ## Constructors
 

@@ -7,3 +7,11 @@
 @SerialName(value = &quot;CardHolderName&quot;)
 
 val [cardHolderName](card-holder-name.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| cardHolderName | Cardholder name |

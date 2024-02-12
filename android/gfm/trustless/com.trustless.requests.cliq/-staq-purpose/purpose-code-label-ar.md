@@ -7,3 +7,11 @@
 @SerialName(value = &quot;PurposeCodeLabelAr&quot;)
 
 val [purposeCodeLabelAr](purpose-code-label-ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| purposeCodeLabelAr | Purpose code name in Arabic |

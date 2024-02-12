@@ -7,3 +7,11 @@
 @SerialName(value = &quot;TransactionCurrencySymbol&quot;)
 
 val [transactionCurrencySymbol](transaction-currency-symbol.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| transactionCurrencySymbol | Transaction currency symbol (e.g. &quot;$&quot;&quot;, &quot;£&quot;) |

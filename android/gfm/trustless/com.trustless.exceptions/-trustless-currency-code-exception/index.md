@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessCurrencyCodeException](index.md) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
 
+This exception is thrown when it doesn't match this regex A-Z{3}
+
 ## Constructors
 
 | | |

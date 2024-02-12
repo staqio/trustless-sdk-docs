@@ -2,10 +2,22 @@
 
 # StaqGetLimitResponse
 
-[kotlin]\
 @Serializable
 
 data class [StaqGetLimitResponse](index.md)(val weekly: [StaqLimitGroup](../-staq-limit-group/index.md), val daily: [StaqLimitGroup](../-staq-limit-group/index.md), val monthly: [StaqLimitGroup](../-staq-limit-group/index.md), val annual: [StaqLimitGroup](../-staq-limit-group/index.md))
+
+Get limit response
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| weekly | Weekly limit group |
+| daily | Daily limit group |
+| monthly | Monthly limit group |
+| annual | Annual limit group |
 
 ## Constructors
 

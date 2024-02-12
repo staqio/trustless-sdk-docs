@@ -7,3 +7,11 @@
 @SerialName(value = &quot;ExpirationDate&quot;)
 
 val [expirationDate](expiration-date.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| expirationDate | Cliq Alias expiration date |

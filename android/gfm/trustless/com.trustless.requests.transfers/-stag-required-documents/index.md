@@ -2,10 +2,22 @@
 
 # StagRequiredDocuments
 
-[kotlin]\
 @Serializable
 
 data class [StagRequiredDocuments](index.md)(val requiredDocumentCount: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), val requiredDocumentsList: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;, val requiredDocumentsListAr: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;, val isDocumentsRequired: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)?&gt;)
+
+Object with required documents.
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| requiredDocumentCount | Number of required documents |
+| requiredDocumentsList | List of names of the required documents |
+| requiredDocumentsListAr | List of arabic names of the required documents |
+| isDocumentsRequired | List of Bool values which mean if the required document is required to continue. |
 
 ## Constructors
 

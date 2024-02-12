@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessMonthException](index.md) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
 
+Thrown when month number is not between 1 and 12.
+
 ## Constructors
 
 | | |

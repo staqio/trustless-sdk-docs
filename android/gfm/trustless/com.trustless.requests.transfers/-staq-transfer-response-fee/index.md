@@ -2,10 +2,20 @@
 
 # StaqTransferResponseFee
 
-[kotlin]\
 @Serializable
 
 data class [StaqTransferResponseFee](index.md)(val amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+Fee object.
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| amount | Amount of fee |
+| currency | Currency of fee |
 
 ## Constructors
 

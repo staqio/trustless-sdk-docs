@@ -4,13 +4,15 @@
 
 class [PasswordRecoveryRequestParams](index.md)(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
+[Server Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Initiate%20password%20reset)
+
 #### Parameters
 
 kotlin
 
 | | |
 |---|---|
-|  | [Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Initiate%20password%20reset) |
+| email | Email of the application user |
 
 #### Throws
 

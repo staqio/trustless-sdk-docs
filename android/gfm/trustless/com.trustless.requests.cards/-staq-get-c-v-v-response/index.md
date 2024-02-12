@@ -2,10 +2,21 @@
 
 # StaqGetCVVResponse
 
-[kotlin]\
 @Serializable
 
 data class [StaqGetCVVResponse](index.md)(val token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val pan: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val cvv: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+Get Pan with CVV Response
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| token | The unique card identifier (non-sensitive information) |
+| pan | Full unmasked card number (sensitive information) |
+| cvv | CVV code required for the card authorization (sensitive information) MAXLENGTH: 3 MINLENGTH: 3 |
 
 ## Constructors
 
