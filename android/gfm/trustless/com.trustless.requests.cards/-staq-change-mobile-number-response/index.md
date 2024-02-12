@@ -4,7 +4,7 @@
 
 @Serializable
 
-data class [StaqChangeMobileNumberResponse](index.md)(val mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [StaqChangeMobileNumberResponse](index.md)
 
 Change mobile number response object.
 
@@ -15,12 +15,6 @@ kotlin
 | | |
 |---|---|
 | mobileNumber | Mobile number |
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqChangeMobileNumberResponse](-staq-change-mobile-number-response.md) | [kotlin]<br>constructor(mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 
