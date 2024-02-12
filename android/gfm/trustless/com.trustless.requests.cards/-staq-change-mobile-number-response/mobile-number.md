@@ -8,10 +8,4 @@
 
 val [mobileNumber](mobile-number.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| mobileNumber | Mobile number |
+Mobile number
