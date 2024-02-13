@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessKycIdIsNull](index.md) : [TrustlessException](../-trustless-exception/index.md)
 
+This exception is thrown when customer did not finish KYC form
+
 ## Constructors
 
 | | |

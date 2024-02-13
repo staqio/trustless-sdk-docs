@@ -4,6 +4,8 @@
 
 open class [TrustlessPreconditionException](index.md)(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [TrustlessException](../-trustless-exception/index.md)
 
+Base class for exceptions that are thrown when some precondition is not met, before making server request
+
 #### Inheritors
 
 | |

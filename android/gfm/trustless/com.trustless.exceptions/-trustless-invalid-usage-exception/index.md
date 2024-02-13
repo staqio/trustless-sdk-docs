@@ -4,6 +4,8 @@
 
 open class [TrustlessInvalidUsageException](index.md)(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [TrustlessException](../-trustless-exception/index.md)
 
+Base class for exceptions that are related to invalid usage
+
 #### Inheritors
 
 | |

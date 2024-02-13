@@ -2,7 +2,9 @@
 
 # TrustlessException
 
-open class [TrustlessException](index.md)(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) : [Exception](https://developer.android.com/reference/kotlin/java/lang/Exception.html)
+open class [TrustlessException](index.md) : [Exception](https://developer.android.com/reference/kotlin/java/lang/Exception.html)
+
+Base class exception, from which all of the other exceptions are inherited This exception is sometimes thrown because of the unknown nature of the error
 
 #### Inheritors
 
@@ -19,12 +21,6 @@ open class [TrustlessException](index.md)(code: [String](https://kotlinlang.org/
 | [TrustlessNotInitializedSdkException](../-trustless-not-initialized-sdk-exception/index.md) |
 | [TrustlessPreconditionException](../-trustless-precondition-exception/index.md) |
 | [TrustlessUserTokenExpiredException](../-trustless-user-token-expired-exception/index.md) |
-
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessException](-trustless-exception.md) | [kotlin]<br>constructor(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) |
 
 ## Properties
 

@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessExceptionSecurityProviderIsNotInstalled](index.md) : [TrustlessException](../-trustless-exception/index.md)
 
+This exception is thrown when security provider is not installed.
+
 ## Constructors
 
 | | |
