@@ -3,15 +3,9 @@
 # TrustlessInvalidNameException
 
 [kotlin]\
-class [TrustlessInvalidNameException](index.md)(nameCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
+class [TrustlessInvalidNameException](index.md) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
 
 This error is thrown if name length isn't between  1 and 255.
-
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessInvalidNameException](-trustless-invalid-name-exception.md) | [kotlin]<br>constructor(nameCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 

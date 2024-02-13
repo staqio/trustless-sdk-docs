@@ -7,12 +7,6 @@ class [TrustlessAmountException](index.md) : [TrustlessPreconditionException](..
 
 Thrown when amount is not between  0.0001 and 1000000000000000000.
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessAmountException](-trustless-amount-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

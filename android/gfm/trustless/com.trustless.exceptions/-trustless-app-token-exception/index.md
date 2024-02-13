@@ -7,12 +7,6 @@ class [TrustlessAppTokenException](index.md) : [TrustlessException](../-trustles
 
 This exception is thrown when app token has expired or server forced it to expire
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessAppTokenException](-trustless-app-token-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

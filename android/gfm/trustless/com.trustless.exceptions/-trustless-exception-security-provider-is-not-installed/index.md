@@ -7,12 +7,6 @@ class [TrustlessExceptionSecurityProviderIsNotInstalled](index.md) : [TrustlessE
 
 This exception is thrown when security provider is not installed.
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessExceptionSecurityProviderIsNotInstalled](-trustless-exception-security-provider-is-not-installed.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

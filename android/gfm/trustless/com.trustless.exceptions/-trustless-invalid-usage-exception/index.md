@@ -2,7 +2,7 @@
 
 # TrustlessInvalidUsageException
 
-open class [TrustlessInvalidUsageException](index.md)(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [TrustlessException](../-trustless-exception/index.md)
+open class [TrustlessInvalidUsageException](index.md) : [TrustlessException](../-trustless-exception/index.md)
 
 Base class for exceptions that are related to invalid usage
 
@@ -21,12 +21,6 @@ Base class for exceptions that are related to invalid usage
 | [TrustlessMonthException](../-trustless-month-exception/index.md) |
 | [TrustlessPasswordException](../-trustless-password-exception/index.md) |
 | [TrustlessPhoneNumberException](../-trustless-phone-number-exception/index.md) |
-
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessInvalidUsageException](-trustless-invalid-usage-exception.md) | [kotlin]<br>constructor(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 

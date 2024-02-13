@@ -7,12 +7,6 @@ class [TrustlessAccountNameException](index.md) : [TrustlessInvalidUsageExceptio
 
 This exception is thrown when Account name length is not between 1 and 105.
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessAccountNameException](-trustless-account-name-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

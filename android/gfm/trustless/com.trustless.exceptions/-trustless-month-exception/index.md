@@ -7,12 +7,6 @@ class [TrustlessMonthException](index.md) : [TrustlessInvalidUsageException](../
 
 Thrown when month number is not between 1 and 12.
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessMonthException](-trustless-month-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

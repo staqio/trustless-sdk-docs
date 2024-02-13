@@ -7,12 +7,6 @@ class [TrustlessNotInitializedSdkException](index.md) : [TrustlessException](../
 
 This exception is thrown when the developer didn't initialize sdk, or there was an error during initialization
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessNotInitializedSdkException](-trustless-not-initialized-sdk-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

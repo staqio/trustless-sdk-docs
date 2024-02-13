@@ -3,15 +3,9 @@
 # TrustlessMalformedResponse
 
 [kotlin]\
-class [TrustlessMalformedResponse](index.md)(response: Response) : [TrustlessException](../-trustless-exception/index.md)
+class [TrustlessMalformedResponse](index.md) : [TrustlessException](../-trustless-exception/index.md)
 
 This exceptions is thrown when the server responds with the data format which is not expected by the SDK
-
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessMalformedResponse](-trustless-malformed-response.md) | [kotlin]<br>constructor(response: Response) |
 
 ## Properties
 

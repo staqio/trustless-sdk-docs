@@ -2,7 +2,7 @@
 
 # TrustlessPreconditionException
 
-open class [TrustlessPreconditionException](index.md)(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [TrustlessException](../-trustless-exception/index.md)
+open class [TrustlessPreconditionException](index.md) : [TrustlessException](../-trustless-exception/index.md)
 
 Base class for exceptions that are thrown when some precondition is not met, before making server request
 
@@ -14,12 +14,6 @@ Base class for exceptions that are thrown when some precondition is not met, bef
 | [TrustlessLimitException](../-trustless-limit-exception/index.md) |
 | [TrustlessPageNumberException](../-trustless-page-number-exception/index.md) |
 | [TrustlessPageSizeException](../-trustless-page-size-exception/index.md) |
-
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessPreconditionException](-trustless-precondition-exception.md) | [kotlin]<br>constructor(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 

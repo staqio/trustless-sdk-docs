@@ -7,12 +7,6 @@ class [TrustlessExceptionListener](index.md) : [TrustlessException](../-trustles
 
 This exceptions is thrown when the developer has not set subscribeToSecurityProviderUpdate listener Refer to advanced documentation for more details
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessExceptionListener](-trustless-exception-listener.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

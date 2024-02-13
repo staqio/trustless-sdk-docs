@@ -7,12 +7,6 @@ class [TrustlessCurrencyCodeException](index.md) : [TrustlessInvalidUsageExcepti
 
 This exception is thrown when it doesn't match this regex A-Z{3}
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessCurrencyCodeException](-trustless-currency-code-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

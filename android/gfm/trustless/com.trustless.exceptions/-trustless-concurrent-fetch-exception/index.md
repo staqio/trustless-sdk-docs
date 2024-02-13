@@ -7,12 +7,6 @@ class [TrustlessConcurrentFetchException](index.md) : [TrustlessInvalidUsageExce
 
 Is thrown when multiple requests are made at the same time
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessConcurrentFetchException](-trustless-concurrent-fetch-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

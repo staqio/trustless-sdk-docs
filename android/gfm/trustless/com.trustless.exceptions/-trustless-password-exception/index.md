@@ -7,12 +7,6 @@ class [TrustlessPasswordException](index.md) : [TrustlessInvalidUsageException](
 
 This error is thrown if password length isn't between 8 and 255.
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessPasswordException](-trustless-password-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

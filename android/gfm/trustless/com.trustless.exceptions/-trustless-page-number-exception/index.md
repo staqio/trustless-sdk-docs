@@ -7,12 +7,6 @@ class [TrustlessPageNumberException](index.md) : [TrustlessPreconditionException
 
 This exceptions is thrown when page number is not between 1 and 4000000
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessPageNumberException](-trustless-page-number-exception.md) | [kotlin]<br>constructor() |
-
 ## Types
 
 | Name | Summary |

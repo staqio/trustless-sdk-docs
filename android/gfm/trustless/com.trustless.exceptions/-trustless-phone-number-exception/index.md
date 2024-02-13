@@ -7,12 +7,6 @@ class [TrustlessPhoneNumberException](index.md) : [TrustlessInvalidUsageExceptio
 
 This error is thrown when number length isn't between 4 and 16, or the phone doesn't follow this regex ^\+0-9*\$
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessPhoneNumberException](-trustless-phone-number-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

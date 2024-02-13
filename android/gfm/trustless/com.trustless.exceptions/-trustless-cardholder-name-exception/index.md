@@ -7,12 +7,6 @@ class [TrustlessCardholderNameException](index.md) : [TrustlessInvalidUsageExcep
 
 This exception is thrown when cardholder name doesn't match ^(A-Z'.-+\s?)+$.
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessCardholderNameException](-trustless-cardholder-name-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

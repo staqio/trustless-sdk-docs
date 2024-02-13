@@ -7,12 +7,6 @@ class [TrustlessMobileNumberException](index.md) : [TrustlessInvalidUsageExcepti
 
 This exceptions is thrown when the mobile doesn't match this regex ^0?1-9+0-9*$, and it's length is not between 4 and 15.
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessMobileNumberException](-trustless-mobile-number-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |

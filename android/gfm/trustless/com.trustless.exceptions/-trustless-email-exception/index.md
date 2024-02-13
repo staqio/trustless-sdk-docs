@@ -7,12 +7,6 @@ class [TrustlessEmailException](index.md) : [TrustlessInvalidUsageException](../
 
 This error is thrown if email length isn't between 3 and 255.
 
-## Constructors
-
-| | |
-|---|---|
-| [TrustlessEmailException](-trustless-email-exception.md) | [kotlin]<br>constructor() |
-
 ## Properties
 
 | Name | Summary |
