@@ -10,26 +10,8 @@ open class [MultiPartParamsBuilder](index.md) : ParamsBuilder
 |---|
 | [ConfirmTransferParams](../../com.trustless.requests.transfers/-confirm-transfer-params/index.md) |
 
-## Constructors
-
-| | |
-|---|---|
-| [MultiPartParamsBuilder](-multi-part-params-builder.md) | [kotlin]<br>constructor() |
-
 ## Types
 
 | Name | Summary |
 |---|---|
 | [Companion](-companion/index.md) | [kotlin]<br>object [Companion](-companion/index.md) |
-
-## Properties
-
-| Name | Summary |
-|---|---|
-| [builder](builder.md) | [kotlin]<br>val [builder](builder.md): MultipartBody.Builder |
-
-## Functions
-
-| Name | Summary |
-|---|---|
-| [put](put.md) | [kotlin]<br>fun [put](put.md)(file: [File](https://developer.android.com/reference/kotlin/java/io/File.html))<br>fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), file: [File](https://developer.android.com/reference/kotlin/java/io/File.html))<br>fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |

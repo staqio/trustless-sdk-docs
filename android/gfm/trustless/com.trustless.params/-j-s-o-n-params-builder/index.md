@@ -26,15 +26,3 @@ open class [JSONParamsBuilder](index.md) : ParamsBuilder
 | [SetBalanceParams](../../com.trustless.requests.simulate.setBalance/-set-balance-params/index.md) |
 | [CreateCliqTransferParams](../../com.trustless.requests.transfers/-create-cliq-transfer-params/index.md) |
 | [CreateInternalTransferParams](../../com.trustless.requests.transfers/-create-internal-transfer-params/index.md) |
-
-## Constructors
-
-| | |
-|---|---|
-| [JSONParamsBuilder](-j-s-o-n-params-builder.md) | [kotlin]<br>constructor() |
-
-## Types
-
-| Name | Summary |
-|---|---|
-| [Companion](-companion/index.md) | [kotlin]<br>object [Companion](-companion/index.md) |
