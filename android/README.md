@@ -88,6 +88,50 @@ lifecycleScope.launch {
         }
 }
 ```
+3. Handle `exceptions`, every exception is inherited from `TrustlessException`
+## Usage Of Paginator
+Facilitates pagination by encapsulating the logic required to manage paginated requests.
+
+1. Initializing the Paginator
+```kotlin
+val paginator = TrustlessSDK.instance.getAccounts(
+        13,
+        1
+    )
+```
+2. Fetching the First Page
+```kotlin
+paginator.fetchFirst().data
+```
+3. Fetching Subsequent Pages, you can then append this new data to your existing dataset
+```kotlin
+val res = paginator.fetchNext().data
+val newData = _state.value.data + res
+```
+
+## Usage Of `StaqRequest` class
+The `StaqRequest` class in the TrustlessSDK is designed to facilitate safe, repeatable operations—particularly useful for financial transactions where the integrity and non-duplication of requests are crucial. If a request encounters a failure, you can safely retry the same request without worrying about unintended duplications of the operation on the server side. However, to leverage this feature, it's essential to persist the request object between attempts, and having the same arguments
+
+
+1. Creating a Request Object, it usually accepts a non changing parameter like account number
+
+```kotlin
+val request = TrustlessSDK.instance.getTopUpCardRequest(value)
+```
+2. Executing the Request
+```kotlin
+val params = ChangeCardBalanceParams(
+            account.number,
+            amount,
+            account.currencyCode
+        )
+request.call(params)
+```
+
+
+
+
+# Advanced Usage
 ## Deinitialization
 To ensure efficient memory management and clean up resources utilized by the Trustless SDK, incorporate the following code snippet when the SDK is no longer needed, typically during the shutdown or cleanup phase of your application:
 ```kotlin
