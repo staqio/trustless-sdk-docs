@@ -7,5 +7,3 @@
 @SerialName(value = &quot;SWIFT&quot;)
 
 val [swift](swift.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-SWIFT code

@@ -5,15 +5,9 @@
 [kotlin]\
 @Serializable
 
-data class [StaqAccountTransaction](index.md)(val date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val valueDate: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val description: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val debitCreditIndicator: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val transactionAmount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val transactionCurrency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [StaqAccountTransaction](index.md)
 
 Transaction object.
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqAccountTransaction](-staq-account-transaction.md) | [kotlin]<br>constructor(date: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), valueDate: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), description: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), debitCreditIndicator: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), transactionAmount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), transactionCurrency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 

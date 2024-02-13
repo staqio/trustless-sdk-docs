@@ -7,5 +7,3 @@
 @SerialName(value = &quot;Customer&quot;)
 
 val [customer](customer.md): [StaqCustomer](../-staq-customer/index.md)
-
-Customer data object

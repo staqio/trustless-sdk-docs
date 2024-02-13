@@ -7,5 +7,3 @@
 @SerialName(value = &quot;AvailableBalance&quot;)
 
 val [availableBalance](available-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
-
-Account available balance in the account currency

@@ -7,5 +7,3 @@
 @SerialName(value = &quot;DebitCreditIndicator&quot;)
 
 val [debitCreditIndicator](debit-credit-indicator.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-Indicator of the transaction side. (D) for debit or (C) for credit

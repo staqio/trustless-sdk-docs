@@ -5,13 +5,7 @@
 [kotlin]\
 @Serializable
 
-data class [StaqCustomer](index.md)(val name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val fullName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val typeRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqCustomer](-staq-customer.md) | [kotlin]<br>constructor(name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), fullName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), typeRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+data class [StaqCustomer](index.md)
 
 ## Properties
 

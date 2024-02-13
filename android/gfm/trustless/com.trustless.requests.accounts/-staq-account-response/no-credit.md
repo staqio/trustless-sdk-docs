@@ -7,5 +7,3 @@
 @SerialName(value = &quot;NoCredit&quot;)
 
 val [noCredit](no-credit.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
-
-The indication that account credit is prohibited

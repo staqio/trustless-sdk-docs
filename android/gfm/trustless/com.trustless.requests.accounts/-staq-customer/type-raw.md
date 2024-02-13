@@ -7,5 +7,3 @@
 @SerialName(value = &quot;Type&quot;)
 
 val [typeRaw](type-raw.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-Account holder customer type

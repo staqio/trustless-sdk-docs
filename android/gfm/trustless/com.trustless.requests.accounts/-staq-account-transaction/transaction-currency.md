@@ -7,5 +7,3 @@
 @SerialName(value = &quot;TransactionCurrency&quot;)
 
 val [transactionCurrency](transaction-currency.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-Transaction currency code

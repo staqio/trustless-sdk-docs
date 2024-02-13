@@ -7,5 +7,3 @@
 @SerialName(value = &quot;Branch&quot;)
 
 val [branch](branch.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-The code of the Bank branch that holds the account
