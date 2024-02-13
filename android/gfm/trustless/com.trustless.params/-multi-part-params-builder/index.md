@@ -9,9 +9,3 @@ open class [MultiPartParamsBuilder](index.md) : ParamsBuilder
 | |
 |---|
 | [ConfirmTransferParams](../../com.trustless.requests.transfers/-confirm-transfer-params/index.md) |
-
-## Types
-
-| Name | Summary |
-|---|---|
-| [Companion](-companion/index.md) | [kotlin]<br>object [Companion](-companion/index.md) |

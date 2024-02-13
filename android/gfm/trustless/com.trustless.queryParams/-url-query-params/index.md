@@ -2,7 +2,7 @@
 
 # UrlQueryParams
 
-open class [UrlQueryParams](index.md) : [QueryParams](../-query-params/index.md)
+open class [UrlQueryParams](index.md) : QueryParams
 
 #### Inheritors
 
@@ -13,9 +13,3 @@ open class [UrlQueryParams](index.md) : [QueryParams](../-query-params/index.md)
 | [GetPanParams](../../com.trustless.requests.cards.getPan/-get-pan-params/index.md) |
 | [GetTransactionsParams](../../com.trustless.requests.cards.getTransactions/-get-transactions-params/index.md) |
 | [GetPurposesRequestParams](../../com.trustless.requests.cliq/-get-purposes-request-params/index.md) |
-
-## Constructors
-
-| | |
-|---|---|
-| [UrlQueryParams](-url-query-params.md) | [kotlin]<br>constructor() |
