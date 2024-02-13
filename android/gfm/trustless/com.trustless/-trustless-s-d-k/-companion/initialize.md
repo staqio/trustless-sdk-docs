@@ -15,3 +15,9 @@ kotlin
 |---|---|
 | configuration | The configuration settings for the TrustlessSDK |
 | context | The application context used by the SDK for accessing resources and performing operations     that require a context. |
+
+#### Throws
+
+| | |
+|---|---|
+| [TrustlessCertificateException](../../../com.trustless.exceptions/-trustless-certificate-exception/index.md) | Is thrown when the certificate are not able to load |

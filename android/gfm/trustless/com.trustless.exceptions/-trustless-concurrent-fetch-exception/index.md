@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessConcurrentFetchException](index.md) : [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md)
 
+Is thrown when multiple requests are made at the same time
+
 ## Constructors
 
 | | |

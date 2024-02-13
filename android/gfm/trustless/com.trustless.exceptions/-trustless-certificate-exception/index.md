@@ -5,6 +5,10 @@
 [kotlin]\
 class [TrustlessCertificateException](index.md)(reason: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [TrustlessException](../-trustless-exception/index.md)
 
+This exception indicates the problem with the certificate.
+
+It could be either algorithm, keystore, password or Trust manager
+
 ## Constructors
 
 | | |

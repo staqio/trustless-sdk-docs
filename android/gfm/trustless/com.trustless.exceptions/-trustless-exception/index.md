@@ -13,15 +13,11 @@ open class [TrustlessException](index.md)(code: [String](https://kotlinlang.org/
 | [TrustlessCustomerIdIsNull](../-trustless-customer-id-is-null/index.md) |
 | [TrustlessExceptionListener](../-trustless-exception-listener/index.md) |
 | [TrustlessExceptionSecurityProviderIsNotInstalled](../-trustless-exception-security-provider-is-not-installed/index.md) |
-| [TrustlessInvalidJWTAuthHeaderException](../-trustless-invalid-j-w-t-auth-header-exception/index.md) |
-| [TrustlessInvalidJWTTokenException](../-trustless-invalid-j-w-t-token-exception/index.md) |
 | [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md) |
 | [TrustlessKycIdIsNull](../-trustless-kyc-id-is-null/index.md) |
 | [TrustlessMalformedResponse](../-trustless-malformed-response/index.md) |
 | [TrustlessNotInitializedSdkException](../-trustless-not-initialized-sdk-exception/index.md) |
 | [TrustlessPreconditionException](../-trustless-precondition-exception/index.md) |
-| [TrustlessRootDetectedException](../-trustless-root-detected-exception/index.md) |
-| [TrustlessUserIsNotAuthorizedException](../-trustless-user-is-not-authorized-exception/index.md) |
 | [TrustlessUserTokenExpiredException](../-trustless-user-token-expired-exception/index.md) |
 
 ## Constructors

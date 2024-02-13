@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessLimitException](index.md) : [TrustlessPreconditionException](../-trustless-precondition-exception/index.md)
 
+This exception is thrown when the value of a limit is bigger than 1000000000000
+
 ## Constructors
 
 | | |

@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessCustomerIdIsNull](index.md) : [TrustlessException](../-trustless-exception/index.md)
 
+This exception is usually thrown when KYC was not approved yet.
+
 ## Constructors
 
 | | |

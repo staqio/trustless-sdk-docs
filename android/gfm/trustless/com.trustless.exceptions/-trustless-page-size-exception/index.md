@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessPageSizeException](index.md) : [TrustlessPreconditionException](../-trustless-precondition-exception/index.md)
 
+This exceptions is thrown when page size is not between 10 and 500
+
 ## Constructors
 
 | | |

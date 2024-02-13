@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessExceptionListener](index.md) : [TrustlessException](../-trustless-exception/index.md)
 
+This exceptions is thrown when the developer has not set subscribeToSecurityProviderUpdate listener Refer to advanced documentation for more details
+
 ## Constructors
 
 | | |

@@ -5,6 +5,8 @@
 [kotlin]\
 class [TrustlessUserTokenExpiredException](index.md) : [TrustlessException](../-trustless-exception/index.md)
 
+This error is thrown when user token has expired due to time, or because it was invalidated on the server
+
 ## Constructors
 
 | | |
