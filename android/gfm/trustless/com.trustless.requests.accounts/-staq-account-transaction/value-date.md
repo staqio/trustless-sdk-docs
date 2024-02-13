@@ -8,10 +8,4 @@
 
 val [valueDate](value-date.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| valueDate | Transaction value date |
+Transaction value date

@@ -7,11 +7,3 @@
 @SerialName(value = &quot;Fees&quot;)
 
 val [fees](fees.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| fees | Fees amount in the card currency |

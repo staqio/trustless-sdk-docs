@@ -2,20 +2,12 @@
 
 # StaqLimitGroup
 
+[kotlin]\
 @Serializable
 
 data class [StaqLimitGroup](index.md)(val cash: [StaqLimitEntry](../-staq-limit-entry/index.md), val ecommerce: [StaqLimitEntry](../-staq-limit-entry/index.md))
 
 Limit group
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| cash | cash limit entry |
-| ecommerce | ecommerce limit entry |
 
 ## Constructors
 
@@ -27,5 +19,5 @@ kotlin
 
 | Name | Summary |
 |---|---|
-| [cash](cash.md) | [kotlin]<br>@SerialName(value = &quot;Cash&quot;)<br>val [cash](cash.md): [StaqLimitEntry](../-staq-limit-entry/index.md) |
-| [ecommerce](ecommerce.md) | [kotlin]<br>@SerialName(value = &quot;ECommerce&quot;)<br>val [ecommerce](ecommerce.md): [StaqLimitEntry](../-staq-limit-entry/index.md) |
+| [cash](cash.md) | [kotlin]<br>@SerialName(value = &quot;Cash&quot;)<br>val [cash](cash.md): [StaqLimitEntry](../-staq-limit-entry/index.md)<br>cash limit entry |
+| [ecommerce](ecommerce.md) | [kotlin]<br>@SerialName(value = &quot;ECommerce&quot;)<br>val [ecommerce](ecommerce.md): [StaqLimitEntry](../-staq-limit-entry/index.md)<br>ecommerce limit entry |

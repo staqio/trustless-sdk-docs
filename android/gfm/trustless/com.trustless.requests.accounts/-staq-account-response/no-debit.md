@@ -8,10 +8,4 @@
 
 val [noDebit](no-debit.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| noDebit | The indication that account debit is prohibited |
+The indication that account debit is prohibited

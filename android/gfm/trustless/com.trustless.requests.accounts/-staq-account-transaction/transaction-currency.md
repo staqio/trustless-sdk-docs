@@ -8,10 +8,4 @@
 
 val [transactionCurrency](transaction-currency.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| transactionCurrency | Transaction currency code |
+Transaction currency code

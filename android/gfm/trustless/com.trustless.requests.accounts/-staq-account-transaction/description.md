@@ -8,10 +8,4 @@
 
 val [description](description.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| description | Transaction description |
+Transaction description

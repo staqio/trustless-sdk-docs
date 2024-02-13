@@ -8,10 +8,4 @@
 
 val [blockedAmount](blocked-amount.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) = 0.0
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| blockedAmount | Account blocked amount in the account currency |
+Account blocked amount in the account currency

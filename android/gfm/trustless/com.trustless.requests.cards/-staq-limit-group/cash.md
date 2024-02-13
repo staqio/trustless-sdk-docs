@@ -7,11 +7,3 @@
 @SerialName(value = &quot;Cash&quot;)
 
 val [cash](cash.md): [StaqLimitEntry](../-staq-limit-entry/index.md)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| cash | cash limit entry |

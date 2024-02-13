@@ -8,10 +8,4 @@
 
 val [dormant](dormant.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| dormant | The indication that account is dormant |
+The indication that account is dormant

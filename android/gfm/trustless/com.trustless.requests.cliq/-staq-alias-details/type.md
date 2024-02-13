@@ -7,11 +7,3 @@
 @SerialName(value = &quot;Type&quot;)
 
 val [type](type.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| type | Cliq Alias type ENUM:  ALIAS, MOBL |

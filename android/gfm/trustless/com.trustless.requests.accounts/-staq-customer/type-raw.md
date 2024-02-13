@@ -8,10 +8,4 @@
 
 val [typeRaw](type-raw.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| typeRaw | Account holder customer type |
+Account holder customer type

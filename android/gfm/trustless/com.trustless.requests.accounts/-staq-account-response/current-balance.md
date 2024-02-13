@@ -8,10 +8,4 @@
 
 val [currentBalance](current-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| currentBalance | Account current balance in the account currency |
+Account current balance in the account currency

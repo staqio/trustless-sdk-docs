@@ -2,22 +2,12 @@
 
 # StaqGetLimitResponse
 
+[kotlin]\
 @Serializable
 
 data class [StaqGetLimitResponse](index.md)(val weekly: [StaqLimitGroup](../-staq-limit-group/index.md), val daily: [StaqLimitGroup](../-staq-limit-group/index.md), val monthly: [StaqLimitGroup](../-staq-limit-group/index.md), val annual: [StaqLimitGroup](../-staq-limit-group/index.md))
 
 Get limit response
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| weekly | Weekly limit group |
-| daily | Daily limit group |
-| monthly | Monthly limit group |
-| annual | Annual limit group |
 
 ## Constructors
 
@@ -29,7 +19,7 @@ kotlin
 
 | Name | Summary |
 |---|---|
-| [annual](annual.md) | [kotlin]<br>@SerialName(value = &quot;Annual&quot;)<br>val [annual](annual.md): [StaqLimitGroup](../-staq-limit-group/index.md) |
-| [daily](daily.md) | [kotlin]<br>@SerialName(value = &quot;Daily&quot;)<br>val [daily](daily.md): [StaqLimitGroup](../-staq-limit-group/index.md) |
-| [monthly](monthly.md) | [kotlin]<br>@SerialName(value = &quot;Monthly&quot;)<br>val [monthly](monthly.md): [StaqLimitGroup](../-staq-limit-group/index.md) |
-| [weekly](weekly.md) | [kotlin]<br>@SerialName(value = &quot;Weekly&quot;)<br>val [weekly](weekly.md): [StaqLimitGroup](../-staq-limit-group/index.md) |
+| [annual](annual.md) | [kotlin]<br>@SerialName(value = &quot;Annual&quot;)<br>val [annual](annual.md): [StaqLimitGroup](../-staq-limit-group/index.md)<br>Annual limit group |
+| [daily](daily.md) | [kotlin]<br>@SerialName(value = &quot;Daily&quot;)<br>val [daily](daily.md): [StaqLimitGroup](../-staq-limit-group/index.md)<br>Daily limit group |
+| [monthly](monthly.md) | [kotlin]<br>@SerialName(value = &quot;Monthly&quot;)<br>val [monthly](monthly.md): [StaqLimitGroup](../-staq-limit-group/index.md)<br>Monthly limit group |
+| [weekly](weekly.md) | [kotlin]<br>@SerialName(value = &quot;Weekly&quot;)<br>val [weekly](weekly.md): [StaqLimitGroup](../-staq-limit-group/index.md)<br>Weekly limit group |

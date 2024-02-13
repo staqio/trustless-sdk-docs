@@ -8,10 +8,4 @@
 
 val [customer](customer.md): [StaqCustomer](../-staq-customer/index.md)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| customer | Customer data object |
+Customer data object

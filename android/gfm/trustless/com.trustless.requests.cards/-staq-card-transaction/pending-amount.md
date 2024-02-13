@@ -7,11 +7,3 @@
 @SerialName(value = &quot;PendingAmount&quot;)
 
 val [pendingAmount](pending-amount.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| pendingAmount | Pending amount in the card currency |

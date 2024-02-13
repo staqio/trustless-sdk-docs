@@ -7,11 +7,3 @@
 @SerialName(value = &quot;Status&quot;)
 
 val [statusRaw](status-raw.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| statusRaw | Status to be assigned to the card ENUM:  ACTIVATED, FROZEN, CLOSED |

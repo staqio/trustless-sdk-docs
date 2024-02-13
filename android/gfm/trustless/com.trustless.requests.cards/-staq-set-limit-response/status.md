@@ -7,11 +7,3 @@
 @SerialName(value = &quot;Status&quot;)
 
 val [status](status.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| status | Limit period |

@@ -4,12 +4,3 @@
 
 [kotlin]\
 constructor(cash: [StaqLimitEntry](../-staq-limit-entry/index.md), ecommerce: [StaqLimitEntry](../-staq-limit-entry/index.md))
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| cash | cash limit entry |
-| ecommerce | ecommerce limit entry |

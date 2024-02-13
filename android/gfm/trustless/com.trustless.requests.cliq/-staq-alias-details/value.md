@@ -7,11 +7,3 @@
 @SerialName(value = &quot;Value&quot;)
 
 val [value](value.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| value | Cliq Alias value |

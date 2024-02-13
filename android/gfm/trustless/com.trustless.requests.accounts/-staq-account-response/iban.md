@@ -8,10 +8,4 @@
 
 val [iban](iban.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| iban | Account IBAN |
+Account IBAN

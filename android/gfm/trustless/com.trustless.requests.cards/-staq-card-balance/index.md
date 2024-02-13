@@ -2,22 +2,12 @@
 
 # StaqCardBalance
 
+[kotlin]\
 @Serializable
 
 data class [StaqCardBalance](index.md)(val currencyCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val currentBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val blockedBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val availableBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html))
 
 Balance of the card object
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| currencyCode | Currency code of the card |
-| currentBalance | The amount that card balance indicates |
-| blockedBalance | The amount authorized but not settled yet |
-| availableBalance | The amount that can used for authorizations |
 
 ## Constructors
 
@@ -29,7 +19,7 @@ kotlin
 
 | Name | Summary |
 |---|---|
-| [availableBalance](available-balance.md) | [kotlin]<br>@SerialName(value = &quot;AvailableBalance&quot;)<br>val [availableBalance](available-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) |
-| [blockedBalance](blocked-balance.md) | [kotlin]<br>@SerialName(value = &quot;BlockedBalance&quot;)<br>val [blockedBalance](blocked-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) |
-| [currencyCode](currency-code.md) | [kotlin]<br>@SerialName(value = &quot;CurrencyCode&quot;)<br>val [currencyCode](currency-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [currentBalance](current-balance.md) | [kotlin]<br>@SerialName(value = &quot;CurrentBalance&quot;)<br>val [currentBalance](current-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) |
+| [availableBalance](available-balance.md) | [kotlin]<br>@SerialName(value = &quot;AvailableBalance&quot;)<br>val [availableBalance](available-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)<br>The amount that can used for authorizations |
+| [blockedBalance](blocked-balance.md) | [kotlin]<br>@SerialName(value = &quot;BlockedBalance&quot;)<br>val [blockedBalance](blocked-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)<br>The amount authorized but not settled yet |
+| [currencyCode](currency-code.md) | [kotlin]<br>@SerialName(value = &quot;CurrencyCode&quot;)<br>val [currencyCode](currency-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>Currency code of the card |
+| [currentBalance](current-balance.md) | [kotlin]<br>@SerialName(value = &quot;CurrentBalance&quot;)<br>val [currentBalance](current-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)<br>The amount that card balance indicates |

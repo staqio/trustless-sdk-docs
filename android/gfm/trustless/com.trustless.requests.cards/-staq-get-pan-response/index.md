@@ -2,20 +2,12 @@
 
 # StaqGetPanResponse
 
+[kotlin]\
 @Serializable
 
 data class [StaqGetPanResponse](index.md)(val token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val pan: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
 
 Get Pan Response
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| token | The unique card identifier (non-sensitive information) |
-| pan | Full unmasked card number (sensitive information) |
 
 ## Constructors
 
@@ -27,5 +19,5 @@ kotlin
 
 | Name | Summary |
 |---|---|
-| [pan](pan.md) | [kotlin]<br>@SerialName(value = &quot;PAN&quot;)<br>val [pan](pan.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [token](token.md) | [kotlin]<br>@SerialName(value = &quot;Token&quot;)<br>val [token](token.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [pan](pan.md) | [kotlin]<br>@SerialName(value = &quot;PAN&quot;)<br>val [pan](pan.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>Full unmasked card number (sensitive information) |
+| [token](token.md) | [kotlin]<br>@SerialName(value = &quot;Token&quot;)<br>val [token](token.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>The unique card identifier (non-sensitive information) |

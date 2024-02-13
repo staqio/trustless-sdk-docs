@@ -7,11 +7,3 @@
 @SerialName(value = &quot;Period&quot;)
 
 val [periodRaw](period-raw.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| periodRaw | Limit period DEFAULT: daily ENUM:  daily, weekly, monthly, annually |

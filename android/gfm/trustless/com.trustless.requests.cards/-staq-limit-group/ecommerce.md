@@ -7,11 +7,3 @@
 @SerialName(value = &quot;ECommerce&quot;)
 
 val [ecommerce](ecommerce.md): [StaqLimitEntry](../-staq-limit-entry/index.md)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| ecommerce | ecommerce limit entry |

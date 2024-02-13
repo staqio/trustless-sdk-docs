@@ -7,11 +7,3 @@
 @SerialName(value = &quot;TransactionAmount&quot;)
 
 val [transactionAmount](transaction-amount.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| transactionAmount | Transaction amount in the transaction currency |

@@ -8,10 +8,4 @@
 
 val [debitCreditIndicator](debit-credit-indicator.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| debitCreditIndicator | Indicator of the transaction side. (D) for debit or (C) for credit |
+Indicator of the transaction side. (D) for debit or (C) for credit

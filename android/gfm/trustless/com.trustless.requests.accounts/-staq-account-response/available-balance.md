@@ -8,10 +8,4 @@
 
 val [availableBalance](available-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| availableBalance | Account available balance in the account currency |
+Account available balance in the account currency

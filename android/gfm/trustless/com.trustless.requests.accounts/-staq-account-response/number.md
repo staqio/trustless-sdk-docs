@@ -8,10 +8,4 @@
 
 val [number](number.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| number | Number |
+Number
