@@ -18,3 +18,12 @@ kotlin
 | | |
 |---|---|
 | sourceFields | is a map in the following format json.put(&quot;fullNameNationalLanguage&quot;, fullNameNationalLanguageValue.visualZone); let json = SourceFieldsMap() json.put(&quot;optionalDataFirstLine&quot;, &quot;String&quot;) json.put(&quot;nationality&quot;, &quot;String&quot;) json.put(&quot;fullName&quot;, &quot;String&quot;) json.put(&quot;documentNumber&quot;, &quot;String&quot;) json.put(&quot;dateOfExpiry&quot;, &quot;String&quot;) json.put(&quot;frontCard&quot;, File) json.put(&quot;backCard&quot;, File) json.put(&quot;dateOfBirth&quot;, &quot;String&quot;) json.put(&quot;gender&quot;, &quot;String&quot;) json.put(&quot;selfieImage&quot;, File) json.put(&quot;selfieVideo&quot;, File) |
+
+#### Throws
+
+| | |
+|---|---|
+| [TrustlessException](../../com.trustless.exceptions/-trustless-exception/index.md) | Is thrown when the server returns custom error, or when error was not expected by the SDK |
+| [TrustlessUserTokenExpiredException](../../com.trustless.exceptions/-trustless-user-token-expired-exception/index.md) | Is thrown when the token expires, either due to time period or server forced expiration |
+| [TrustlessMalformedResponse](../../com.trustless.exceptions/-trustless-malformed-response/index.md) | Is thrown when server returned unexpected format of the data |
+| CancellationException | Is thrown usually when the developer cancels the coroutine |

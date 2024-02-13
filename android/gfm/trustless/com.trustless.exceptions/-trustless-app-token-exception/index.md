@@ -1,34 +1,15 @@
-//[trustless](../../../index.md)/[com.trustless.exceptions](../index.md)/[TrustlessException](index.md)
+//[trustless](../../../index.md)/[com.trustless.exceptions](../index.md)/[TrustlessAppTokenException](index.md)
 
-# TrustlessException
+# TrustlessAppTokenException
 
-open class [TrustlessException](index.md)(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) : [Exception](https://developer.android.com/reference/kotlin/java/lang/Exception.html)
-
-#### Inheritors
-
-| |
-|---|
-| [TrustlessAppTokenException](../-trustless-app-token-exception/index.md) |
-| [TrustlessCertificateException](../-trustless-certificate-exception/index.md) |
-| [TrustlessCustomerIdIsNull](../-trustless-customer-id-is-null/index.md) |
-| [TrustlessExceptionListener](../-trustless-exception-listener/index.md) |
-| [TrustlessExceptionSecurityProviderIsNotInstalled](../-trustless-exception-security-provider-is-not-installed/index.md) |
-| [TrustlessInvalidJWTAuthHeaderException](../-trustless-invalid-j-w-t-auth-header-exception/index.md) |
-| [TrustlessInvalidJWTTokenException](../-trustless-invalid-j-w-t-token-exception/index.md) |
-| [TrustlessInvalidUsageException](../-trustless-invalid-usage-exception/index.md) |
-| [TrustlessKycIdIsNull](../-trustless-kyc-id-is-null/index.md) |
-| [TrustlessMalformedResponse](../-trustless-malformed-response/index.md) |
-| [TrustlessNotInitializedSdkException](../-trustless-not-initialized-sdk-exception/index.md) |
-| [TrustlessPreconditionException](../-trustless-precondition-exception/index.md) |
-| [TrustlessRootDetectedException](../-trustless-root-detected-exception/index.md) |
-| [TrustlessUserIsNotAuthorizedException](../-trustless-user-is-not-authorized-exception/index.md) |
-| [TrustlessUserTokenExpiredException](../-trustless-user-token-expired-exception/index.md) |
+[kotlin]\
+class [TrustlessAppTokenException](index.md) : [TrustlessException](../-trustless-exception/index.md)
 
 ## Constructors
 
 | | |
 |---|---|
-| [TrustlessException](-trustless-exception.md) | [kotlin]<br>constructor(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), message: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) |
+| [TrustlessAppTokenException](-trustless-app-token-exception.md) | [kotlin]<br>constructor() |
 
 ## Properties
 
@@ -43,7 +24,7 @@ open class [TrustlessException](index.md)(code: [String](https://kotlinlang.org/
 |---|---|
 | [addSuppressed](../-trustless-user-token-expired-exception/index.md#282858770%2FFunctions%2F-1818097539) | [kotlin]<br>fun [addSuppressed](../-trustless-user-token-expired-exception/index.md#282858770%2FFunctions%2F-1818097539)(p0: [Throwable](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-throwable/index.html)) |
 | [fillInStackTrace](../-trustless-user-token-expired-exception/index.md#-1102069925%2FFunctions%2F-1818097539) | [kotlin]<br>open fun [fillInStackTrace](../-trustless-user-token-expired-exception/index.md#-1102069925%2FFunctions%2F-1818097539)(): [Throwable](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-throwable/index.html) |
-| [getErrorCode](get-error-code.md) | [kotlin]<br>fun [getErrorCode](get-error-code.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [getErrorCode](../-trustless-exception/get-error-code.md) | [kotlin]<br>fun [getErrorCode](../-trustless-exception/get-error-code.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [getLocalizedMessage](../-trustless-user-token-expired-exception/index.md#1043865560%2FFunctions%2F-1818097539) | [kotlin]<br>open fun [getLocalizedMessage](../-trustless-user-token-expired-exception/index.md#1043865560%2FFunctions%2F-1818097539)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
 | [getStackTrace](../-trustless-user-token-expired-exception/index.md#2050903719%2FFunctions%2F-1818097539) | [kotlin]<br>open fun [getStackTrace](../-trustless-user-token-expired-exception/index.md#2050903719%2FFunctions%2F-1818097539)(): [Array](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/index.html)&lt;[StackTraceElement](https://developer.android.com/reference/kotlin/java/lang/StackTraceElement.html)&gt; |
 | [getSuppressed](../-trustless-user-token-expired-exception/index.md#672492560%2FFunctions%2F-1818097539) | [kotlin]<br>fun [getSuppressed](../-trustless-user-token-expired-exception/index.md#672492560%2FFunctions%2F-1818097539)(): [Array](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/index.html)&lt;[Throwable](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-throwable/index.html)&gt; |
