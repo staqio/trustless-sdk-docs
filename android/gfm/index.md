@@ -17,7 +17,6 @@
 | [com.trustless.requests.accounts.deleteAnAccount](trustless/com.trustless.requests.accounts.deleteAnAccount/index.md) |
 | [com.trustless.requests.accounts.getAccount](trustless/com.trustless.requests.accounts.getAccount/index.md) |
 | [com.trustless.requests.accounts.getAccounts](trustless/com.trustless.requests.accounts.getAccounts/index.md) |
-| [com.trustless.requests.accounts.getTransactions](trustless/com.trustless.requests.accounts.getTransactions/index.md) |
 | [com.trustless.requests.cards](trustless/com.trustless.requests.cards/index.md) |
 | [com.trustless.requests.cards.changeCardStatus](trustless/com.trustless.requests.cards.changeCardStatus/index.md) |
 | [com.trustless.requests.cards.changeMobileNumber](trustless/com.trustless.requests.cards.changeMobileNumber/index.md) |
@@ -28,7 +27,6 @@
 | [com.trustless.requests.cards.getLimits](trustless/com.trustless.requests.cards.getLimits/index.md) |
 | [com.trustless.requests.cards.getPan](trustless/com.trustless.requests.cards.getPan/index.md) |
 | [com.trustless.requests.cards.getPan.cvv](trustless/com.trustless.requests.cards.getPan.cvv/index.md) |
-| [com.trustless.requests.cards.getTransactions](trustless/com.trustless.requests.cards.getTransactions/index.md) |
 | [com.trustless.requests.cards.setLimits](trustless/com.trustless.requests.cards.setLimits/index.md) |
 | [com.trustless.requests.cards.topUp](trustless/com.trustless.requests.cards.topUp/index.md) |
 | [com.trustless.requests.cards.withdraw](trustless/com.trustless.requests.cards.withdraw/index.md) |
