@@ -2,23 +2,12 @@
 
 # StaqTransferResponseStatus
 
+[kotlin]\
 @Serializable
 
 data class [StaqTransferResponseStatus](index.md)(val id: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), val code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val label: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val labelAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
 
 Status response object
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| id | The unique transaction id |
-| code | The code of status |
-| name | The name of status |
-| label | The label of status |
-| labelAr | The label of status in Arabic |
 
 ## Constructors
 
@@ -30,8 +19,8 @@ kotlin
 
 | Name | Summary |
 |---|---|
-| [code](code.md) | [kotlin]<br>@SerialName(value = &quot;Code&quot;)<br>val [code](code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [id](id.md) | [kotlin]<br>@SerialName(value = &quot;Id&quot;)<br>val [id](id.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) |
-| [label](label.md) | [kotlin]<br>@SerialName(value = &quot;Label&quot;)<br>val [label](label.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [labelAr](label-ar.md) | [kotlin]<br>@SerialName(value = &quot;LabelAr&quot;)<br>val [labelAr](label-ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [name](name.md) | [kotlin]<br>@SerialName(value = &quot;Name&quot;)<br>val [name](name.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [code](code.md) | [kotlin]<br>@SerialName(value = &quot;Code&quot;)<br>val [code](code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>The code of status |
+| [id](id.md) | [kotlin]<br>@SerialName(value = &quot;Id&quot;)<br>val [id](id.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)<br>The unique transaction id |
+| [label](label.md) | [kotlin]<br>@SerialName(value = &quot;Label&quot;)<br>val [label](label.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>The label of status |
+| [labelAr](label-ar.md) | [kotlin]<br>@SerialName(value = &quot;LabelAr&quot;)<br>val [labelAr](label-ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>The label of status in Arabic |
+| [name](name.md) | [kotlin]<br>@SerialName(value = &quot;Name&quot;)<br>val [name](name.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>The name of status |

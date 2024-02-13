@@ -7,11 +7,3 @@
 @SerialName(value = &quot;TransferNote&quot;)
 
 val [transferNote](transfer-note.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| transferNote | Transfer note |

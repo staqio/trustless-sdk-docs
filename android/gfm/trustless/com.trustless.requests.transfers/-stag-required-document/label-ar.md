@@ -4,11 +4,3 @@
 
 [kotlin]\
 val [labelAr](label-ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| labelAr | Label of required documents in Arabic |

@@ -7,11 +7,3 @@
 @SerialName(value = &quot;ExchangeRate&quot;)
 
 val [exchangeRate](exchange-rate.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| exchangeRate | Exchange Rate |

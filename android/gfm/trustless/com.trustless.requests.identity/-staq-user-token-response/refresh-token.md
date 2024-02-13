@@ -7,11 +7,3 @@
 @SerialName(value = &quot;refresh_token&quot;)
 
 val [refreshToken](refresh-token.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| refreshToken | Refresh token for the access token MINLENGTH: 1 |

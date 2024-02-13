@@ -7,11 +7,3 @@
 @SerialName(value = &quot;Beneficiary&quot;)
 
 val [beneficiary](beneficiary.md): [StaqTransferResponseBeneficiary](../-staq-transfer-response-beneficiary/index.md)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| beneficiary | Beneficiary object. |

@@ -7,11 +7,3 @@
 @SerialName(value = &quot;FirstName&quot;)
 
 val [firstName](first-name.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| firstName | First name of the application user |

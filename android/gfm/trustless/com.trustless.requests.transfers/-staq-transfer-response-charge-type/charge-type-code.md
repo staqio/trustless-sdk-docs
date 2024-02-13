@@ -7,11 +7,3 @@
 @SerialName(value = &quot;ChargeTypeCode&quot;)
 
 val [chargeTypeCode](charge-type-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| chargeTypeCode | Charge Type Code |

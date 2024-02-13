@@ -7,11 +7,3 @@
 @SerialName(value = &quot;Label&quot;)
 
 val [label](label.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| label | The label of status |

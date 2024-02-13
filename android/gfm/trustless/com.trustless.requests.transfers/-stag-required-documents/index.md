@@ -2,22 +2,12 @@
 
 # StagRequiredDocuments
 
+[kotlin]\
 @Serializable
 
 data class [StagRequiredDocuments](index.md)(val requiredDocumentCount: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), val requiredDocumentsList: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;, val requiredDocumentsListAr: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;, val isDocumentsRequired: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)?&gt;)
 
 Object with required documents.
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| requiredDocumentCount | Number of required documents |
-| requiredDocumentsList | List of names of the required documents |
-| requiredDocumentsListAr | List of arabic names of the required documents |
-| isDocumentsRequired | List of Bool values which mean if the required document is required to continue. |
 
 ## Constructors
 
@@ -29,7 +19,7 @@ kotlin
 
 | Name | Summary |
 |---|---|
-| [isDocumentsRequired](is-documents-required.md) | [kotlin]<br>@SerialName(value = &quot;IsDocumentsRequired&quot;)<br>val [isDocumentsRequired](is-documents-required.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)?&gt; |
-| [requiredDocumentCount](required-document-count.md) | [kotlin]<br>@SerialName(value = &quot;RequiredDocumentCount&quot;)<br>val [requiredDocumentCount](required-document-count.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) |
-| [requiredDocumentsList](required-documents-list.md) | [kotlin]<br>@SerialName(value = &quot;RequiredDocumentsList&quot;)<br>val [requiredDocumentsList](required-documents-list.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt; |
-| [requiredDocumentsListAr](required-documents-list-ar.md) | [kotlin]<br>@SerialName(value = &quot;RequiredDocumentsListAr&quot;)<br>val [requiredDocumentsListAr](required-documents-list-ar.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt; |
+| [isDocumentsRequired](is-documents-required.md) | [kotlin]<br>@SerialName(value = &quot;IsDocumentsRequired&quot;)<br>val [isDocumentsRequired](is-documents-required.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)?&gt;<br>List of Bool values which mean if the required document is required to continue. |
+| [requiredDocumentCount](required-document-count.md) | [kotlin]<br>@SerialName(value = &quot;RequiredDocumentCount&quot;)<br>val [requiredDocumentCount](required-document-count.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)<br>Number of required documents |
+| [requiredDocumentsList](required-documents-list.md) | [kotlin]<br>@SerialName(value = &quot;RequiredDocumentsList&quot;)<br>val [requiredDocumentsList](required-documents-list.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;<br>List of names of the required documents |
+| [requiredDocumentsListAr](required-documents-list-ar.md) | [kotlin]<br>@SerialName(value = &quot;RequiredDocumentsListAr&quot;)<br>val [requiredDocumentsListAr](required-documents-list-ar.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;<br>List of arabic names of the required documents |

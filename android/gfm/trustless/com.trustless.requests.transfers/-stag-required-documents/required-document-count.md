@@ -7,11 +7,3 @@
 @SerialName(value = &quot;RequiredDocumentCount&quot;)
 
 val [requiredDocumentCount](required-document-count.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| requiredDocumentCount | Number of required documents |

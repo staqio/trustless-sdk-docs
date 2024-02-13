@@ -7,11 +7,3 @@
 @SerialName(value = &quot;Status&quot;)
 
 val [status](status.md): [StaqTransferResponseStatus](../-staq-transfer-response-status/index.md)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| status | Status of the transfer object. |

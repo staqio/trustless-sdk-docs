@@ -7,11 +7,3 @@
 @SerialName(value = &quot;PhoneNumber&quot;)
 
 val [phoneNumber](phone-number.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| phoneNumber | Phone number of the application user |
