@@ -2,8 +2,15 @@
 
 # ChangeCardStatusParams
 
-[kotlin]\
 class [ChangeCardStatusParams](index.md)(status: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| status | Status to be assigned to the card ENUM:  ACTIVATED, FROZEN, CLOSED |
 
 ## Constructors
 

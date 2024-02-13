@@ -21,6 +21,7 @@
 | [com.trustless.requests.cards.getCards](trustless/com.trustless.requests.cards.getCards/index.md) |
 | [com.trustless.requests.cards.setLimits](trustless/com.trustless.requests.cards.setLimits/index.md) |
 | [com.trustless.requests.cards.topUp](trustless/com.trustless.requests.cards.topUp/index.md) |
+| [com.trustless.requests.cards.withdraw](trustless/com.trustless.requests.cards.withdraw/index.md) |
 | [com.trustless.requests.cliq](trustless/com.trustless.requests.cliq/index.md) |
 | [com.trustless.requests.identity](trustless/com.trustless.requests.identity/index.md) |
 | [com.trustless.requests.identity.appToken](trustless/com.trustless.requests.identity.appToken/index.md) |
