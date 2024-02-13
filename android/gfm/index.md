@@ -13,8 +13,6 @@
 | [com.trustless.queryParams](trustless/com.trustless.queryParams/index.md) |
 | [com.trustless.requests.accounts](trustless/com.trustless.requests.accounts/index.md) |
 | [com.trustless.requests.accounts.createAnAccount](trustless/com.trustless.requests.accounts.createAnAccount/index.md) |
-| [com.trustless.requests.accounts.deleteAnAccount](trustless/com.trustless.requests.accounts.deleteAnAccount/index.md) |
-| [com.trustless.requests.accounts.getAccount](trustless/com.trustless.requests.accounts.getAccount/index.md) |
 | [com.trustless.requests.accounts.getAccounts](trustless/com.trustless.requests.accounts.getAccounts/index.md) |
 | [com.trustless.requests.cards](trustless/com.trustless.requests.cards/index.md) |
 | [com.trustless.requests.cards.changeCardStatus](trustless/com.trustless.requests.cards.changeCardStatus/index.md) |
