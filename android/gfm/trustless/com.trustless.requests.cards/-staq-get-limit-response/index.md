@@ -5,15 +5,9 @@
 [kotlin]\
 @Serializable
 
-data class [StaqGetLimitResponse](index.md)(val weekly: [StaqLimitGroup](../-staq-limit-group/index.md), val daily: [StaqLimitGroup](../-staq-limit-group/index.md), val monthly: [StaqLimitGroup](../-staq-limit-group/index.md), val annual: [StaqLimitGroup](../-staq-limit-group/index.md))
+data class [StaqGetLimitResponse](index.md)
 
 Get limit response
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqGetLimitResponse](-staq-get-limit-response.md) | [kotlin]<br>constructor(weekly: [StaqLimitGroup](../-staq-limit-group/index.md), daily: [StaqLimitGroup](../-staq-limit-group/index.md), monthly: [StaqLimitGroup](../-staq-limit-group/index.md), annual: [StaqLimitGroup](../-staq-limit-group/index.md)) |
 
 ## Properties
 

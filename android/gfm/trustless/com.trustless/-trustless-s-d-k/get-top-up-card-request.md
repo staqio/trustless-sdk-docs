@@ -3,7 +3,7 @@
 # getTopUpCardRequest
 
 [kotlin]\
-fun [getTopUpCardRequest](get-top-up-card-request.md)(token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [TopUpCardRequest](../../com.trustless.requests.cards.topUp/-top-up-card-request/index.md)
+fun [getTopUpCardRequest](get-top-up-card-request.md)(token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): TopUpCardRequest
 
 Credits funds to a card from the customer's account
 
@@ -11,7 +11,7 @@ Credits funds to a card from the customer's account
 
 #### Return
 
-[TopUpCardRequest](../../com.trustless.requests.cards.topUp/-top-up-card-request/index.md) request class to handle request.
+TopUpCardRequest request class to handle request.
 
 #### Parameters
 

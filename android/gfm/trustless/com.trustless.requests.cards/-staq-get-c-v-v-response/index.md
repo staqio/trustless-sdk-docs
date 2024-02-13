@@ -5,15 +5,9 @@
 [kotlin]\
 @Serializable
 
-data class [StaqGetCVVResponse](index.md)(val token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val pan: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val cvv: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [StaqGetCVVResponse](index.md)
 
 Get Pan with CVV Response
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqGetCVVResponse](-staq-get-c-v-v-response.md) | [kotlin]<br>constructor(token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), pan: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), cvv: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 

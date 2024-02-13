@@ -5,15 +5,9 @@
 [kotlin]\
 @Serializable
 
-data class [StaqGetPanResponse](index.md)(val token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val pan: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [StaqGetPanResponse](index.md)
 
 Get Pan Response
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqGetPanResponse](-staq-get-pan-response.md) | [kotlin]<br>constructor(token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), pan: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 

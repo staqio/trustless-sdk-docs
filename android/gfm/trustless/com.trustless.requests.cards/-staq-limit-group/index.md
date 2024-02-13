@@ -5,15 +5,9 @@
 [kotlin]\
 @Serializable
 
-data class [StaqLimitGroup](index.md)(val cash: [StaqLimitEntry](../-staq-limit-entry/index.md), val ecommerce: [StaqLimitEntry](../-staq-limit-entry/index.md))
+data class [StaqLimitGroup](index.md)
 
 Limit group
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqLimitGroup](-staq-limit-group.md) | [kotlin]<br>constructor(cash: [StaqLimitEntry](../-staq-limit-entry/index.md), ecommerce: [StaqLimitEntry](../-staq-limit-entry/index.md)) |
 
 ## Properties
 

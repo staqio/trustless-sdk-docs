@@ -1,6 +1,0 @@
-//[trustless](../../../index.md)/[com.trustless.requests.cards](../index.md)/[StaqCardDetails](index.md)/[StaqCardDetails](-staq-card-details.md)
-
-# StaqCardDetails
-
-[kotlin]\
-constructor(typeRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), statusRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), balances: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqCardBalance](../-staq-card-balance/index.md)&gt;, expiryDate: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), secure3DEnrolled: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)? = null, cvv: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, pan: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), cardHolderName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)

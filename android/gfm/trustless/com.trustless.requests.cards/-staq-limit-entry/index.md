@@ -5,15 +5,9 @@
 [kotlin]\
 @Serializable
 
-data class [StaqLimitEntry](index.md)(val limit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val transactionCountLimit: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), val transactionAmountLimit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val remainingAmount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)? = null, val remainingCount: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null)
+data class [StaqLimitEntry](index.md)
 
 Limit entry
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqLimitEntry](-staq-limit-entry.md) | [kotlin]<br>constructor(limit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), transactionCountLimit: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), transactionAmountLimit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), remainingAmount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)? = null, remainingCount: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null) |
 
 ## Properties
 

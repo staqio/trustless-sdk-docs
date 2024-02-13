@@ -5,15 +5,9 @@
 [kotlin]\
 @Serializable
 
-data class [StaqCardBalance](index.md)(val currencyCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val currentBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val blockedBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val availableBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html))
+data class [StaqCardBalance](index.md)
 
 Balance of the card object
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqCardBalance](-staq-card-balance.md) | [kotlin]<br>constructor(currencyCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), currentBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), blockedBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), availableBalance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)) |
 
 ## Properties
 

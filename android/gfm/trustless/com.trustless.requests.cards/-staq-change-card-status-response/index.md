@@ -5,15 +5,9 @@
 [kotlin]\
 @Serializable
 
-data class [StaqChangeCardStatusResponse](index.md)(val statusRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [StaqChangeCardStatusResponse](index.md)
 
 Change card status response
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqChangeCardStatusResponse](-staq-change-card-status-response.md) | [kotlin]<br>constructor(statusRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 

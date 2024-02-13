@@ -5,15 +5,9 @@
 [kotlin]\
 @Serializable
 
-data class [StaqSetLimitResponse](index.md)(val periodRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val typeRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val limit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), val status: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [StaqSetLimitResponse](index.md)
 
 Set limit response
-
-## Constructors
-
-| | |
-|---|---|
-| [StaqSetLimitResponse](-staq-set-limit-response.md) | [kotlin]<br>constructor(periodRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), typeRaw: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), limit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), status: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
 
 ## Properties
 
