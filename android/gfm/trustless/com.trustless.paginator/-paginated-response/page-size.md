@@ -5,10 +5,4 @@
 [kotlin]\
 val [pageSize](page-size.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| pageSize | The number of items per page. |
+The number of items per page.

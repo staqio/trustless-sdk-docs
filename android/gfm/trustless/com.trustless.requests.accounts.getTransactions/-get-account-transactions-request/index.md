@@ -3,7 +3,7 @@
 # GetAccountTransactionsRequest
 
 [kotlin]\
-class [GetAccountTransactionsRequest](index.md) : [PaginationRequest](../../com.trustless.paginator/-pagination-request/index.md)&lt;[List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqAccountTransaction](../../com.trustless.requests.accounts/-staq-account-transaction/index.md)&gt;&gt;
+class [GetAccountTransactionsRequest](index.md) : PaginationRequest&lt;[List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqAccountTransaction](../../com.trustless.requests.accounts/-staq-account-transaction/index.md)&gt;&gt;
 
 ## Functions
 

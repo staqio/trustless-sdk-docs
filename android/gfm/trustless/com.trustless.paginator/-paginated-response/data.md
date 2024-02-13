@@ -5,10 +5,4 @@
 [kotlin]\
 val [data](data.md): [T](index.md)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| data | The data returned from the server for the current page. |
+The data returned from the server for the current page.

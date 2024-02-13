@@ -7,12 +7,6 @@ class [Paginator](index.md)&lt;[T](index.md)&gt;
 
 Facilitates pagination by encapsulating the logic required to manage paginated requests. This class unifies the process of fetching paginated data from a server, tracking current page and page size, and executing requests for data as needed.
 
-## Types
-
-| Name | Summary |
-|---|---|
-| [Builder](-builder/index.md) | [kotlin]<br>class [Builder](-builder/index.md)&lt;[T](-builder/index.md)&gt;(request: [PaginationRequest](../-pagination-request/index.md)&lt;[List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[T](-builder/index.md)&gt;&gt;, args: [UrlQueryParams](../../com.trustless.queryParams/-url-query-params/index.md)) |
-
 ## Functions
 
 | Name | Summary |

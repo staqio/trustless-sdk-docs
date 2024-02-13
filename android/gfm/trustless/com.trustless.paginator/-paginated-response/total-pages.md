@@ -5,10 +5,4 @@
 [kotlin]\
 val [totalPages](total-pages.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
 
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| totalPages | The total number of pages available. |
+The total number of pages available.
