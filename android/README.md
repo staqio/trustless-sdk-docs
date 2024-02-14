@@ -59,6 +59,45 @@ To use TrustlessSdk, you must first obtain a client certificate and credentials 
 ```
 Optionally, customize the SDK initialization by adding your own `OkHttp` client to the `TrustlessConfiguration` as the last parameter for advanced networking configurations.
 
+## Security Provider
+The Security Provider feature in Android enables applications to address SSL vulnerabilities dynamically, without the need to modify the app's source code directly. This capability is crucial for maintaining the security integrity of your application by ensuring it uses the most up-to-date encryption protocols and standards.
+### Subscribing to Security Provider Updates
+To leverage this feature, `TrustlessSDK` offers a subscription mechanism that triggers a callback when an update to the Security Provider is necessary. Implement the subscription as follows:
+
+```kotlin
+TrustlessSDK.instance.subscribeToSecurityProviderUpdate { errorCode, _ ->
+        GoogleApiAvailability.getInstance().apply {
+            if (isUserResolvableError(errorCode)) {
+                 // If the error is resolvable by the user, show an error dialog prompting them to update the Security Provider.
+                showErrorDialogFragment(this@MainActivity, errorCode, SECURITY_PROVIDER_CODE) {
+                     // Callback for when the user's intervention fails or is not feasible.
+
+                    TrustlessSDK.instance.securityProviderFailedAsync()
+                }
+            } else {
+                // If the error cannot be resolved by the user, directly notify the failure to handle internally.
+                TrustlessSDK.instance.securityProviderFailedAsync()
+            }
+        }
+    }
+```
+This setup ensures your application attempts to update the Security Provider automatically and handles scenarios where the update cannot be completed, notifying TrustlessSDK to take appropriate action. Keep in mind that if it fails the user won't be able to use the app.
+
+### Handling Update Success
+
+To inform the SDK about the successful update of the Security Provider, especially after user intervention, override `onActivityResult`:
+
+```kotlin
+override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+        super.onActivityResult(requestCode, resultCode, data)
+        if (requestCode == SECURITY_PROVIDER_CODE) {
+              // Notifies the SDK that the Security Provider update was successful.
+            TrustlessSDK.instance.securityProviderSuccessAsync()
+        }
+    }
+```
+This method is crucial for the SDK to recognize the update's success, ensuring your application continues to operate with the latest security standards.
+
 # Basic Usage
 Interact with Staq APIs using the `TrustlessSDK` class. Here’s how to register a new user:
 
