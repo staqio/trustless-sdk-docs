@@ -26,8 +26,7 @@ class [ProofDocumentField](index.md) : [BaseField](../-base-field/index.md)
 
 | Name | Summary |
 |---|---|
-| [getArrayValue](get-array-value.md) | [kotlin]<br>fun [getArrayValue](get-array-value.md)(): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[File](https://developer.android.com/reference/kotlin/java/io/File.html)&gt; |
-| [getPairsArray](get-pairs-array.md) | [kotlin]<br>fun [getPairsArray](get-pairs-array.md)(): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Pair](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [File](https://developer.android.com/reference/kotlin/java/io/File.html)&gt;&gt; |
+| [getArrayValue](get-array-value.md) | [kotlin]<br>fun [getArrayValue](get-array-value.md)(): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[File](https://developer.android.com/reference/kotlin/java/io/File.html)&gt;<br>Returns list of files |
 | [isValid](is-valid.md) | [kotlin]<br>open override fun [isValid](is-valid.md)(): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)<br>if the current field has valid data |
-| [setValue](set-value.md) | [kotlin]<br>fun [setValue](set-value.md)(newArray: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[File](https://developer.android.com/reference/kotlin/java/io/File.html)&gt;) |
+| [setValue](set-value.md) | [kotlin]<br>fun [setValue](set-value.md)(newArray: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[File](https://developer.android.com/reference/kotlin/java/io/File.html)&gt;)<br>Sets New list of files |
 | [validate](validate.md) | [kotlin]<br>open override fun [validate](validate.md)(): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[FieldError](../-field-error/index.md)&gt;<br>returns a list with errors, empty array if the field is valid |

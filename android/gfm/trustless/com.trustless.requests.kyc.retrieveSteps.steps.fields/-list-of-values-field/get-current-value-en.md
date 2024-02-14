@@ -4,3 +4,5 @@
 
 [kotlin]\
 fun [getCurrentValueEn](get-current-value-en.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+Gets English value

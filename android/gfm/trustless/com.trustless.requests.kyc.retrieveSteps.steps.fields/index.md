@@ -14,6 +14,5 @@
 | [IntegerField](-integer-field/index.md) | [kotlin]<br>class [IntegerField](-integer-field/index.md) : [BaseField](-base-field/index.md) |
 | [ListOfValuesField](-list-of-values-field/index.md) | [kotlin]<br>open class [ListOfValuesField](-list-of-values-field/index.md) : [BaseField](-base-field/index.md) |
 | [ProofDocumentField](-proof-document-field/index.md) | [kotlin]<br>class [ProofDocumentField](-proof-document-field/index.md) : [BaseField](-base-field/index.md) |
-| [StringValueManager](-string-value-manager/index.md) | [kotlin]<br>class [StringValueManager](-string-value-manager/index.md) |
 | [TextField](-text-field/index.md) | [kotlin]<br>class [TextField](-text-field/index.md) : [BaseField](-base-field/index.md) |
 | [UrlField](-url-field/index.md) | [kotlin]<br>class [UrlField](-url-field/index.md) : [ListOfValuesField](-list-of-values-field/index.md) |

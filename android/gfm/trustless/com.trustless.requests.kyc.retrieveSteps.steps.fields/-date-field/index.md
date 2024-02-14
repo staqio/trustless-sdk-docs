@@ -26,7 +26,7 @@ class [DateField](index.md) : [BaseField](../-base-field/index.md)
 
 | Name | Summary |
 |---|---|
-| [getValue](get-value.md) | [kotlin]<br>fun [getValue](get-value.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [getValue](get-value.md) | [kotlin]<br>fun [getValue](get-value.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>returns field value |
 | [isValid](is-valid.md) | [kotlin]<br>open override fun [isValid](is-valid.md)(): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)<br>if the current field has valid data |
-| [putValue](put-value.md) | [kotlin]<br>fun [putValue](put-value.md)(value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [putValue](put-value.md) | [kotlin]<br>fun [putValue](put-value.md)(value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))<br>Put value to field in format dd-mm-yyyy |
 | [validate](validate.md) | [kotlin]<br>open override fun [validate](validate.md)(): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[FieldError](../-field-error/index.md)&gt;<br>returns a list with errors, empty array if the field is valid |

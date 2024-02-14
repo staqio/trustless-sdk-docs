@@ -4,3 +4,5 @@
 
 [kotlin]\
 fun [getValue](get-value.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+Gets string value
