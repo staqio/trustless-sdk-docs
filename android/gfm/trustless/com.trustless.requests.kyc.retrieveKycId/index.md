@@ -6,5 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [RetrieveKycIdRequest](-retrieve-kyc-id-request/index.md) | [kotlin]<br>class [RetrieveKycIdRequest](-retrieve-kyc-id-request/index.md) |
 | [RetrieveKycIdResponse](-retrieve-kyc-id-response/index.md) | [kotlin]<br>@Serializable<br>data class [RetrieveKycIdResponse](-retrieve-kyc-id-response/index.md)(val KycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null) |

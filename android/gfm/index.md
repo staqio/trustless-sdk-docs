@@ -43,7 +43,6 @@
 | [com.trustless.requests.kyc.retrieveSteps](trustless/com.trustless.requests.kyc.retrieveSteps/index.md) |
 | [com.trustless.requests.kyc.retrieveSteps.steps](trustless/com.trustless.requests.kyc.retrieveSteps.steps/index.md) |
 | [com.trustless.requests.kyc.retrieveSteps.steps.fields](trustless/com.trustless.requests.kyc.retrieveSteps.steps.fields/index.md) |
-| [com.trustless.requests.kyc.retrieveSteps.steps.validators](trustless/com.trustless.requests.kyc.retrieveSteps.steps.validators/index.md) |
 | [com.trustless.requests.kyc.retrieveSteps.steps.wrapper](trustless/com.trustless.requests.kyc.retrieveSteps.steps.wrapper/index.md) |
 | [com.trustless.requests.kyc.retrieveUserStatus](trustless/com.trustless.requests.kyc.retrieveUserStatus/index.md) |
 | [com.trustless.requests.kyc.updateCustomerContact](trustless/com.trustless.requests.kyc.updateCustomerContact/index.md) |
