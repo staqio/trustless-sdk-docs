@@ -31,9 +31,9 @@ To add TrustlessSdk to your project, update your build configuration as follows:
 To use TrustlessSdk, you must first obtain a client certificate and credentials (`clientId` and `clientSecret`). Follow these steps:
 
 1. Obtain a Client Certificate:
-    - Visit Staq Certificate Management and follow the instructions to acquire a certificate in PFX format.
+    - Visit [Staq Certificate Management](https://developer.staq.io/docs/guides/sandbox/certificates-management) and follow the instructions to acquire a certificate in PFX format.
 2. Obtain Client ID and Client Secret:
-    - Go to Staq Applications Management for details on obtaining your clientId and clientSecret.
+    - Go to [Staq Applications Management](https://developer.staq.io/docs/guides/sandbox/applications-management) for details on obtaining your clientId and clientSecret.
 3. Initialize TrustlessSdk in your application:
 
 ```kotlin
@@ -58,7 +58,6 @@ To use TrustlessSdk, you must first obtain a client certificate and credentials 
     }
 ```
 Optionally, customize the SDK initialization by adding your own `OkHttp` client to the `TrustlessConfiguration` as the last parameter for advanced networking configurations.
-
 
 # Basic Usage
 Interact with Staq APIs using the `TrustlessSDK` class. Here’s how to register a new user:
@@ -132,6 +131,85 @@ request.call(params)
 
 
 # Advanced Usage
+## KYC Module
+1. You need to obtain the steps for the onboarding process by calling with the source map
+```kotlin
+TrustlessSDK.instance.getSteps(sourceMap)
+```
+SourceFieldsMap object is not copied, the reference to your instance is saved. This object is used to save data from the KYCSDK step, you should save this object persist it throughout onboarding process.
+
+The value you get is instance of `AllKYCSteps` class
+you can use to retrieve steps, each step represents one screen.
+`steps.getSteps()`
+
+if `step.isKyc()` returns `true`, this means that on this step you need to perform actions to obtain these parameters, and put them inside `sourceMap` object which you created in the previous step:
+
+next fields are part of a mrz, and can be obtained by reading document mrz
+- `optionalDataFirstLine`
+- `nationality`
+- `fullName`
+- `documentNumber`
+- `dateOfExpiry`
+- `dateOfBirth`
+- `gender`
+
+next fields are files.
+- `frontCard`: front document scan
+- `backCard`: back document scan
+- `selfieImage`: selfie capture
+- `selfieVideo`: recorded video of a person
+
+## Page Display and Validation
+To interact with and validate page fields, follow these guidelines:
+### Field Types
+Each field on a page comes with a specific type that dictates its content and interaction requirements:
+- `BooleanField`: Accepts a `true` or `false` value. If `webViewUrl` is provided, display terms or conditions via a `WebView`.
+- `DateField`: Requires a date in `dd-mm-yyyy` format.
+- `DocumentField`: A file upload is required.
+- `IntegerField`: Accepts integer values only.
+- `ListOfValuesField`: A selection from provided options is required. Use `fieldManager.getChoicesEn()` or `fieldManager.getChoicesAr()` to obtain the choices.
+- `ProofDocumentField`: Requires multiple documents to be uploaded.
+- `TextField`: Accepts a string.
+- `UrlField`: Similar to `ListOfValuesField`, but the data is fetched from the server.
+```kotlin
+val dependentValue = fieldManager.getValueFromDependentField() ?: return
+if (!fieldManager.hasDependentFieldChanged()) {
+    return
+}
+val res = TrustlessSDK.instance.getCityList(dependentValue)
+val choices = HashMap<String, String>()
+for (el in res) {
+    choices[el.code] = el.city
+}
+// same for choicesAr
+fieldManager.setChoices(choices, choicesAr)
+```
+### Displaying a WebView
+For fields where `webViewUrl` is not an empty string, display a WebView to show the linked content. This is commonly used for presenting terms and conditions associated with a `BooleanField`.
+
+### Validation Process
+To validate the current page:
+1. Call `Page.fields` to retrieve an array of errors.
+2. If the array is not empty, the page is considered invalid. Display the first error message using:
+```kotlin
+errorTextView.setText(fieldManager.validate()[0].messageEn)
+```
+### Submission Process
+Upon reaching the last question and confirming the page is valid:
+1. Construct the JSON payload with `allSteps.getJSON()`.
+2. Gather documents using `allSteps.getDocumentsMap()`.
+3. Submit the KYC data with:
+
+```kotlin
+val json = allSteps.getJSON()
+val documents = allSteps.getDocumentsMap()
+val res = TrustlessSDK.instance.uploadKyc(
+            json.toString(),
+            documents
+        )
+}
+```
+
 ## Deinitialization
 To ensure efficient memory management and clean up resources utilized by the Trustless SDK, incorporate the following code snippet when the SDK is no longer needed, typically during the shutdown or cleanup phase of your application:
 ```kotlin
