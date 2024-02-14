@@ -5,6 +5,8 @@
 [kotlin]\
 [INPUT](index.md)
 
+User should input this data
+
 ## Properties
 
 | Name | Summary |

@@ -4,11 +4,3 @@
 
 [kotlin]\
 constructor(kycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
-
-#### Parameters
-
-kotlin
-
-| | |
-|---|---|
-| kycId | KYC case number |

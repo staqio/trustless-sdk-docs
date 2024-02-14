@@ -5,6 +5,8 @@
 [kotlin]\
 [USER](index.md)
 
+The data should be taken from user profile, it is automatically handled by the sdk
+
 ## Properties
 
 | Name | Summary |

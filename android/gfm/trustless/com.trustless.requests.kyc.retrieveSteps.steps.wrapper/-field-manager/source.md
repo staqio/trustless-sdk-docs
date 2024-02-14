@@ -7,4 +7,4 @@ abstract val [source](source.md): [InputKYCType](../../com.trustless.requests.ky
 
 the source of data for the field, could be: USER, INPUT, UNKNOWN, SDK, DOCUMENT
 
-where UNKNOWN is returned when server returned a new type that the SDK is not handling prompt the user to update the app
+where UNKNOWN is returned when server returned a new type that the SDK is not handling. Prompt the user to update the app

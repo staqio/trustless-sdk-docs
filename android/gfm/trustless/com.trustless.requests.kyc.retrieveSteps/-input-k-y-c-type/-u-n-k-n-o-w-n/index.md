@@ -5,6 +5,8 @@
 [kotlin]\
 [UNKNOWN](index.md)
 
+Unhandled KYC Type
+
 ## Properties
 
 | Name | Summary |

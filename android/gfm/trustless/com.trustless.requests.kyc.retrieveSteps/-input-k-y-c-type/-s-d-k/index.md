@@ -5,6 +5,8 @@
 [kotlin]\
 [SDK](index.md)
 
+The data should be taken from the KYC SDK
+
 ## Properties
 
 | Name | Summary |

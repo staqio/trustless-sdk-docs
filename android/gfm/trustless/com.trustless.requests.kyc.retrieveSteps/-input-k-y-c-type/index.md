@@ -3,17 +3,19 @@
 # InputKYCType
 
 [kotlin]\
-enum [InputKYCType](index.md) : [Enum](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html)&lt;[InputKYCType](index.md)&gt;
+enum [InputKYCType](index.md) : [Enum](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html)&lt;[InputKYCType](index.md)&gt; 
+
+KYC (Know your customer) field types
 
 ## Entries
 
 | | |
 |---|---|
-| [USER](-u-s-e-r/index.md) | [kotlin]<br>[USER](-u-s-e-r/index.md) |
-| [INPUT](-i-n-p-u-t/index.md) | [kotlin]<br>[INPUT](-i-n-p-u-t/index.md) |
-| [UNKNOWN](-u-n-k-n-o-w-n/index.md) | [kotlin]<br>[UNKNOWN](-u-n-k-n-o-w-n/index.md) |
-| [SDK](-s-d-k/index.md) | [kotlin]<br>[SDK](-s-d-k/index.md) |
-| [DOCUMENT](-d-o-c-u-m-e-n-t/index.md) | [kotlin]<br>[DOCUMENT](-d-o-c-u-m-e-n-t/index.md) |
+| [USER](-u-s-e-r/index.md) | [kotlin]<br>[USER](-u-s-e-r/index.md)<br>The data should be taken from user profile, it is automatically handled by the sdk |
+| [INPUT](-i-n-p-u-t/index.md) | [kotlin]<br>[INPUT](-i-n-p-u-t/index.md)<br>User should input this data |
+| [UNKNOWN](-u-n-k-n-o-w-n/index.md) | [kotlin]<br>[UNKNOWN](-u-n-k-n-o-w-n/index.md)<br>Unhandled KYC Type |
+| [SDK](-s-d-k/index.md) | [kotlin]<br>[SDK](-s-d-k/index.md)<br>The data should be taken from the KYC SDK |
+| [DOCUMENT](-d-o-c-u-m-e-n-t/index.md) | [kotlin]<br>[DOCUMENT](-d-o-c-u-m-e-n-t/index.md)<br>Document should be uploaded |
 
 ## Properties
 
