@@ -35,17 +35,11 @@
 | [com.trustless.requests.identity.updateUser](trustless/com.trustless.requests.identity.updateUser/index.md) |
 | [com.trustless.requests.identity.userToken](trustless/com.trustless.requests.identity.userToken/index.md) |
 | [com.trustless.requests.kyc.createKyc](trustless/com.trustless.requests.kyc.createKyc/index.md) |
-| [com.trustless.requests.kyc.getCustomerDocument](trustless/com.trustless.requests.kyc.getCustomerDocument/index.md) |
-| [com.trustless.requests.kyc.retrieveKycCustomers](trustless/com.trustless.requests.kyc.retrieveKycCustomers/index.md) |
-| [com.trustless.requests.kyc.retrieveKycId](trustless/com.trustless.requests.kyc.retrieveKycId/index.md) |
-| [com.trustless.requests.kyc.retrieveKycStatus](trustless/com.trustless.requests.kyc.retrieveKycStatus/index.md) |
 | [com.trustless.requests.kyc.retrieveQuestions](trustless/com.trustless.requests.kyc.retrieveQuestions/index.md) |
 | [com.trustless.requests.kyc.retrieveSteps](trustless/com.trustless.requests.kyc.retrieveSteps/index.md) |
 | [com.trustless.requests.kyc.retrieveSteps.steps](trustless/com.trustless.requests.kyc.retrieveSteps.steps/index.md) |
 | [com.trustless.requests.kyc.retrieveSteps.steps.fields](trustless/com.trustless.requests.kyc.retrieveSteps.steps.fields/index.md) |
 | [com.trustless.requests.kyc.retrieveSteps.steps.wrapper](trustless/com.trustless.requests.kyc.retrieveSteps.steps.wrapper/index.md) |
-| [com.trustless.requests.kyc.retrieveUserStatus](trustless/com.trustless.requests.kyc.retrieveUserStatus/index.md) |
-| [com.trustless.requests.kyc.updateCustomerContact](trustless/com.trustless.requests.kyc.updateCustomerContact/index.md) |
 | [com.trustless.requests.simulate.kycId](trustless/com.trustless.requests.simulate.kycId/index.md) |
 | [com.trustless.requests.simulate.setBalance](trustless/com.trustless.requests.simulate.setBalance/index.md) |
 | [com.trustless.requests.transfers](trustless/com.trustless.requests.transfers/index.md) |

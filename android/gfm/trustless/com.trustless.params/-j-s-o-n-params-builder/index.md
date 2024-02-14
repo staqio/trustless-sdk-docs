@@ -21,7 +21,6 @@ open class [JSONParamsBuilder](index.md) : ParamsBuilder
 | [RegisterUserRequestParams](../../com.trustless.requests.identity.registerUser/-register-user-request-params/index.md) |
 | [ResetPasswordRequestParams](../../com.trustless.requests.identity.resetPassword/-reset-password-request-params/index.md) |
 | [UpdateUserRequestParams](../../com.trustless.requests.identity.updateUser/-update-user-request-params/index.md) |
-| [UpdateCustomerContactParams](../../com.trustless.requests.kyc.updateCustomerContact/-update-customer-contact-params/index.md) |
 | [KycIdSimulateParams](../../com.trustless.requests.simulate.kycId/-kyc-id-simulate-params/index.md) |
 | [SetBalanceParams](../../com.trustless.requests.simulate.setBalance/-set-balance-params/index.md) |
 | [CreateCliqTransferParams](../../com.trustless.requests.transfers/-create-cliq-transfer-params/index.md) |
