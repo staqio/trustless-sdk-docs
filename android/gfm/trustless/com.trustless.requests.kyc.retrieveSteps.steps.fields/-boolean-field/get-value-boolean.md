@@ -4,3 +4,5 @@
 
 [kotlin]\
 fun [getValueBoolean](get-value-boolean.md)(): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+
+Returns field value

@@ -4,3 +4,5 @@
 
 [kotlin]\
 abstract fun [isValid](is-valid.md)(): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+
+if the current field has valid data

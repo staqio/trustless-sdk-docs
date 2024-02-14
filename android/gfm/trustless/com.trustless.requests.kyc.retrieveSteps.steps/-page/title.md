@@ -4,3 +4,5 @@
 
 [kotlin]\
 val [title](title.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+Title of the page

@@ -4,3 +4,5 @@
 
 [kotlin]\
 abstract val [requiredWhen](required-when.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[RequiredWhen](../../com.trustless.requests.kyc.retrieveSteps/-required-when/index.md)&gt;
+
+this property is used internally, to check if the field is required conditionally

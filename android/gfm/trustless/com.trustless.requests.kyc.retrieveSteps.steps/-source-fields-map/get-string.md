@@ -4,3 +4,17 @@
 
 [kotlin]\
 fun [getString](get-string.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+Retrieves a string value associated with a given key. Throws an exception if the key is not found or the value is not a String.
+
+#### Return
+
+The string value associated with the specified key.
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| key | The key associated with the string to retrieve. |

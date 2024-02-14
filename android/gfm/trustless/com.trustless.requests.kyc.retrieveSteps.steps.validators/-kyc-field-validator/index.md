@@ -2,15 +2,8 @@
 
 # KycFieldValidator
 
+[kotlin]\
 interface [KycFieldValidator](index.md)&lt;[T](index.md)&gt;
-
-#### Inheritors
-
-| |
-|---|
-| [KycBooleanFieldValidator](../-kyc-boolean-field-validator/index.md) |
-| [KycDateFieldValidator](../-kyc-date-field-validator/index.md) |
-| [KycDefaultStringValidator](../-kyc-default-string-validator/index.md) |
 
 ## Functions
 

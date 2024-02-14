@@ -2,17 +2,10 @@
 
 # FieldValue
 
-@Serializable(with = [FieldValueSerializer::class](../-field-value-serializer/index.md))
+[kotlin]\
+@Serializable(with = FieldValueSerializer::class)
 
 abstract class [FieldValue](index.md)
-
-#### Inheritors
-
-| |
-|---|
-| [StringValue](../-string-value/index.md) |
-| [IntValue](../-int-value/index.md) |
-| [BooleanValue](../-boolean-value/index.md) |
 
 ## Constructors
 

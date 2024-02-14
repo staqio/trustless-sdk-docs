@@ -4,3 +4,5 @@
 
 [kotlin]\
 abstract val [labelEn](label-en.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+
+English label for a field

@@ -4,3 +4,5 @@
 
 [kotlin]\
 open override val [readOnly](read-only.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+
+if a field read only

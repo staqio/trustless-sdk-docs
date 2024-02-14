@@ -9,7 +9,6 @@ interface [FieldWrapper](index.md)
 | |
 |---|
 | [LotsOfFieldsWrapper](../-lots-of-fields-wrapper/index.md) |
-| [SingleFieldWrapper](../-single-field-wrapper/index.md) |
 
 ## Functions
 

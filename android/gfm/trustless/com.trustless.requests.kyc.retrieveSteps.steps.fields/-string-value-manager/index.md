@@ -3,13 +3,7 @@
 # StringValueManager
 
 [kotlin]\
-class [StringValueManager](index.md)(field: [Field](../../com.trustless.requests.kyc.retrieveSteps/-field/index.md), context: [Page](../../com.trustless.requests.kyc.retrieveSteps.steps/-page/index.md))
-
-## Constructors
-
-| | |
-|---|---|
-| [StringValueManager](-string-value-manager.md) | [kotlin]<br>constructor(field: [Field](../../com.trustless.requests.kyc.retrieveSteps/-field/index.md), context: [Page](../../com.trustless.requests.kyc.retrieveSteps.steps/-page/index.md)) |
+class [StringValueManager](index.md)
 
 ## Functions
 
