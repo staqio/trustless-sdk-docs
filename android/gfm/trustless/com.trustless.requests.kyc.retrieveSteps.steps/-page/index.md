@@ -5,7 +5,7 @@
 [kotlin]\
 class [Page](index.md)
 
-Class that is encapsulates page logic for AllSteps class
+Class that encapsulates page logic for AllSteps class
 
 ## Properties
 

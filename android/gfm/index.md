@@ -24,14 +24,10 @@
 | [com.trustless.requests.cards.withdraw](trustless/com.trustless.requests.cards.withdraw/index.md) |
 | [com.trustless.requests.cliq](trustless/com.trustless.requests.cliq/index.md) |
 | [com.trustless.requests.identity](trustless/com.trustless.requests.identity/index.md) |
-| [com.trustless.requests.identity.appToken](trustless/com.trustless.requests.identity.appToken/index.md) |
-| [com.trustless.requests.identity.logout](trustless/com.trustless.requests.identity.logout/index.md) |
 | [com.trustless.requests.identity.passwordRecovery](trustless/com.trustless.requests.identity.passwordRecovery/index.md) |
 | [com.trustless.requests.identity.passwordRecoveryConfirm](trustless/com.trustless.requests.identity.passwordRecoveryConfirm/index.md) |
-| [com.trustless.requests.identity.refreshToken](trustless/com.trustless.requests.identity.refreshToken/index.md) |
 | [com.trustless.requests.identity.registerUser](trustless/com.trustless.requests.identity.registerUser/index.md) |
 | [com.trustless.requests.identity.resetPassword](trustless/com.trustless.requests.identity.resetPassword/index.md) |
-| [com.trustless.requests.identity.retrieveUser](trustless/com.trustless.requests.identity.retrieveUser/index.md) |
 | [com.trustless.requests.identity.updateUser](trustless/com.trustless.requests.identity.updateUser/index.md) |
 | [com.trustless.requests.identity.userToken](trustless/com.trustless.requests.identity.userToken/index.md) |
 | [com.trustless.requests.kyc.createKyc](trustless/com.trustless.requests.kyc.createKyc/index.md) |
