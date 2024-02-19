@@ -23,7 +23,7 @@ To add TrustlessSdk to your project, update your build configuration as follows:
 
 ```kotlin
     dependencies {
-        implementation("com.staq:trustless:1.0.0")
+        implementation("com.staq:trustless:1.1.0")
     }
 ```
 
