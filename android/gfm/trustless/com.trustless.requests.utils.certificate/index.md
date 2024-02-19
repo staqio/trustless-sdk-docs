@@ -6,7 +6,7 @@
 
 | Name | Summary |
 |---|---|
-| [ClientCertificate](-client-certificate/index.md) | [kotlin]<br>data class [ClientCertificate](-client-certificate/index.md)(val data: [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/index.html), val password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [ClientCertificate](-client-certificate/index.md) | [kotlin]<br>data class [ClientCertificate](-client-certificate/index.md)(val data: [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/index.html), val password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))<br>Class to hold certificate in pfx format with the password for it |
 
 ## Functions
 

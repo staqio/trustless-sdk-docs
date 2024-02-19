@@ -4,3 +4,12 @@
 
 [kotlin]\
 constructor(data: [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| data | certificate byte array |
+| password | password from the certificate |

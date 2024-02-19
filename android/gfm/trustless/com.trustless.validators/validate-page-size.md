@@ -4,3 +4,19 @@
 
 [kotlin]\
 fun [validatePageSize](validate-page-size.md)(pageSize: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html))
+
+Validates a page size for pagination purposes.
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| pageSize | The page size to validate. |
+
+#### Throws
+
+| | |
+|---|---|
+| [TrustlessPageSizeException](../com.trustless.exceptions/-trustless-page-size-exception/index.md) | if the page size is invalid. |

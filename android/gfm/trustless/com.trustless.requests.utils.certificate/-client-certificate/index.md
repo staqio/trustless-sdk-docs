@@ -2,8 +2,18 @@
 
 # ClientCertificate
 
-[kotlin]\
 data class [ClientCertificate](index.md)(val data: [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/index.html), val password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+Class to hold certificate in pfx format with the password for it
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| data | certificate byte array |
+| password | password from the certificate |
 
 ## Constructors
 

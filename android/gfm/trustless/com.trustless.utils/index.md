@@ -12,4 +12,4 @@
 
 | Name | Summary |
 |---|---|
-| [runAsync](run-async.md) | [kotlin]<br>fun &lt;[T](run-async.md)&gt; [runAsync](run-async.md)(callback: [AsyncCallback](-async-callback/index.md)&lt;[T](run-async.md)&gt;?, operation: suspend () -&gt; [T](run-async.md)) |
+| [runAsync](run-async.md) | [kotlin]<br>fun &lt;[T](run-async.md)&gt; [runAsync](run-async.md)(callback: [AsyncCallback](-async-callback/index.md)&lt;[T](run-async.md)&gt;?, operation: suspend () -&gt; [T](run-async.md))<br>This function is used to turn suspended function into callback based |

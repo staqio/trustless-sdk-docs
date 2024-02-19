@@ -4,3 +4,19 @@
 
 [kotlin]\
 fun [validateAccountName](validate-account-name.md)(name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+
+Validates an account name.
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| name | The account name to validate. |
+
+#### Throws
+
+| | |
+|---|---|
+| [TrustlessAccountNameException](../com.trustless.exceptions/-trustless-account-name-exception/index.md) | if the account name is invalid. |

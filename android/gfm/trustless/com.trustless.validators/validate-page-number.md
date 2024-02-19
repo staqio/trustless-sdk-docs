@@ -4,3 +4,19 @@
 
 [kotlin]\
 fun [validatePageNumber](validate-page-number.md)(pageNumber: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html))
+
+Validates a page number for pagination purposes.
+
+#### Parameters
+
+kotlin
+
+| | |
+|---|---|
+| pageNumber | The page number to validate. |
+
+#### Throws
+
+| | |
+|---|---|
+| [TrustlessPageNumberException](../com.trustless.exceptions/-trustless-page-number-exception/index.md) | if the page number is invalid. |
