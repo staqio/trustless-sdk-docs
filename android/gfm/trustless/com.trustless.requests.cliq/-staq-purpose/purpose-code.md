@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;PurposeCode&quot;)
 
-val [purposeCode](purpose-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [purposeCode](purpose-code.md): String

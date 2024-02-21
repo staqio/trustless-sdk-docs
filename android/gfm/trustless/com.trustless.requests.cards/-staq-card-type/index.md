@@ -3,7 +3,7 @@
 # StaqCardType
 
 [kotlin]\
-enum [StaqCardType](index.md) : [Enum](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-enum/index.html)&lt;[StaqCardType](index.md)&gt;
+enum [StaqCardType](index.md) : Enum&lt;[StaqCardType](index.md)&gt;
 
 ## Entries
 
@@ -16,13 +16,13 @@ enum [StaqCardType](index.md) : [Enum](https://kotlinlang.org/api/latest/jvm/std
 
 | Name | Summary |
 |---|---|
-| [entries](entries.md) | [kotlin]<br>val [entries](entries.md): [EnumEntries](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.enums/-enum-entries/index.html)&lt;[StaqCardType](index.md)&gt;<br>Returns a representation of an immutable list of all enum entries, in the order they're declared. |
-| [name](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-372974862%2FProperties%2F-1818097539) | [kotlin]<br>val [name](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-372974862%2FProperties%2F-1818097539): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [ordinal](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-739389684%2FProperties%2F-1818097539) | [kotlin]<br>val [ordinal](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-739389684%2FProperties%2F-1818097539): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) |
+| [entries](entries.md) | [kotlin]<br>val [entries](entries.md): EnumEntries&lt;[StaqCardType](index.md)&gt;<br>Returns a representation of an immutable list of all enum entries, in the order they're declared. |
+| [name](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-372974862%2FProperties%2F-1818097539) | [kotlin]<br>val [name](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-372974862%2FProperties%2F-1818097539): String |
+| [ordinal](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-739389684%2FProperties%2F-1818097539) | [kotlin]<br>val [ordinal](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-739389684%2FProperties%2F-1818097539): Int |
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [valueOf](value-of.md) | [kotlin]<br>fun [valueOf](value-of.md)(value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [StaqCardType](index.md)<br>Returns the enum constant of this type with the specified name. The string must match exactly an identifier used to declare an enum constant in this type. (Extraneous whitespace characters are not permitted.) |
-| [values](values.md) | [kotlin]<br>fun [values](values.md)(): [Array](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/index.html)&lt;[StaqCardType](index.md)&gt;<br>Returns an array containing the constants of this enum type, in the order they're declared. |
+| [valueOf](value-of.md) | [kotlin]<br>fun [valueOf](value-of.md)(value: String): [StaqCardType](index.md)<br>Returns the enum constant of this type with the specified name. The string must match exactly an identifier used to declare an enum constant in this type. (Extraneous whitespace characters are not permitted.) |
+| [values](values.md) | [kotlin]<br>fun [values](values.md)(): Array&lt;[StaqCardType](index.md)&gt;<br>Returns an array containing the constants of this enum type, in the order they're declared. |

@@ -3,6 +3,6 @@
 # totalPages
 
 [kotlin]\
-val [totalPages](total-pages.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
+val [totalPages](total-pages.md): Int
 
 The total number of pages available.

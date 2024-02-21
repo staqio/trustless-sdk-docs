@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Id&quot;)
 
-val [id](id.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [id](id.md): String

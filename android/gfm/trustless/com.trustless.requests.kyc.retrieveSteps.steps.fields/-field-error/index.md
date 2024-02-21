@@ -3,17 +3,17 @@
 # FieldError
 
 [kotlin]\
-data class [FieldError](index.md)(val messageEn: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = &quot;&quot;, val messageAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = &quot;&quot;)
+data class [FieldError](index.md)(val messageEn: String = &quot;&quot;, val messageAr: String = &quot;&quot;)
 
 ## Constructors
 
 | | |
 |---|---|
-| [FieldError](-field-error.md) | [kotlin]<br>constructor(messageEn: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = &quot;&quot;, messageAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) = &quot;&quot;) |
+| [FieldError](-field-error.md) | [kotlin]<br>constructor(messageEn: String = &quot;&quot;, messageAr: String = &quot;&quot;) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [messageAr](message-ar.md) | [kotlin]<br>val [messageAr](message-ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [messageEn](message-en.md) | [kotlin]<br>val [messageEn](message-en.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [messageAr](message-ar.md) | [kotlin]<br>val [messageAr](message-ar.md): String |
+| [messageEn](message-en.md) | [kotlin]<br>val [messageEn](message-en.md): String |

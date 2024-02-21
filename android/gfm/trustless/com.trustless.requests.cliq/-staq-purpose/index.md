@@ -5,7 +5,7 @@
 [kotlin]\
 @Serializable
 
-data class [StaqPurpose](index.md)(val purposeCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val purposeCodeLabelAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val purposeCodeLabelEn: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [StaqPurpose](index.md)(val purposeCode: String, val purposeCodeLabelAr: String, val purposeCodeLabelEn: String)
 
 Purpose object
 
@@ -13,12 +13,12 @@ Purpose object
 
 | | |
 |---|---|
-| [StaqPurpose](-staq-purpose.md) | [kotlin]<br>constructor(purposeCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), purposeCodeLabelAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), purposeCodeLabelEn: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [StaqPurpose](-staq-purpose.md) | [kotlin]<br>constructor(purposeCode: String, purposeCodeLabelAr: String, purposeCodeLabelEn: String) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [purposeCode](purpose-code.md) | [kotlin]<br>@SerialName(value = &quot;PurposeCode&quot;)<br>val [purposeCode](purpose-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>Purpose code |
-| [purposeCodeLabelAr](purpose-code-label-ar.md) | [kotlin]<br>@SerialName(value = &quot;PurposeCodeLabelAr&quot;)<br>val [purposeCodeLabelAr](purpose-code-label-ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>Purpose code name in Arabic |
-| [purposeCodeLabelEn](purpose-code-label-en.md) | [kotlin]<br>@SerialName(value = &quot;PurposeCodeLabelEn&quot;)<br>val [purposeCodeLabelEn](purpose-code-label-en.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>Purpose code name in English |
+| [purposeCode](purpose-code.md) | [kotlin]<br>@SerialName(value = &quot;PurposeCode&quot;)<br>val [purposeCode](purpose-code.md): String<br>Purpose code |
+| [purposeCodeLabelAr](purpose-code-label-ar.md) | [kotlin]<br>@SerialName(value = &quot;PurposeCodeLabelAr&quot;)<br>val [purposeCodeLabelAr](purpose-code-label-ar.md): String<br>Purpose code name in Arabic |
+| [purposeCodeLabelEn](purpose-code-label-en.md) | [kotlin]<br>@SerialName(value = &quot;PurposeCodeLabelEn&quot;)<br>val [purposeCodeLabelEn](purpose-code-label-en.md): String<br>Purpose code name in English |

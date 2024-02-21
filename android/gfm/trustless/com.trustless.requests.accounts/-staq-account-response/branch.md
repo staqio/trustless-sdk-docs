@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Branch&quot;)
 
-val [branch](branch.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [branch](branch.md): String

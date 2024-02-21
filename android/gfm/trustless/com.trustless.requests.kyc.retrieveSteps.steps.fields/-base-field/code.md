@@ -3,6 +3,6 @@
 # code
 
 [kotlin]\
-open override val [code](code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+open override val [code](code.md): String
 
 a code for the field, primarily used internally

@@ -3,4 +3,4 @@
 # RetrieveQuestionsResponse
 
 [kotlin]\
-typealias [RetrieveQuestionsResponse](index.md) = [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Item](../-item/index.md)&gt;
+typealias [RetrieveQuestionsResponse](index.md) = List&lt;[Item](../-item/index.md)&gt;

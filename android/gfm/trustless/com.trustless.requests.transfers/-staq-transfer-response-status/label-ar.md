@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;LabelAr&quot;)
 
-val [labelAr](label-ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [labelAr](label-ar.md): String

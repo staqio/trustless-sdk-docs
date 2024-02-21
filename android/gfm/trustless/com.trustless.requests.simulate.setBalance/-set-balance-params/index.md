@@ -2,7 +2,7 @@
 
 # SetBalanceParams
 
-class [SetBalanceParams](index.md)(balance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [SetBalanceParams](index.md)(balance: Double) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 #### Parameters
 
@@ -16,4 +16,4 @@ kotlin
 
 | | |
 |---|---|
-| [SetBalanceParams](-set-balance-params.md) | [kotlin]<br>constructor(balance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)) |
+| [SetBalanceParams](-set-balance-params.md) | [kotlin]<br>constructor(balance: Double) |

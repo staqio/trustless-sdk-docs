@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Alias&quot;)
 
-val [alias](alias.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+val [alias](alias.md): String? = null

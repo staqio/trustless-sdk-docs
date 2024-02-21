@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;CardCurrencyISO&quot;)
 
-val [cardCurrencyISO](card-currency-i-s-o.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [cardCurrencyISO](card-currency-i-s-o.md): String

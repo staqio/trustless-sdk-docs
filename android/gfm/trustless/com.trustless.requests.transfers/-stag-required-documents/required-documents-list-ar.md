@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;RequiredDocumentsListAr&quot;)
 
-val [requiredDocumentsListAr](required-documents-list-ar.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;
+val [requiredDocumentsListAr](required-documents-list-ar.md): List&lt;String&gt;

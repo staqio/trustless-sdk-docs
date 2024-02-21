@@ -3,4 +3,4 @@
 # requiredDocuments
 
 [kotlin]\
-val [requiredDocuments](required-documents.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StagRequiredDocument](../-stag-required-document/index.md)&gt;
+val [requiredDocuments](required-documents.md): List&lt;[StagRequiredDocument](../-stag-required-document/index.md)&gt;

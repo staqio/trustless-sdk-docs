@@ -3,6 +3,6 @@
 # isFromSDK
 
 [kotlin]\
-abstract val [isFromSDK](is-from-s-d-k.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+abstract val [isFromSDK](is-from-s-d-k.md): Boolean
 
 is the source type of the filed is SDK

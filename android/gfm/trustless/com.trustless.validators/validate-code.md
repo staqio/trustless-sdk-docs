@@ -3,7 +3,7 @@
 # validateCode
 
 [kotlin]\
-fun [validateCode](validate-code.md)(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+fun [validateCode](validate-code.md)(code: String)
 
 Validates a code throws TrustlessCodeException if the code does not meet the validation criteria.
 

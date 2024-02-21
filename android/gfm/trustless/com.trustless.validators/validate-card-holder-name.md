@@ -3,7 +3,7 @@
 # validateCardHolderName
 
 [kotlin]\
-fun [validateCardHolderName](validate-card-holder-name.md)(name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+fun [validateCardHolderName](validate-card-holder-name.md)(name: String)
 
 Validates a cardholder's name and throws TrustlessCardholderNameException if the name does not meet the validation criteria.
 

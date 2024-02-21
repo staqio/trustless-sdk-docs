@@ -3,6 +3,6 @@
 # isValid
 
 [kotlin]\
-open override fun [isValid](is-valid.md)(): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+open override fun [isValid](is-valid.md)(): Boolean
 
 if the current field has valid data

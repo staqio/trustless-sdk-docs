@@ -3,6 +3,6 @@
 # isAccountNameValid
 
 [kotlin]\
-fun [isAccountNameValid](is-account-name-valid.md)(name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+fun [isAccountNameValid](is-account-name-valid.md)(name: String): Boolean
 
 Checks if Account name is within a valid range 1, 105

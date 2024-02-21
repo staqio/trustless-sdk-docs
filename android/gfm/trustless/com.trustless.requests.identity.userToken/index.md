@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [UserTokenRequestParams](-user-token-request-params/index.md) | [kotlin]<br>class [UserTokenRequestParams](-user-token-request-params/index.md)(login: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [FormUrlParamsBuilder](../com.trustless.params/-form-url-params-builder/index.md)<br>[Server Api Reference](https://developer.staq.io/docs/apis/identity#/Authentication/Get%20access%20token) |
+| [UserTokenRequestParams](-user-token-request-params/index.md) | [kotlin]<br>class [UserTokenRequestParams](-user-token-request-params/index.md)(login: String, password: String) : [FormUrlParamsBuilder](../com.trustless.params/-form-url-params-builder/index.md)<br>[Server Api Reference](https://developer.staq.io/docs/apis/identity#/Authentication/Get%20access%20token) |

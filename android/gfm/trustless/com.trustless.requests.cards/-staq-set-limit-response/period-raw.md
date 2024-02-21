@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Period&quot;)
 
-val [periodRaw](period-raw.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [periodRaw](period-raw.md): String

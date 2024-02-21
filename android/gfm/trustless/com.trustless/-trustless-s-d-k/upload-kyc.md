@@ -3,7 +3,7 @@
 # uploadKyc
 
 [kotlin]\
-suspend fun [uploadKyc](upload-kyc.md)(body: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), documents: [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [File](https://developer.android.com/reference/kotlin/java/io/File.html)&gt;): [CreateKycResponse](../../com.trustless.requests.kyc.createKyc/-create-kyc-response/index.md)
+suspend fun [uploadKyc](upload-kyc.md)(body: String, documents: Map&lt;String, File&gt;): [CreateKycResponse](../../com.trustless.requests.kyc.createKyc/-create-kyc-response/index.md)
 
 Uploads KYC documents
 

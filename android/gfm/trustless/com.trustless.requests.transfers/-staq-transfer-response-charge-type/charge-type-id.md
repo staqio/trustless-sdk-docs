@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;ChargeTypeId&quot;)
 
-val [chargeTypeId](charge-type-id.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
+val [chargeTypeId](charge-type-id.md): Int

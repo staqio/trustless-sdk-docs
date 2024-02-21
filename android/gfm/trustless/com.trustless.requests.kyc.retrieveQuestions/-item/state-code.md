@@ -3,4 +3,4 @@
 # stateCode
 
 [kotlin]\
-val [stateCode](state-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [stateCode](state-code.md): String

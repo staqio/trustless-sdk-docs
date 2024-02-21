@@ -3,7 +3,7 @@
 # validateAmount
 
 [kotlin]\
-fun [validateAmount](validate-amount.md)(amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html))
+fun [validateAmount](validate-amount.md)(amount: Double)
 
 Validates a monetary amount and throws TrustlessAmountException if the amount does not meet the validation criteria.
 

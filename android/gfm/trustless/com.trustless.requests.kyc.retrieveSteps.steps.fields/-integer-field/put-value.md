@@ -3,6 +3,6 @@
 # putValue
 
 [kotlin]\
-fun [putValue](put-value.md)(value: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html))
+fun [putValue](put-value.md)(value: Int)
 
 Puts int value

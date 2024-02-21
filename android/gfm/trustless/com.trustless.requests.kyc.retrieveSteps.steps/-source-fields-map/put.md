@@ -3,7 +3,7 @@
 # put
 
 [kotlin]\
-fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+fun [put](put.md)(key: String, value: String)
 
 Stores a string value associated with a given key.
 
@@ -17,7 +17,7 @@ kotlin
 | value | The string value to store. |
 
 [kotlin]\
-fun [put](put.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), value: [File](https://developer.android.com/reference/kotlin/java/io/File.html))
+fun [put](put.md)(key: String, value: File)
 
 Stores a file associated with a given key.
 

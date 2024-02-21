@@ -3,7 +3,7 @@
 # validatePhoneNumber
 
 [kotlin]\
-fun [validatePhoneNumber](validate-phone-number.md)(number: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+fun [validatePhoneNumber](validate-phone-number.md)(number: String)
 
 Validates a phone number and throws TrustlessPhoneNumberException if the number does not meet the validation criteria.
 

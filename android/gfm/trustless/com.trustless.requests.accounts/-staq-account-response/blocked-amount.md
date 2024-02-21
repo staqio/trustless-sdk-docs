@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;BlockedAmount&quot;)
 
-val [blockedAmount](blocked-amount.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html) = 0.0
+val [blockedAmount](blocked-amount.md): Double = 0.0

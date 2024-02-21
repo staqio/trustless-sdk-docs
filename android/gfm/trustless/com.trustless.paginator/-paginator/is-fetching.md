@@ -3,7 +3,7 @@
 # isFetching
 
 [kotlin]\
-fun [isFetching](is-fetching.md)(): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+fun [isFetching](is-fetching.md)(): Boolean
 
 Checks if data is currently being fetched.
 

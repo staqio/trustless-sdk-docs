@@ -5,7 +5,7 @@
 [kotlin]\
 @Serializable
 
-data class [CreateKycResponse](index.md)(val kycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [CreateKycResponse](index.md)(val kycId: String)
 
 Create Kyc Response
 
@@ -13,10 +13,10 @@ Create Kyc Response
 
 | | |
 |---|---|
-| [CreateKycResponse](-create-kyc-response.md) | [kotlin]<br>constructor(kycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [CreateKycResponse](-create-kyc-response.md) | [kotlin]<br>constructor(kycId: String) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [kycId](kyc-id.md) | [kotlin]<br>@SerialName(value = &quot;KycId&quot;)<br>val [kycId](kyc-id.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>KYC case number |
+| [kycId](kyc-id.md) | [kotlin]<br>@SerialName(value = &quot;KycId&quot;)<br>val [kycId](kyc-id.md): String<br>KYC case number |

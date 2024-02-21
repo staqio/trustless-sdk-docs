@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;CurrentBalance&quot;)
 
-val [currentBalance](current-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
+val [currentBalance](current-balance.md): Double

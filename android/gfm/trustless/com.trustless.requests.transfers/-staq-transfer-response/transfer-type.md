@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;TransferType&quot;)
 
-val [transferType](transfer-type.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [transferType](transfer-type.md): String

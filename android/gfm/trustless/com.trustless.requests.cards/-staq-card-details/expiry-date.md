@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;ExpiryDate&quot;)
 
-val [expiryDate](expiry-date.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [expiryDate](expiry-date.md): String

@@ -13,4 +13,4 @@ Change mobile number response object.
 
 | Name | Summary |
 |---|---|
-| [mobileNumber](mobile-number.md) | [kotlin]<br>@SerialName(value = &quot;MobileNumber&quot;)<br>val [mobileNumber](mobile-number.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>Mobile number |
+| [mobileNumber](mobile-number.md) | [kotlin]<br>@SerialName(value = &quot;MobileNumber&quot;)<br>val [mobileNumber](mobile-number.md): String<br>Mobile number |

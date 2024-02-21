@@ -3,4 +3,4 @@
 # parentCode
 
 [kotlin]\
-val [parentCode](parent-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [parentCode](parent-code.md): String

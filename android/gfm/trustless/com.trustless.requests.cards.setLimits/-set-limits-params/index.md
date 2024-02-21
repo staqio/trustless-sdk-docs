@@ -2,7 +2,7 @@
 
 # SetLimitsParams
 
-class [SetLimitsParams](index.md)(period: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), cashLimit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)?, eCommerceLimit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)?) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [SetLimitsParams](index.md)constructor(period: String, cashLimit: Double?, eCommerceLimit: Double?) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 Set limit params
 
@@ -28,4 +28,4 @@ kotlin
 
 | | |
 |---|---|
-| [SetLimitsParams](-set-limits-params.md) | [kotlin]<br>constructor(period: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), cashLimit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)?, eCommerceLimit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)?) |
+| [SetLimitsParams](-set-limits-params.md) | [kotlin]<br>constructor(period: String, cashLimit: Double?, eCommerceLimit: Double?) |

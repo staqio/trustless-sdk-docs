@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;TransferCurrency&quot;)
 
-val [transferCurrency](transfer-currency.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [transferCurrency](transfer-currency.md): String

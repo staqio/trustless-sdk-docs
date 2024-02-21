@@ -2,7 +2,7 @@
 
 # ChangeCardBalanceParams
 
-class [ChangeCardBalanceParams](index.md)(accountNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [ChangeCardBalanceParams](index.md)constructor(accountNumber: String, amount: Double, currency: String) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 Top up card params
 
@@ -27,4 +27,4 @@ kotlin
 
 | | |
 |---|---|
-| [ChangeCardBalanceParams](-change-card-balance-params.md) | [kotlin]<br>constructor(accountNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [ChangeCardBalanceParams](-change-card-balance-params.md) | [kotlin]<br>constructor(accountNumber: String, amount: Double, currency: String) |

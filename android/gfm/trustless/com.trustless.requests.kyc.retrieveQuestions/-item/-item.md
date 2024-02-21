@@ -3,4 +3,4 @@
 # Item
 
 [kotlin]\
-constructor(countryCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), stateCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), stateName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), city: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), id: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html))
+constructor(countryCode: String, stateCode: String, stateName: String, city: String, code: String, id: Int)

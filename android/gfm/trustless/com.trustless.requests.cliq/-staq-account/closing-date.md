@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;ClosingDate&quot;)
 
-val [closingDate](closing-date.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [closingDate](closing-date.md): String

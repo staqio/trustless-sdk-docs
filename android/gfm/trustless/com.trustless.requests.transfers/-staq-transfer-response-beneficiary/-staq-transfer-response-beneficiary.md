@@ -3,4 +3,4 @@
 # StaqTransferResponseBeneficiary
 
 [kotlin]\
-constructor(name: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null, account: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), address: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), bankCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), bankCountry: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), type: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)
+constructor(name: String, alias: String? = null, account: String, address: String, bankCode: String, bankCountry: String, type: String? = null)

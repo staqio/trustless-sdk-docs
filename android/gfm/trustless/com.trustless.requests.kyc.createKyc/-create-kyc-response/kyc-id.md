@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;KycId&quot;)
 
-val [kycId](kyc-id.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [kycId](kyc-id.md): String

@@ -2,7 +2,7 @@
 
 # CreateInternalTransferParams
 
-class [CreateInternalTransferParams](index.md)(accountNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), beneficiaryAccount: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), currencyCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), transferNote: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [CreateInternalTransferParams](index.md)constructor(accountNumber: String, beneficiaryAccount: String, amount: Double, currencyCode: String, transferNote: String? = null) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 Create internal transfer params
 
@@ -29,4 +29,4 @@ kotlin
 
 | | |
 |---|---|
-| [CreateInternalTransferParams](-create-internal-transfer-params.md) | [kotlin]<br>constructor(accountNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), beneficiaryAccount: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), currencyCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), transferNote: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null) |
+| [CreateInternalTransferParams](-create-internal-transfer-params.md) | [kotlin]<br>constructor(accountNumber: String, beneficiaryAccount: String, amount: Double, currencyCode: String, transferNote: String? = null) |

@@ -3,7 +3,7 @@
 # getCVVByToken
 
 [kotlin]\
-suspend fun [getCVVByToken](get-c-v-v-by-token.md)(token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [StaqGetCVVResponse](../../com.trustless.requests.cards/-staq-get-c-v-v-response/index.md)
+suspend fun [getCVVByToken](get-c-v-v-by-token.md)(token: String): [StaqGetCVVResponse](../../com.trustless.requests.cards/-staq-get-c-v-v-response/index.md)
 
 Retrieves unmasked card PAN and CVV code
 

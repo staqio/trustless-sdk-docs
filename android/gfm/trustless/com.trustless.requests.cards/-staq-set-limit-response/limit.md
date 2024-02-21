@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Limit&quot;)
 
-val [limit](limit.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
+val [limit](limit.md): Double

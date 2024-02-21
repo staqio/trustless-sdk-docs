@@ -9,4 +9,4 @@ class [GetOnlyActiveCardsRequest](index.md)
 
 | Name | Summary |
 |---|---|
-| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqCardDetails](../../com.trustless.requests.cards/-staq-card-details/index.md)&gt; |
+| [call](call.md) | [kotlin]<br>suspend fun [call](call.md)(): List&lt;[StaqCardDetails](../../com.trustless.requests.cards/-staq-card-details/index.md)&gt; |

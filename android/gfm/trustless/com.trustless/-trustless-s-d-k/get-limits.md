@@ -3,7 +3,7 @@
 # getLimits
 
 [kotlin]\
-suspend fun [getLimits](get-limits.md)(token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [StaqGetLimitResponse](../../com.trustless.requests.cards/-staq-get-limit-response/index.md)
+suspend fun [getLimits](get-limits.md)(token: String): [StaqGetLimitResponse](../../com.trustless.requests.cards/-staq-get-limit-response/index.md)
 
 Retrieves all card spending limits
 

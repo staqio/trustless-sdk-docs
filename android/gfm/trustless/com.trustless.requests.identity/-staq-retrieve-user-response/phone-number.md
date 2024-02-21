@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;PhoneNumber&quot;)
 
-val [phoneNumber](phone-number.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [phoneNumber](phone-number.md): String

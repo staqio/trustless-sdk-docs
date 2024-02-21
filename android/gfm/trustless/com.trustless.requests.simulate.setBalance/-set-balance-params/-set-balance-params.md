@@ -3,7 +3,7 @@
 # SetBalanceParams
 
 [kotlin]\
-constructor(balance: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html))
+constructor(balance: Double)
 
 #### Parameters
 

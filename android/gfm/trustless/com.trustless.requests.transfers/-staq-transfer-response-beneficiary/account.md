@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Account&quot;)
 
-val [account](account.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [account](account.md): String

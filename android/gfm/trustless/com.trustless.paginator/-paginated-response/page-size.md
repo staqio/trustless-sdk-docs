@@ -3,6 +3,6 @@
 # pageSize
 
 [kotlin]\
-val [pageSize](page-size.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
+val [pageSize](page-size.md): Int
 
 The number of items per page.

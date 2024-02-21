@@ -3,6 +3,6 @@
 # labelEn
 
 [kotlin]\
-abstract val [labelEn](label-en.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+abstract val [labelEn](label-en.md): String
 
 English label for a field

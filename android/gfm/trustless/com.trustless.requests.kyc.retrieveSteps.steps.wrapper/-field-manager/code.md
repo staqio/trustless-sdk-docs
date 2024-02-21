@@ -3,6 +3,6 @@
 # code
 
 [kotlin]\
-abstract val [code](code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+abstract val [code](code.md): String
 
 a code for the field, primarily used internally

@@ -3,6 +3,6 @@
 # getCurrentValueEn
 
 [kotlin]\
-fun [getCurrentValueEn](get-current-value-en.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+fun [getCurrentValueEn](get-current-value-en.md)(): String
 
 Gets English value

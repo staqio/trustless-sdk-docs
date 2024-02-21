@@ -5,7 +5,7 @@
 [kotlin]\
 @Serializable
 
-data class [StaqCreateAlias](index.md)(val iban: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val isDefault: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html))
+data class [StaqCreateAlias](index.md)(val iban: String, val alias: String, val isDefault: Boolean)
 
 Create alias object
 
@@ -13,12 +13,12 @@ Create alias object
 
 | | |
 |---|---|
-| [StaqCreateAlias](-staq-create-alias.md) | [kotlin]<br>constructor(iban: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), isDefault: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)) |
+| [StaqCreateAlias](-staq-create-alias.md) | [kotlin]<br>constructor(iban: String, alias: String, isDefault: Boolean) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [alias](alias.md) | [kotlin]<br>@SerialName(value = &quot;Alias&quot;)<br>val [alias](alias.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [iban](iban.md) | [kotlin]<br>@SerialName(value = &quot;Iban&quot;)<br>val [iban](iban.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [isDefault](is-default.md) | [kotlin]<br>@SerialName(value = &quot;IsDefault&quot;)<br>val [isDefault](is-default.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html) |
+| [alias](alias.md) | [kotlin]<br>@SerialName(value = &quot;Alias&quot;)<br>val [alias](alias.md): String |
+| [iban](iban.md) | [kotlin]<br>@SerialName(value = &quot;Iban&quot;)<br>val [iban](iban.md): String |
+| [isDefault](is-default.md) | [kotlin]<br>@SerialName(value = &quot;IsDefault&quot;)<br>val [isDefault](is-default.md): Boolean |

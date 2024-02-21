@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;RemainingCount&quot;)
 
-val [remainingCount](remaining-count.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)? = null
+val [remainingCount](remaining-count.md): Int? = null

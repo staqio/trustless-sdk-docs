@@ -3,7 +3,7 @@
 # validatePassword
 
 [kotlin]\
-fun [validatePassword](validate-password.md)(password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+fun [validatePassword](validate-password.md)(password: String)
 
 Validates a password and throws TrustlessPasswordException if the password does not meet the validation criteria.
 

@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;ValueDate&quot;)
 
-val [valueDate](value-date.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [valueDate](value-date.md): String

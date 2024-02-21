@@ -3,7 +3,7 @@
 # CreateInternalTransferParams
 
 [kotlin]\
-constructor(accountNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), beneficiaryAccount: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), currencyCode: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), transferNote: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)
+constructor(accountNumber: String, beneficiaryAccount: String, amount: Double, currencyCode: String, transferNote: String? = null)
 
 #### Parameters
 

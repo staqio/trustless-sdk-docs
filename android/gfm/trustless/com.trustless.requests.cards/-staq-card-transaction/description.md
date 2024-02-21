@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Description&quot;)
 
-val [description](description.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [description](description.md): String

@@ -2,7 +2,7 @@
 
 # ChangeMobileNumberParams
 
-class [ChangeMobileNumberParams](index.md)(mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [ChangeMobileNumberParams](index.md)constructor(mobileNumber: String) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 #### Parameters
 
@@ -22,4 +22,4 @@ kotlin
 
 | | |
 |---|---|
-| [ChangeMobileNumberParams](-change-mobile-number-params.md) | [kotlin]<br>constructor(mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [ChangeMobileNumberParams](-change-mobile-number-params.md) | [kotlin]<br>constructor(mobileNumber: String) |

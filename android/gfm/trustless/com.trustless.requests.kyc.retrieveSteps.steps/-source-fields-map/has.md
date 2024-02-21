@@ -3,7 +3,7 @@
 # has
 
 [kotlin]\
-fun [has](has.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+fun [has](has.md)(key: String): Boolean
 
 Checks if the map contains a specific key.
 

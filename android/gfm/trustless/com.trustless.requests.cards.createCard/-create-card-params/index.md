@@ -21,4 +21,4 @@ kotlin
 
 | Name | Summary |
 |---|---|
-| [Builder](-builder/index.md) | [kotlin]<br>class [Builder](-builder/index.md)(currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))<br>Builder to initiate [CreateCardParams](index.md) |
+| [Builder](-builder/index.md) | [kotlin]<br>class [Builder](-builder/index.md)(currency: String)<br>Builder to initiate [CreateCardParams](index.md) |

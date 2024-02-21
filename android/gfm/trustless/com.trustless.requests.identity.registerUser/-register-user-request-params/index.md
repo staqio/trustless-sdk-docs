@@ -2,7 +2,7 @@
 
 # RegisterUserRequestParams
 
-class [RegisterUserRequestParams](index.md)(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), username: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), firstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, lastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, phoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [RegisterUserRequestParams](index.md)constructor(email: String, username: String, password: String, firstName: String?, lastName: String?, phoneNumber: String?) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 [Server Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Create%20a%20user)
 
@@ -32,4 +32,4 @@ kotlin
 
 | | |
 |---|---|
-| [RegisterUserRequestParams](-register-user-request-params.md) | [kotlin]<br>constructor(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), username: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), firstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, lastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, phoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) |
+| [RegisterUserRequestParams](-register-user-request-params.md) | [kotlin]<br>constructor(email: String, username: String, password: String, firstName: String?, lastName: String?, phoneNumber: String?) |

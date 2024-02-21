@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;RemainingAmount&quot;)
 
-val [remainingAmount](remaining-amount.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)? = null
+val [remainingAmount](remaining-amount.md): Double? = null

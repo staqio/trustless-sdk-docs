@@ -3,6 +3,6 @@
 # labelAr
 
 [kotlin]\
-open override val [labelAr](label-ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+open override val [labelAr](label-ar.md): String
 
 Arabic label for a field

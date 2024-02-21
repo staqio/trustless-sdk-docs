@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;IBAN&quot;)
 
-val [iban](iban.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [iban](iban.md): String

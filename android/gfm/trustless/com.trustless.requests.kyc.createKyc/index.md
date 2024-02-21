@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [CreateKycResponse](-create-kyc-response/index.md) | [kotlin]<br>@Serializable<br>data class [CreateKycResponse](-create-kyc-response/index.md)(val kycId: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))<br>Create Kyc Response |
+| [CreateKycResponse](-create-kyc-response/index.md) | [kotlin]<br>@Serializable<br>data class [CreateKycResponse](-create-kyc-response/index.md)(val kycId: String)<br>Create Kyc Response |

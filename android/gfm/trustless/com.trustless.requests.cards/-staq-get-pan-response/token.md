@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Token&quot;)
 
-val [token](token.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [token](token.md): String

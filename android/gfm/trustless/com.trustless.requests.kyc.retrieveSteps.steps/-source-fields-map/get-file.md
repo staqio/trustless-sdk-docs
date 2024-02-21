@@ -3,7 +3,7 @@
 # getFile
 
 [kotlin]\
-fun [getFile](get-file.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [File](https://developer.android.com/reference/kotlin/java/io/File.html)
+fun [getFile](get-file.md)(key: String): File
 
 Retrieves a file associated with a given key. Throws an exception if the key is not found or the value is not a File.
 

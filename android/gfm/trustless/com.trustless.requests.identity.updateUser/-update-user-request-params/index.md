@@ -2,7 +2,7 @@
 
 # UpdateUserRequestParams
 
-class [UpdateUserRequestParams](index.md)(firstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, lastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, phoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [UpdateUserRequestParams](index.md)(firstName: String?, lastName: String?, phoneNumber: String?) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 [Server Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Update%20a%20user)
 
@@ -27,4 +27,4 @@ kotlin
 
 | | |
 |---|---|
-| [UpdateUserRequestParams](-update-user-request-params.md) | [kotlin]<br>constructor(firstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, lastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, phoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?) |
+| [UpdateUserRequestParams](-update-user-request-params.md) | [kotlin]<br>constructor(firstName: String?, lastName: String?, phoneNumber: String?) |

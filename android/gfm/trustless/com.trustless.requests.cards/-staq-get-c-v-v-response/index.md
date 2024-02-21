@@ -13,6 +13,6 @@ Get Pan with CVV Response
 
 | Name | Summary |
 |---|---|
-| [cvv](cvv.md) | [kotlin]<br>@SerialName(value = &quot;CVV&quot;)<br>val [cvv](cvv.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>CVV code required for the card authorization (sensitive information) MAXLENGTH: 3 MINLENGTH: 3 |
-| [pan](pan.md) | [kotlin]<br>@SerialName(value = &quot;PAN&quot;)<br>val [pan](pan.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>Full unmasked card number (sensitive information) |
-| [token](token.md) | [kotlin]<br>@SerialName(value = &quot;Token&quot;)<br>val [token](token.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>The unique card identifier (non-sensitive information) |
+| [cvv](cvv.md) | [kotlin]<br>@SerialName(value = &quot;CVV&quot;)<br>val [cvv](cvv.md): String<br>CVV code required for the card authorization (sensitive information) MAXLENGTH: 3 MINLENGTH: 3 |
+| [pan](pan.md) | [kotlin]<br>@SerialName(value = &quot;PAN&quot;)<br>val [pan](pan.md): String<br>Full unmasked card number (sensitive information) |
+| [token](token.md) | [kotlin]<br>@SerialName(value = &quot;Token&quot;)<br>val [token](token.md): String<br>The unique card identifier (non-sensitive information) |

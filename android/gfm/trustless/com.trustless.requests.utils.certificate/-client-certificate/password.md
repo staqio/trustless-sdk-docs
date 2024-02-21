@@ -3,7 +3,7 @@
 # password
 
 [kotlin]\
-val [password](password.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [password](password.md): String
 
 #### Parameters
 

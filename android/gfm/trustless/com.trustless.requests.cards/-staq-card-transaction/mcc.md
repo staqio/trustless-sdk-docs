@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;MCC&quot;)
 
-val [mcc](mcc.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+val [mcc](mcc.md): String? = null

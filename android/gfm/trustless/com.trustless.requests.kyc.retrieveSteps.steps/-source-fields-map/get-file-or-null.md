@@ -3,7 +3,7 @@
 # getFileOrNull
 
 [kotlin]\
-fun [getFileOrNull](get-file-or-null.md)(key: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [File](https://developer.android.com/reference/kotlin/java/io/File.html)?
+fun [getFileOrNull](get-file-or-null.md)(key: String): File?
 
 Retrieves a file associated with a given key, returning null if the key is not found or the value is not a File.
 

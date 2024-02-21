@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;TransactionAmountLimit&quot;)
 
-val [transactionAmountLimit](transaction-amount-limit.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
+val [transactionAmountLimit](transaction-amount-limit.md): Double

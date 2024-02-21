@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;BlockedBalance&quot;)
 
-val [blockedBalance](blocked-balance.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
+val [blockedBalance](blocked-balance.md): Double

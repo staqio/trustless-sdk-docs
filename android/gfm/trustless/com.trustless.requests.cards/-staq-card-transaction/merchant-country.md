@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;MerchantCountry&quot;)
 
-val [merchantCountry](merchant-country.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+val [merchantCountry](merchant-country.md): String? = null

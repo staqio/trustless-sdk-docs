@@ -3,7 +3,7 @@
 # deleteAccountByNumber
 
 [kotlin]\
-suspend fun [deleteAccountByNumber](delete-account-by-number.md)(accountNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), accountNumberTransferMoneyTo: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null)
+suspend fun [deleteAccountByNumber](delete-account-by-number.md)(accountNumber: String, accountNumberTransferMoneyTo: String? = null)
 
 Closes the customer's bank account
 

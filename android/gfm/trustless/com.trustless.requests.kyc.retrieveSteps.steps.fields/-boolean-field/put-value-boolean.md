@@ -3,6 +3,6 @@
 # putValueBoolean
 
 [kotlin]\
-fun [putValueBoolean](put-value-boolean.md)(value: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html))
+fun [putValueBoolean](put-value-boolean.md)(value: Boolean)
 
 Sets a new field value

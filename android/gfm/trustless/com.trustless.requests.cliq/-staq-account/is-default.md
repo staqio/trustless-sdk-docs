@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;IsDefault&quot;)
 
-val [isDefault](is-default.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+val [isDefault](is-default.md): Boolean

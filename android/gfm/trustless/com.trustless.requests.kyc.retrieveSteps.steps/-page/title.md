@@ -3,6 +3,6 @@
 # title
 
 [kotlin]\
-val [title](title.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [title](title.md): String
 
 Title of the page

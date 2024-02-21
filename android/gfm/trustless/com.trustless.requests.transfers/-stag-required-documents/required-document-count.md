@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;RequiredDocumentCount&quot;)
 
-val [requiredDocumentCount](required-document-count.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
+val [requiredDocumentCount](required-document-count.md): Int

@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;refresh_token&quot;)
 
-val [refreshToken](refresh-token.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [refreshToken](refresh-token.md): String

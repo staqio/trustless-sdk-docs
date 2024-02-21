@@ -3,7 +3,7 @@
 # validateLimit
 
 [kotlin]\
-fun [validateLimit](validate-limit.md)(limit: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html))
+fun [validateLimit](validate-limit.md)(limit: Double)
 
 Validates a financial limit and throws TrustlessLimitException if the limit does not meet the validation criteria.
 

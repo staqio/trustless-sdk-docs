@@ -3,6 +3,6 @@
 # dependentField
 
 [kotlin]\
-open override val [dependentField](dependent-field.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)&gt;
+open override val [dependentField](dependent-field.md): List&lt;String&gt;
 
 a list of fields that this field is depended on

@@ -3,7 +3,7 @@
 # getDocumentsMap
 
 [kotlin]\
-fun [getDocumentsMap](get-documents-map.md)(): [Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/index.html)&lt;[String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), [File](https://developer.android.com/reference/kotlin/java/io/File.html)&gt;
+fun [getDocumentsMap](get-documents-map.md)(): Map&lt;String, File&gt;
 
 Generates a map of document files to their respective identifiers. This map is used for submitting KYC documents, associating each document with a unique key.
 

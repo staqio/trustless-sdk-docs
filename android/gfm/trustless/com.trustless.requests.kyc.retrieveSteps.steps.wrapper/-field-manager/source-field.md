@@ -3,6 +3,6 @@
 # sourceField
 
 [kotlin]\
-abstract val [sourceField](source-field.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+abstract val [sourceField](source-field.md): String
 
 A key for sourceFields object to get the data from

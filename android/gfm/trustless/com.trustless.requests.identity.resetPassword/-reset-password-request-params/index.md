@@ -2,7 +2,7 @@
 
 # ResetPasswordRequestParams
 
-class [ResetPasswordRequestParams](index.md)(oldPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), newPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [ResetPasswordRequestParams](index.md)constructor(oldPassword: String, newPassword: String) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 [Server Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Set%20password)
 
@@ -25,4 +25,4 @@ kotlin
 
 | | |
 |---|---|
-| [ResetPasswordRequestParams](-reset-password-request-params.md) | [kotlin]<br>constructor(oldPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), newPassword: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [ResetPasswordRequestParams](-reset-password-request-params.md) | [kotlin]<br>constructor(oldPassword: String, newPassword: String) |

@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;IsDocumentsRequired&quot;)
 
-val [isDocumentsRequired](is-documents-required.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)?&gt;
+val [isDocumentsRequired](is-documents-required.md): List&lt;Boolean?&gt;

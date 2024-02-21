@@ -2,7 +2,7 @@
 
 # PasswordRecoveryConfirmRequestParams
 
-class [PasswordRecoveryConfirmRequestParams](index.md)(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [PasswordRecoveryConfirmRequestParams](index.md)constructor(email: String, code: String, password: String) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 [Server Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Confirm%20password%20reset)
 
@@ -28,4 +28,4 @@ kotlin
 
 | | |
 |---|---|
-| [PasswordRecoveryConfirmRequestParams](-password-recovery-confirm-request-params.md) | [kotlin]<br>constructor(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [PasswordRecoveryConfirmRequestParams](-password-recovery-confirm-request-params.md) | [kotlin]<br>constructor(email: String, code: String, password: String) |

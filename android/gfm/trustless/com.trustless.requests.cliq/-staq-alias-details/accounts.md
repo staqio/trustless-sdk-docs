@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Accounts&quot;)
 
-val [accounts](accounts.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqAccount](../-staq-account/index.md)&gt;
+val [accounts](accounts.md): List&lt;[StaqAccount](../-staq-account/index.md)&gt;

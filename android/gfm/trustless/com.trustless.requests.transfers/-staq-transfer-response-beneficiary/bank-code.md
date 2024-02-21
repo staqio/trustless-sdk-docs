@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;BankCode&quot;)
 
-val [bankCode](bank-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [bankCode](bank-code.md): String

@@ -3,4 +3,4 @@
 # StaqTransferResponseFee
 
 [kotlin]\
-constructor(amount: [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html), currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+constructor(amount: Double, currency: String)

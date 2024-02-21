@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;CurrencyCode&quot;)
 
-val [currencyCode](currency-code.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [currencyCode](currency-code.md): String

@@ -6,3 +6,9 @@
 suspend fun [userWasAuthenticated](user-was-authenticated.md)()
 
 Notifies the SDK that the user has successfully authenticated. This function should be called after a user completes the authentication process. Invoking this method can trigger internal SDK processes that depend on user authentication status, such as enabling certain features or accessing authenticated user data.
+
+#### Throws
+
+| | |
+|---|---|
+| [TrustlessNotInitializedSdkException](../../com.trustless.exceptions/-trustless-not-initialized-sdk-exception/index.md) | Is thrown when trying to access this method while sdk is not initialized |

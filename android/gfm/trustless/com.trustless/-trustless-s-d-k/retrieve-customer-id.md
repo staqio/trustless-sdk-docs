@@ -3,7 +3,7 @@
 # retrieveCustomerId
 
 [kotlin]\
-suspend fun [retrieveCustomerId](retrieve-customer-id.md)(): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+suspend fun [retrieveCustomerId](retrieve-customer-id.md)(): String
 
 [Server Api Reference](https://developer.finto.io/docs/apis/kyc#/Customers/Get%20Customer%20Status)
 

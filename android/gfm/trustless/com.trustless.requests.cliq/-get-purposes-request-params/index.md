@@ -2,7 +2,7 @@
 
 # GetPurposesRequestParams
 
-class [GetPurposesRequestParams](index.md)(aliasType: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [UrlQueryParams](../../com.trustless.queryParams/-url-query-params/index.md)
+class [GetPurposesRequestParams](index.md)(aliasType: String, alias: String) : [UrlQueryParams](../../com.trustless.queryParams/-url-query-params/index.md)
 
 Get purposes params
 
@@ -21,4 +21,4 @@ kotlin
 
 | | |
 |---|---|
-| [GetPurposesRequestParams](-get-purposes-request-params.md) | [kotlin]<br>constructor(aliasType: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [GetPurposesRequestParams](-get-purposes-request-params.md) | [kotlin]<br>constructor(aliasType: String, alias: String) |

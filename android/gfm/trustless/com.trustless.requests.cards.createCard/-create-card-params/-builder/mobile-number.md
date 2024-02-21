@@ -3,4 +3,4 @@
 # mobileNumber
 
 [kotlin]\
-fun [mobileNumber](mobile-number.md)(mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?): [CreateCardParams.Builder](index.md)
+fun [mobileNumber](mobile-number.md)(mobileNumber: String?): [CreateCardParams.Builder](index.md)

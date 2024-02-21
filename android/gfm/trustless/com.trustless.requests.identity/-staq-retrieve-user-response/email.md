@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Email&quot;)
 
-val [email](email.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [email](email.md): String

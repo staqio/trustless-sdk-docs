@@ -2,7 +2,7 @@
 
 # ChangeCardStatusParams
 
-class [ChangeCardStatusParams](index.md)(status: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [ChangeCardStatusParams](index.md)(status: String) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 #### Parameters
 
@@ -16,4 +16,4 @@ kotlin
 
 | | |
 |---|---|
-| [ChangeCardStatusParams](-change-card-status-params.md) | [kotlin]<br>constructor(status: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [ChangeCardStatusParams](-change-card-status-params.md) | [kotlin]<br>constructor(status: String) |

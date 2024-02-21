@@ -3,7 +3,7 @@
 # GetPurposesRequestParams
 
 [kotlin]\
-constructor(aliasType: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), alias: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+constructor(aliasType: String, alias: String)
 
 #### Parameters
 

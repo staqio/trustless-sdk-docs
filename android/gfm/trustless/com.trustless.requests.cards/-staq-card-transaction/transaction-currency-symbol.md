@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;TransactionCurrencySymbol&quot;)
 
-val [transactionCurrencySymbol](transaction-currency-symbol.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [transactionCurrencySymbol](transaction-currency-symbol.md): String

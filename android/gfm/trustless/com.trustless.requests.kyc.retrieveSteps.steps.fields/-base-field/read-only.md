@@ -3,6 +3,6 @@
 # readOnly
 
 [kotlin]\
-open override val [readOnly](read-only.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+open override val [readOnly](read-only.md): Boolean
 
 if a field read only

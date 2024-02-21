@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;MerchantCity&quot;)
 
-val [merchantCity](merchant-city.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)? = null
+val [merchantCity](merchant-city.md): String? = null

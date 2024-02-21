@@ -3,7 +3,7 @@
 # PasswordRecoveryConfirmRequestParams
 
 [kotlin]\
-constructor(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+constructor(email: String, code: String, password: String)
 
 #### Parameters
 

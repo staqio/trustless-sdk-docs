@@ -3,7 +3,7 @@
 # ChangeCardStatusParams
 
 [kotlin]\
-constructor(status: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+constructor(status: String)
 
 #### Parameters
 

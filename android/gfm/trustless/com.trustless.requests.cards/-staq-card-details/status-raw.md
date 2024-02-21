@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Status&quot;)
 
-val [statusRaw](status-raw.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [statusRaw](status-raw.md): String

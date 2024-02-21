@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Balances&quot;)
 
-val [balances](balances.md): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[StaqCardBalance](../-staq-card-balance/index.md)&gt;
+val [balances](balances.md): List&lt;[StaqCardBalance](../-staq-card-balance/index.md)&gt;

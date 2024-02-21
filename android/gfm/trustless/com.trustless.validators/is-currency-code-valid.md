@@ -3,6 +3,6 @@
 # isCurrencyCodeValid
 
 [kotlin]\
-fun [isCurrencyCodeValid](is-currency-code-valid.md)(code: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+fun [isCurrencyCodeValid](is-currency-code-valid.md)(code: String): Boolean
 
 Checks if currency code matches regex A-Z{3}

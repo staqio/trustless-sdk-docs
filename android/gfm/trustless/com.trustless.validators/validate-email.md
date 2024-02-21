@@ -3,7 +3,7 @@
 # validateEmail
 
 [kotlin]\
-fun [validateEmail](validate-email.md)(email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+fun [validateEmail](validate-email.md)(email: String)
 
 Validates an email and throws TrustlessEmailException if the email does not meet the validation criteria.
 

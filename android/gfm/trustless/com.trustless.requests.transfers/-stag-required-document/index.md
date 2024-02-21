@@ -3,7 +3,7 @@
 # StagRequiredDocument
 
 [kotlin]\
-data class [StagRequiredDocument](index.md)(val label: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val labelAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), val isRequired: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html))
+data class [StagRequiredDocument](index.md)(val label: String, val labelAr: String, val isRequired: Boolean)
 
 Required document object, used a syntax sugar of [StagRequiredDocuments](../-stag-required-documents/index.md)
 
@@ -11,12 +11,12 @@ Required document object, used a syntax sugar of [StagRequiredDocuments](../-sta
 
 | | |
 |---|---|
-| [StagRequiredDocument](-stag-required-document.md) | [kotlin]<br>constructor(label: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), labelAr: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), isRequired: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)) |
+| [StagRequiredDocument](-stag-required-document.md) | [kotlin]<br>constructor(label: String, labelAr: String, isRequired: Boolean) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [isRequired](is-required.md) | [kotlin]<br>val [isRequired](is-required.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)<br>Document is required? |
-| [label](label.md) | [kotlin]<br>val [label](label.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>Label of required documents |
-| [labelAr](label-ar.md) | [kotlin]<br>val [labelAr](label-ar.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)<br>Label of required documents in Arabic |
+| [isRequired](is-required.md) | [kotlin]<br>val [isRequired](is-required.md): Boolean<br>Document is required? |
+| [label](label.md) | [kotlin]<br>val [label](label.md): String<br>Label of required documents |
+| [labelAr](label-ar.md) | [kotlin]<br>val [labelAr](label-ar.md): String<br>Label of required documents in Arabic |

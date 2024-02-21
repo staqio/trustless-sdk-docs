@@ -3,4 +3,4 @@
 # cardHolderName
 
 [kotlin]\
-fun [cardHolderName](card-holder-name.md)(cardHolderName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?): [CreateCardParams.Builder](index.md)
+fun [cardHolderName](card-holder-name.md)(cardHolderName: String?): [CreateCardParams.Builder](index.md)

@@ -2,7 +2,7 @@
 
 # ClientCertificate
 
-data class [ClientCertificate](index.md)(val data: [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/index.html), val password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+data class [ClientCertificate](index.md)(val data: ByteArray, val password: String)
 
 Class to hold certificate in pfx format with the password for it
 
@@ -19,11 +19,11 @@ kotlin
 
 | | |
 |---|---|
-| [ClientCertificate](-client-certificate.md) | [kotlin]<br>constructor(data: [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/index.html), password: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [ClientCertificate](-client-certificate.md) | [kotlin]<br>constructor(data: ByteArray, password: String) |
 
 ## Properties
 
 | Name | Summary |
 |---|---|
-| [data](data.md) | [kotlin]<br>val [data](data.md): [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/index.html) |
-| [password](password.md) | [kotlin]<br>val [password](password.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [data](data.md) | [kotlin]<br>val [data](data.md): ByteArray |
+| [password](password.md) | [kotlin]<br>val [password](password.md): String |

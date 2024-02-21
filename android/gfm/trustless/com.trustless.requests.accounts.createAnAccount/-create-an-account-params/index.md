@@ -2,7 +2,7 @@
 
 # CreateAnAccountParams
 
-class [CreateAnAccountParams](index.md)(currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), accountName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [CreateAnAccountParams](index.md)constructor(currency: String, accountName: String) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 [Server Api Reference](https://developer.staq.io/docs/apis/accounts#/Accounts/Create%20an%20account)
 
@@ -26,4 +26,4 @@ kotlin
 
 | | |
 |---|---|
-| [CreateAnAccountParams](-create-an-account-params.md) | [kotlin]<br>constructor(currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), accountName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [CreateAnAccountParams](-create-an-account-params.md) | [kotlin]<br>constructor(currency: String, accountName: String) |

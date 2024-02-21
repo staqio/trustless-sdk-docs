@@ -3,4 +3,4 @@
 # hasDependentFieldChanged
 
 [kotlin]\
-fun [hasDependentFieldChanged](has-dependent-field-changed.md)(): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+fun [hasDependentFieldChanged](has-dependent-field-changed.md)(): Boolean

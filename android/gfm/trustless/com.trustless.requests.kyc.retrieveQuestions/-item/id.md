@@ -3,4 +3,4 @@
 # id
 
 [kotlin]\
-val [id](id.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
+val [id](id.md): Int

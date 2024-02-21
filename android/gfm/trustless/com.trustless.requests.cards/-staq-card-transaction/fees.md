@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;Fees&quot;)
 
-val [fees](fees.md): [Double](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-double/index.html)
+val [fees](fees.md): Double

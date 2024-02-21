@@ -3,7 +3,7 @@
 # getSteps
 
 [kotlin]\
-fun [getSteps](get-steps.md)(): [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[Page](../-page/index.md)&gt;
+fun [getSteps](get-steps.md)(): List&lt;[Page](../-page/index.md)&gt;
 
 Retrieves the KYC steps in a convenient form. Each step is represented as a `Page` class instance, encapsulating the fields.
 

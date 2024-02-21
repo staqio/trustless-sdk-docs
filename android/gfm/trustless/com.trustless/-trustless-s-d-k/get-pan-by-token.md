@@ -3,7 +3,7 @@
 # getPanByToken
 
 [kotlin]\
-suspend fun [getPanByToken](get-pan-by-token.md)(token: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [StaqGetPanResponse](../../com.trustless.requests.cards/-staq-get-pan-response/index.md)
+suspend fun [getPanByToken](get-pan-by-token.md)(token: String): [StaqGetPanResponse](../../com.trustless.requests.cards/-staq-get-pan-response/index.md)
 
 Retrieves unmasked card PAN
 

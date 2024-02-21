@@ -2,29 +2,22 @@
 
 # Builder
 
-class [Builder](index.md)(currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+[kotlin]\
+class [Builder](index.md)(currency: String)
 
 Builder to initiate [CreateCardParams](../index.md)
-
-#### Throws
-
-| |
-|---|
-| [TrustlessCurrencyCodeException](../../../com.trustless.exceptions/-trustless-currency-code-exception/index.md) |
-| [TrustlessCardholderNameException](../../../com.trustless.exceptions/-trustless-cardholder-name-exception/index.md) |
-| [TrustlessMobileNumberException](../../../com.trustless.exceptions/-trustless-mobile-number-exception/index.md) |
 
 ## Constructors
 
 | | |
 |---|---|
-| [Builder](-builder.md) | [kotlin]<br>constructor(currency: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)) |
+| [Builder](-builder.md) | [kotlin]<br>constructor(currency: String) |
 
 ## Functions
 
 | Name | Summary |
 |---|---|
-| [build](build.md) | [kotlin]<br>fun [build](build.md)(): [CreateCardParams](../index.md) |
-| [cardHolderName](card-holder-name.md) | [kotlin]<br>fun [cardHolderName](card-holder-name.md)(cardHolderName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?): [CreateCardParams.Builder](index.md) |
+| [build](build.md) | [kotlin]<br>fun [build](build.md)(): [CreateCardParams](../index.md)<br>Creates CreateCardParams |
+| [cardHolderName](card-holder-name.md) | [kotlin]<br>fun [cardHolderName](card-holder-name.md)(cardHolderName: String?): [CreateCardParams.Builder](index.md) |
 | [creditDetails](credit-details.md) | [kotlin]<br>fun [creditDetails](credit-details.md)(creditDetails: [CreditDetails](../../-credit-details/index.md)?): [CreateCardParams.Builder](index.md) |
-| [mobileNumber](mobile-number.md) | [kotlin]<br>fun [mobileNumber](mobile-number.md)(mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?): [CreateCardParams.Builder](index.md) |
+| [mobileNumber](mobile-number.md) | [kotlin]<br>fun [mobileNumber](mobile-number.md)(mobileNumber: String?): [CreateCardParams.Builder](index.md) |

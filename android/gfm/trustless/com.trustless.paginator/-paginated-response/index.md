@@ -18,7 +18,7 @@ kotlin
 
 | Name | Summary |
 |---|---|
-| [currentPage](current-page.md) | [kotlin]<br>val [currentPage](current-page.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)<br>The index of the current page, starting from 1. |
+| [currentPage](current-page.md) | [kotlin]<br>val [currentPage](current-page.md): Int<br>The index of the current page, starting from 1. |
 | [data](data.md) | [kotlin]<br>val [data](data.md): [T](index.md)<br>The data returned from the server for the current page. |
-| [pageSize](page-size.md) | [kotlin]<br>val [pageSize](page-size.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)<br>The number of items per page. |
-| [totalPages](total-pages.md) | [kotlin]<br>val [totalPages](total-pages.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)<br>The total number of pages available. |
+| [pageSize](page-size.md) | [kotlin]<br>val [pageSize](page-size.md): Int<br>The number of items per page. |
+| [totalPages](total-pages.md) | [kotlin]<br>val [totalPages](total-pages.md): Int<br>The total number of pages available. |

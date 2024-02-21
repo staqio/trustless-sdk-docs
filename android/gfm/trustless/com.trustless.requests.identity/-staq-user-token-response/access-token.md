@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;access_token&quot;)
 
-val [accessToken](access-token.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [accessToken](access-token.md): String

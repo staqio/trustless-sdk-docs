@@ -3,6 +3,6 @@
 # setValue
 
 [kotlin]\
-fun [setValue](set-value.md)(newArray: [List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)&lt;[File](https://developer.android.com/reference/kotlin/java/io/File.html)&gt;)
+fun [setValue](set-value.md)(newArray: List&lt;File&gt;)
 
 Sets New list of files

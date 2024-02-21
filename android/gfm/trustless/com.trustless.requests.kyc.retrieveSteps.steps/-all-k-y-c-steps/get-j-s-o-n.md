@@ -3,7 +3,7 @@
 # getJSON
 
 [kotlin]\
-fun [getJSON](get-j-s-o-n.md)(): [JSONObject](https://developer.android.com/reference/kotlin/org/json/JSONObject.html)
+fun [getJSON](get-j-s-o-n.md)(): JSONObject
 
 Generates a JSON body for the KYC submission. Iterates over each page, processing its data and compiling it into a JSON object.
 

@@ -3,4 +3,4 @@
 # city
 
 [kotlin]\
-val [city](city.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)
+val [city](city.md): String

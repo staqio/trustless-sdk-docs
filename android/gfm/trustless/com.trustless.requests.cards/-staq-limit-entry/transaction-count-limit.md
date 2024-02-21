@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;TransactionCountLimit&quot;)
 
-val [transactionCountLimit](transaction-count-limit.md): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
+val [transactionCountLimit](transaction-count-limit.md): Int

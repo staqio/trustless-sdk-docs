@@ -3,6 +3,6 @@
 # getValue
 
 [kotlin]\
-fun [getValue](get-value.md)(): [File](https://developer.android.com/reference/kotlin/java/io/File.html)?
+fun [getValue](get-value.md)(): File?
 
 Gets file

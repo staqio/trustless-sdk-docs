@@ -3,4 +3,4 @@
 # StaqRetrieveUserResponse
 
 [kotlin]\
-constructor(username: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), email: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), firstName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), lastName: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), phoneNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+constructor(username: String, email: String, firstName: String, lastName: String, phoneNumber: String)

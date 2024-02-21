@@ -3,7 +3,7 @@
 # ChangeMobileNumberParams
 
 [kotlin]\
-constructor(mobileNumber: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html))
+constructor(mobileNumber: String)
 
 #### Parameters
 

@@ -3,4 +3,4 @@
 # isRequired
 
 [kotlin]\
-val [isRequired](is-required.md): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+val [isRequired](is-required.md): Boolean

@@ -3,7 +3,7 @@
 # getTransferById
 
 [kotlin]\
-suspend fun [getTransferById](get-transfer-by-id.md)(transferId: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)): [StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)
+suspend fun [getTransferById](get-transfer-by-id.md)(transferId: Int): [StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)
 
 Retrieves details on the single transfer identified by transferId
 
