@@ -23,7 +23,7 @@ To add TrustlessSdk to your project, update your build configuration as follows:
 
 ```kotlin
     dependencies {
-        implementation("com.staq:trustless:1.1.0")
+        implementation("com.staq:trustless:2.0.0")
     }
 ```
 
@@ -139,7 +139,11 @@ val paginator = TrustlessSDK.instance.getAccounts(
 ```
 2. Fetching the First Page
 ```kotlin
-paginator.fetchFirst().data
+try {
+    val res = repository.fetchFirst().data
+} catch (e: TrustlessException) {
+    // Handle error
+}
 ```
 3. Fetching Subsequent Pages, you can then append this new data to your existing dataset
 ```kotlin
@@ -283,8 +287,8 @@ This listener ensures that you can perform necessary cleanup and UI updates when
 #### Unregistering the Logout Listener
 To prevent potential memory leaks and ensure that callbacks do not occur after a user has logged out or when your UI component (such as a Fragment or Activity) is destroyed, unregister the logout listener. This is particularly important in Android applications to manage lifecycle events effectively:
 ```kotlin
-override fun onDestroyView() {
-    super.onDestroyView()
+override fun onDestroy() {
+    super.onDestroy()
     TrustlessSDK.instance.clearLogoutListener()
 }
 ```
@@ -336,3 +340,50 @@ TrustlessSDK.instance.logout()
 [API](gfm/index.md)
 # Support
 Contact support@staq.io for support.
+
+# Changelog
+## v2.0.0
+Split methods in different providers.
+# Migration Guides
+## From v1.x.x to v2.x.x
+In the transition from version 1.x.x to version 2.x.x of the TrustlessSDK, several methods have been relocated within the SDK's structure
+### Accounts
+- Before `TrustlessSDK.instance.getAccounts()`
+- After  `TrustlessSDK.accountsProvider.getAccounts()`
+
+Do the same for the following methods: `getAccountByNumber`,`createAnAccount`,`getAccounts`,`getAccountTransactions`,`deleteAccountByNumber`
+### Cards
+- Before `TrustlessSDK.instance.getCards()`
+- After  `TrustlessSDK.cardsProvider.getCards()`
+
+Do the same for the following methods: `createCard`,`getCards`,`getActiveCards`,`changeCardStatus`,`getCardByToken`,`getCardTransactions`,`changeCardMobileNumber`,`getPanByToken`,`getBalances`,`getLimits`,`setLimits`,`getCVVByToken`,`getTopUpCardRequest`,`getWithdrawFromCardRequest`
+
+### CliQ
+- Before `TrustlessSDK.instance.getAliases()`
+- After  `TrustlessSDK.cliqProvider.getAliases()`
+
+Do the same for the following methods: `getPurposes`,`createAlias`,`getAliases`
+
+### Identity
+- Before `TrustlessSDK.instance.logout()`
+- After  `TrustlessSDK.identityProvider.logout()`
+
+Do the same for the following methods: `login`,`registerUser`,`updatePassword`,`resetPassword`,`passwordResetConfirm`,`updateUser`,`retrieveUser`,`logout`
+
+### KYC
+- Before `TrustlessSDK.instance.getSteps()`
+- After  `TrustlessSDK.kycProvider.getSteps()`
+
+Do the same for the following methods: `getCityList`,`retrieveCustomerId`,`retrieveKycId`,`getSteps`,`uploadKyc`
+
+### Simulation
+- Before `TrustlessSDK.instance.approveKyc()`
+- After  `TrustlessSDK.simulationProvider.approveKyc()`
+
+Do the same for the following methods: `approveKyc`, `setAccountBalance`
+
+### Transfers
+- Before `TrustlessSDK.instance.getTransfers()`
+- After  `TrustlessSDK.simulationProvider.getTransfers()`
+
+Do the same for the following methods: `getTransfers`,`createInternalTransfer`,`createCliqTransfer`,`confirmTransfer`,`getTransferById`

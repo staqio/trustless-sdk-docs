@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [InputKYCType](-input-k-y-c-type/index.md) | [kotlin]<br>enum [InputKYCType](-input-k-y-c-type/index.md) : Enum&lt;[InputKYCType](-input-k-y-c-type/index.md)&gt; <br>KYC (Know your customer) field types |
+| [KYCInputType](-k-y-c-input-type/index.md) | [kotlin]<br>enum [KYCInputType](-k-y-c-input-type/index.md) : Enum&lt;[KYCInputType](-k-y-c-input-type/index.md)&gt; <br>KYC (Know your customer) field types |
