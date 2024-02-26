@@ -19,8 +19,8 @@ enum [StaqCardLimitPeriod](index.md) : Enum&lt;[StaqCardLimitPeriod](index.md)&g
 | Name | Summary |
 |---|---|
 | [entries](entries.md) | [kotlin]<br>val [entries](entries.md): EnumEntries&lt;[StaqCardLimitPeriod](index.md)&gt;<br>Returns a representation of an immutable list of all enum entries, in the order they're declared. |
-| [name](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-372974862%2FProperties%2F-1818097539) | [kotlin]<br>val [name](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-372974862%2FProperties%2F-1818097539): String |
-| [ordinal](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-739389684%2FProperties%2F-1818097539) | [kotlin]<br>val [ordinal](../../com.trustless.requests.kyc.retrieveSteps/-input-k-y-c-type/-d-o-c-u-m-e-n-t/index.md#-739389684%2FProperties%2F-1818097539): Int |
+| [name](../../com.trustless.requests.kyc.retrieveSteps/-k-y-c-input-type/-d-o-c-u-m-e-n-t/index.md#-372974862%2FProperties%2F-1818097539) | [kotlin]<br>val [name](../../com.trustless.requests.kyc.retrieveSteps/-k-y-c-input-type/-d-o-c-u-m-e-n-t/index.md#-372974862%2FProperties%2F-1818097539): String |
+| [ordinal](../../com.trustless.requests.kyc.retrieveSteps/-k-y-c-input-type/-d-o-c-u-m-e-n-t/index.md#-739389684%2FProperties%2F-1818097539) | [kotlin]<br>val [ordinal](../../com.trustless.requests.kyc.retrieveSteps/-k-y-c-input-type/-d-o-c-u-m-e-n-t/index.md#-739389684%2FProperties%2F-1818097539): Int |
 
 ## Functions
 
