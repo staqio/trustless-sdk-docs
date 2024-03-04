@@ -3,7 +3,7 @@
 # resetPassword
 
 [kotlin]\
-suspend fun [resetPassword](reset-password.md)(params: [PasswordRecoveryRequestParams](../../com.trustless.requests.identity.passwordRecovery/-password-recovery-request-params/index.md))
+abstract suspend fun [resetPassword](reset-password.md)(params: [PasswordRecoveryRequestParams](../../com.trustless.requests.identity.passwordRecovery/-password-recovery-request-params/index.md))
 
 Initiate password reset
 

@@ -3,7 +3,7 @@
 # retrieveKycId
 
 [kotlin]\
-suspend fun [retrieveKycId](retrieve-kyc-id.md)(): String
+abstract suspend fun [retrieveKycId](retrieve-kyc-id.md)(): String
 
 Retrieve KYC Id
 

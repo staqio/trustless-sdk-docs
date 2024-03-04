@@ -3,7 +3,7 @@
 # updatePassword
 
 [kotlin]\
-suspend fun [updatePassword](update-password.md)(params: [ResetPasswordRequestParams](../../com.trustless.requests.identity.resetPassword/-reset-password-request-params/index.md))
+abstract suspend fun [updatePassword](update-password.md)(params: [ResetPasswordRequestParams](../../com.trustless.requests.identity.resetPassword/-reset-password-request-params/index.md))
 
 Changes password for a user
 

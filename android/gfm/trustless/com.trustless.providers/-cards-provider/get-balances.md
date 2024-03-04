@@ -3,7 +3,7 @@
 # getBalances
 
 [kotlin]\
-suspend fun [getBalances](get-balances.md)(token: String): List&lt;[StaqCardBalance](../../com.trustless.requests.cards/-staq-card-balance/index.md)&gt;
+abstract suspend fun [getBalances](get-balances.md)(token: String): List&lt;[StaqCardBalance](../../com.trustless.requests.cards/-staq-card-balance/index.md)&gt;
 
 Retrieves a card balance
 

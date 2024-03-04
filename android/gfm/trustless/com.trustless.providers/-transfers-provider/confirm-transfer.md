@@ -3,7 +3,7 @@
 # confirmTransfer
 
 [kotlin]\
-suspend fun [confirmTransfer](confirm-transfer.md)(transferId: Int, documents: List&lt;File&gt;? = null): [StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)
+abstract suspend fun [confirmTransfer](confirm-transfer.md)(transferId: Int, documents: List&lt;File&gt;? = null): [StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)
 
 #### Parameters
 

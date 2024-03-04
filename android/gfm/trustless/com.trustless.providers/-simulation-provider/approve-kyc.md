@@ -3,7 +3,7 @@
 # approveKyc
 
 [kotlin]\
-suspend fun [approveKyc](approve-kyc.md)()
+abstract suspend fun [approveKyc](approve-kyc.md)()
 
 Update status of customer by kycId (DEV ONLY)
 

@@ -3,7 +3,7 @@
 # setLimits
 
 [kotlin]\
-suspend fun [setLimits](set-limits.md)(token: String, params: [SetLimitsParams](../../com.trustless.requests.cards.setLimits/-set-limits-params/index.md)): List&lt;[StaqSetLimitResponse](../../com.trustless.requests.cards/-staq-set-limit-response/index.md)&gt;
+abstract suspend fun [setLimits](set-limits.md)(token: String, params: [SetLimitsParams](../../com.trustless.requests.cards.setLimits/-set-limits-params/index.md)): List&lt;[StaqSetLimitResponse](../../com.trustless.requests.cards/-staq-set-limit-response/index.md)&gt;
 
 Sets a card spending limits
 

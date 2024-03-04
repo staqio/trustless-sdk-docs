@@ -3,6 +3,9 @@
 # initialize
 
 [kotlin]\
+
+@JvmStatic
+
 fun [initialize](initialize.md)(configuration: [TrustlessConfiguration](../../../com.trustless.requests.utils/-trustless-configuration/index.md), context: Context)
 
 Initializes the TrustlessSDK with the provided configuration and application context. This step is essential for the SDK to function correctly. Without initialization, the SDK operations will not be executed as expected. Ensure this method is called once during your application's startup, typically in your Application class or main activity's onCreate method.

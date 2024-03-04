@@ -3,7 +3,7 @@
 # retrieveUser
 
 [kotlin]\
-suspend fun [retrieveUser](retrieve-user.md)(): [StaqRetrieveUserResponse](../../com.trustless.requests.identity/-staq-retrieve-user-response/index.md)
+abstract suspend fun [retrieveUser](retrieve-user.md)(): [StaqRetrieveUserResponse](../../com.trustless.requests.identity/-staq-retrieve-user-response/index.md)
 
 Retrieves the details of an existing user
 

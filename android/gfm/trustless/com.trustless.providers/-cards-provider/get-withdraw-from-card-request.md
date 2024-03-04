@@ -3,7 +3,7 @@
 # getWithdrawFromCardRequest
 
 [kotlin]\
-fun [getWithdrawFromCardRequest](get-withdraw-from-card-request.md)(token: String): [WithdrawFromCardRequest](../../com.trustless.requests.cards.withdraw/-withdraw-from-card-request/index.md)
+abstract fun [getWithdrawFromCardRequest](get-withdraw-from-card-request.md)(token: String): [WithdrawFromCardRequest](../../com.trustless.requests.cards.withdraw/-withdraw-from-card-request/index.md)
 
 Debit funds from a card to the customer's account
 

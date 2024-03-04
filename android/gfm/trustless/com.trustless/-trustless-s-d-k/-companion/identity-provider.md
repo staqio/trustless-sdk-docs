@@ -3,6 +3,9 @@
 # identityProvider
 
 [kotlin]\
+
+@JvmStatic
+
 val [identityProvider](identity-provider.md): [IdentityProvider](../../../com.trustless.providers/-identity-provider/index.md)
 
 Authentication-related operations, including sign-in, sign-out, and user registration.

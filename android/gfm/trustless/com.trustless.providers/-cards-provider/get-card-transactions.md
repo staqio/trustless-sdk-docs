@@ -3,7 +3,7 @@
 # getCardTransactions
 
 [kotlin]\
-suspend fun [getCardTransactions](get-card-transactions.md)(token: String, dateFrom: Date, dateTo: Date = Date()): List&lt;[StaqCardTransaction](../../com.trustless.requests.cards/-staq-card-transaction/index.md)&gt;
+abstract suspend fun [getCardTransactions](get-card-transactions.md)(token: String, dateFrom: Date, dateTo: Date = Date()): List&lt;[StaqCardTransaction](../../com.trustless.requests.cards/-staq-card-transaction/index.md)&gt;
 
 Retrieves all transactions for the card
 

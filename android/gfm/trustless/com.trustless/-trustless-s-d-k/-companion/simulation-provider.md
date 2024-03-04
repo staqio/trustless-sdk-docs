@@ -3,6 +3,9 @@
 # simulationProvider
 
 [kotlin]\
+
+@JvmStatic
+
 val [simulationProvider](simulation-provider.md): [SimulationProvider](../../../com.trustless.providers/-simulation-provider/index.md)
 
 Simulation-related operations, including approving kyc, setting accounts balance.

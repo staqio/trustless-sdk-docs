@@ -3,7 +3,7 @@
 # changeCardMobileNumber
 
 [kotlin]\
-suspend fun [changeCardMobileNumber](change-card-mobile-number.md)(token: String, mobile: String): [StaqChangeMobileNumberResponse](../../com.trustless.requests.cards/-staq-change-mobile-number-response/index.md)
+abstract suspend fun [changeCardMobileNumber](change-card-mobile-number.md)(token: String, mobile: String): [StaqChangeMobileNumberResponse](../../com.trustless.requests.cards/-staq-change-mobile-number-response/index.md)
 
 Updates mobile phone number for 3DS
 

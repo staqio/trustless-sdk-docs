@@ -3,7 +3,7 @@
 # getSteps
 
 [kotlin]\
-suspend fun [getSteps](get-steps.md)(sourceFields: [SourceFieldsMap](../../com.trustless.requests.kyc.retrieveSteps.steps/-source-fields-map/index.md)): [KYCStepsManager](../../com.trustless.requests.kyc.retrieveSteps.steps/-k-y-c-steps-manager/index.md)
+abstract suspend fun [getSteps](get-steps.md)(sourceFields: [SourceFieldsMap](../../com.trustless.requests.kyc.retrieveSteps.steps/-source-fields-map/index.md)): [KYCStepsManager](../../com.trustless.requests.kyc.retrieveSteps.steps/-k-y-c-steps-manager/index.md)
 
 Retrieves JSON descriptor of the data that should be collected by partner application and submitted to initiate KYC
 

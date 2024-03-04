@@ -3,7 +3,7 @@
 # getAccountByNumber
 
 [kotlin]\
-suspend fun [getAccountByNumber](get-account-by-number.md)(accountNumber: String): [StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md)
+abstract suspend fun [getAccountByNumber](get-account-by-number.md)(accountNumber: String): [StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md)
 
 Returns details of the customer's bank account
 

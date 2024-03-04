@@ -3,7 +3,7 @@
 # createAlias
 
 [kotlin]\
-suspend fun [createAlias](create-alias.md)(accountNumber: String, type: String, value: String): [StaqCreateAlias](../../com.trustless.requests.cliq/-staq-create-alias/index.md)
+abstract suspend fun [createAlias](create-alias.md)(accountNumber: String, type: String, value: String): [StaqCreateAlias](../../com.trustless.requests.cliq/-staq-create-alias/index.md)
 
 Create an alias for chosen account in Cliq
 

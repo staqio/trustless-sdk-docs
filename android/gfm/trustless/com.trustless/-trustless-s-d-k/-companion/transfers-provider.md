@@ -3,6 +3,9 @@
 # transfersProvider
 
 [kotlin]\
+
+@JvmStatic
+
 val [transfersProvider](transfers-provider.md): [TransfersProvider](../../../com.trustless.providers/-transfers-provider/index.md)
 
 Transfers-related operations, including creating card, getting card and card details, close card.

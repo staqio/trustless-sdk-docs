@@ -3,7 +3,7 @@
 # createAnAccount
 
 [kotlin]\
-suspend fun [createAnAccount](create-an-account.md)(params: [CreateAnAccountParams](../../com.trustless.requests.accounts.createAnAccount/-create-an-account-params/index.md)): [StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md)
+abstract suspend fun [createAnAccount](create-an-account.md)(params: [CreateAnAccountParams](../../com.trustless.requests.accounts.createAnAccount/-create-an-account-params/index.md)): [StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md)
 
 Opens a new account for the customer
 

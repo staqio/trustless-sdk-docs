@@ -3,6 +3,9 @@
 # cliqProvider
 
 [kotlin]\
+
+@JvmStatic
+
 val [cliqProvider](cliq-provider.md): [CliQProvider](../../../com.trustless.providers/-cli-q-provider/index.md)
 
 CliQ-related operations, including getting aliases and creating alias.

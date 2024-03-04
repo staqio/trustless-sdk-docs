@@ -3,7 +3,7 @@
 # createCliqTransfer
 
 [kotlin]\
-suspend fun [createCliqTransfer](create-cliq-transfer.md)(params: [CreateCliqTransferParams](../../com.trustless.requests.transfers/-create-cliq-transfer-params/index.md)): [StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)
+abstract suspend fun [createCliqTransfer](create-cliq-transfer.md)(params: [CreateCliqTransferParams](../../com.trustless.requests.transfers/-create-cliq-transfer-params/index.md)): [StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)
 
 Creates a new Cliq transfer and returns fees information
 

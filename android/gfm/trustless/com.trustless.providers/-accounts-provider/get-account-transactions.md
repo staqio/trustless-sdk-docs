@@ -3,7 +3,7 @@
 # getAccountTransactions
 
 [kotlin]\
-fun [getAccountTransactions](get-account-transactions.md)(pageSize: Int, currentPage: Int = 1, accountNumber: String, dateFrom: Date, dateTo: Date = Date()): [Paginator](../../com.trustless.paginator/-paginator/index.md)&lt;[StaqAccountTransaction](../../com.trustless.requests.accounts/-staq-account-transaction/index.md)&gt;
+abstract fun [getAccountTransactions](get-account-transactions.md)(pageSize: Int, currentPage: Int = 1, accountNumber: String, dateFrom: Date, dateTo: Date = Date()): [Paginator](../../com.trustless.paginator/-paginator/index.md)&lt;[StaqAccountTransaction](../../com.trustless.requests.accounts/-staq-account-transaction/index.md)&gt;
 
 Returns all transactions for the specified account completed during the requested period
 
