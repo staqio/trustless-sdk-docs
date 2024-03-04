@@ -250,7 +250,6 @@ val res = TrustlessSDK.instance.uploadKyc(
             json.toString(),
             documents
         )
-}
 ```
 
 ## Deinitialization
