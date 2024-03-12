@@ -51,6 +51,9 @@ $dokka.location:com.trustless.params////PointingToDeclaration/trustless/com.tru
 $dokka.location:com.trustless.params/FormUrlParamsBuilder///PointingToDeclaration/trustless/com.trustless.params/-form-url-params-builder/index.md
 $dokka.location:com.trustless.params/JSONParamsBuilder///PointingToDeclaration/trustless/com.trustless.params/-j-s-o-n-params-builder/index.md
 $dokka.location:com.trustless.params/MultiPartParamsBuilder///PointingToDeclaration/trustless/com.trustless.params/-multi-part-params-builder/index.md
+$dokka.location:com.trustless.params/MultiPartParamsBuilder/form/#/PointingToDeclaration/trustless/com.trustless.params/-multi-part-params-builder/form.md
+$dokka.location:com.trustless.params/MultiPartParamsBuilder/formFiles/#/PointingToDeclaration/trustless/com.trustless.params/-multi-part-params-builder/form-files.md
+$dokka.location:com.trustless.params/MultiPartParamsBuilder/parameters/#/PointingToDeclaration/trustless/com.trustless.params/-multi-part-params-builder/parameters.md
 $dokka.location:com.trustless.params/PlainTextParamsBuilder///PointingToDeclaration/trustless/com.trustless.params/-plain-text-params-builder/index.md
 $dokka.location:com.trustless.providers.implementations////PointingToDeclaration/trustless/com.trustless.providers.implementations/index.md
 $dokka.location:com.trustless.providers.implementations/AccountsProviderImp///PointingToDeclaration/trustless/com.trustless.providers.implementations/-accounts-provider-imp/index.md
@@ -606,6 +609,23 @@ $dokka.location:com.trustless.requests.utils.certificate/ClientCertificate/passw
 $dokka.location:com.trustless.requests.utils////PointingToDeclaration/trustless/com.trustless.requests.utils/index.md
 $dokka.location:com.trustless.requests.utils/TrustlessConfiguration///PointingToDeclaration/trustless/com.trustless.requests.utils/-trustless-configuration/index.md
 $dokka.location:com.trustless.requests.utils/TrustlessConfiguration/TrustlessConfiguration/#kotlin.String#kotlin.String#com.trustless.requests.utils.certificate.ClientCertificate#okhttp3.OkHttpClient.Builder#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.requests.utils/-trustless-configuration/-trustless-configuration.md
+$dokka.location:com.trustless.requests////PointingToDeclaration/trustless/com.trustless.requests/index.md
+$dokka.location:com.trustless.requests/StaqMethodEnum.DELETE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}trustless/com.trustless.requests/-staq-method-enum/-d-e-l-e-t-e/index.md
+$dokka.location:com.trustless.requests/StaqMethodEnum.GET///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}trustless/com.trustless.requests/-staq-method-enum/-g-e-t/index.md
+$dokka.location:com.trustless.requests/StaqMethodEnum.PATCH///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}trustless/com.trustless.requests/-staq-method-enum/-p-a-t-c-h/index.md
+$dokka.location:com.trustless.requests/StaqMethodEnum.POST///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}trustless/com.trustless.requests/-staq-method-enum/-p-o-s-t/index.md
+$dokka.location:com.trustless.requests/StaqMethodEnum.PUT///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}trustless/com.trustless.requests/-staq-method-enum/-p-u-t/index.md
+$dokka.location:com.trustless.requests/StaqMethodEnum///PointingToDeclaration/trustless/com.trustless.requests/-staq-method-enum/index.md
+$dokka.location:com.trustless.requests/StaqMethodEnum/entries/#/PointingToDeclaration/trustless/com.trustless.requests/-staq-method-enum/entries.md
+$dokka.location:com.trustless.requests/StaqMethodEnum/valueOf/#kotlin.String/PointingToDeclaration/trustless/com.trustless.requests/-staq-method-enum/value-of.md
+$dokka.location:com.trustless.requests/StaqMethodEnum/values/#/PointingToDeclaration/trustless/com.trustless.requests/-staq-method-enum/values.md
+$dokka.location:com.trustless.requests/StaqRawResponse///PointingToDeclaration/trustless/com.trustless.requests/-staq-raw-response/index.md
+$dokka.location:com.trustless.requests/StaqRawResponse/StaqRawResponse/#kotlin.Int#java.io.InputStream?#kotlin.Boolean#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.String]/PointingToDeclaration/trustless/com.trustless.requests/-staq-raw-response/-staq-raw-response.md
+$dokka.location:com.trustless.requests/StaqRawResponse/byteStream/#/PointingToDeclaration/trustless/com.trustless.requests/-staq-raw-response/byte-stream.md
+$dokka.location:com.trustless.requests/StaqRawResponse/code/#/PointingToDeclaration/trustless/com.trustless.requests/-staq-raw-response/code.md
+$dokka.location:com.trustless.requests/StaqRawResponse/headers/#/PointingToDeclaration/trustless/com.trustless.requests/-staq-raw-response/headers.md
+$dokka.location:com.trustless.requests/StaqRawResponse/isSuccessful/#/PointingToDeclaration/trustless/com.trustless.requests/-staq-raw-response/is-successful.md
+$dokka.location:com.trustless.requests/StaqRawResponse/url/#/PointingToDeclaration/trustless/com.trustless.requests/-staq-raw-response/url.md
 $dokka.location:com.trustless.utils////PointingToDeclaration/trustless/com.trustless.utils/index.md
 $dokka.location:com.trustless.utils//runAsync/#com.trustless.utils.AsyncCallback[TypeParam(bounds=[kotlin.Any?])]?#kotlin.coroutines.SuspendFunction0[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/trustless/com.trustless.utils/run-async.md
 $dokka.location:com.trustless.utils/AsyncCallback///PointingToDeclaration/trustless/com.trustless.utils/-async-callback/index.md
@@ -670,6 +690,7 @@ com.trustless.params
 com.trustless.providers
 com.trustless.providers.implementations
 com.trustless.queryParams
+com.trustless.requests
 com.trustless.requests.accounts
 com.trustless.requests.accounts.createAnAccount
 com.trustless.requests.accounts.getAccounts

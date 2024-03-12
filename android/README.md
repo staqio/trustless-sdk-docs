@@ -343,9 +343,12 @@ Contact support@staq.io for support.
 # Changelog
 ## v2.0.0
 Split methods in different providers.
+## v2.1.0
+Enhanced SDK flexibility by allowing scope and base URL customization via `TrustlessConfiguration` arguments.
+
 # Migration Guides
 ## From v1.x.x to v2.x.x
-In the transition from version 1.x.x to version 2.x.x of the TrustlessSDK, several methods have been relocated within the SDK's structure
+In the transition from version 1.x.x to version 2.x.x of the `TrustlessSDK`, several methods have been relocated within the SDK's structure
 ### Accounts
 - Before `TrustlessSDK.instance.getAccounts()`
 - After  `TrustlessSDK.accountsProvider.getAccounts()`

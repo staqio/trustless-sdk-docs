@@ -3,4 +3,4 @@
 # PlainTextParamsBuilder
 
 [kotlin]\
-class [PlainTextParamsBuilder](index.md) : ParamsBuilder
+class [PlainTextParamsBuilder](index.md) : ParamsBuilderStringBuild
