@@ -11,7 +11,9 @@
 | [com.trustless.paginator](trustless/com.trustless.paginator/index.md) |
 | [com.trustless.params](trustless/com.trustless.params/index.md) |
 | [com.trustless.providers](trustless/com.trustless.providers/index.md) |
+| [com.trustless.providers.implementations](trustless/com.trustless.providers.implementations/index.md) |
 | [com.trustless.queryParams](trustless/com.trustless.queryParams/index.md) |
+| [com.trustless.requests](trustless/com.trustless.requests/index.md) |
 | [com.trustless.requests.accounts](trustless/com.trustless.requests.accounts/index.md) |
 | [com.trustless.requests.accounts.createAnAccount](trustless/com.trustless.requests.accounts.createAnAccount/index.md) |
 | [com.trustless.requests.accounts.getAccounts](trustless/com.trustless.requests.accounts.getAccounts/index.md) |

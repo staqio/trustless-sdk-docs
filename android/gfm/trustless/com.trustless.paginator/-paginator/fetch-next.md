@@ -3,7 +3,7 @@
 # fetchNext
 
 [kotlin]\
-suspend fun [fetchNext](fetch-next.md)(): [PaginatedResponse](../-paginated-response/index.md)&lt;List&lt;[T](index.md)&gt;&gt;
+abstract suspend fun [fetchNext](fetch-next.md)(): [PaginatedResponse](../-paginated-response/index.md)&lt;List&lt;[T](index.md)&gt;&gt;
 
 Retrieves the next page of results, automatically increments the internal page counter, and returns a paginated response.
 

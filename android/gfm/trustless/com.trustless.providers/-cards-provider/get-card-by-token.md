@@ -3,7 +3,7 @@
 # getCardByToken
 
 [kotlin]\
-suspend fun [getCardByToken](get-card-by-token.md)(token: String): [StaqCardDetails](../../com.trustless.requests.cards/-staq-card-details/index.md)
+abstract suspend fun [getCardByToken](get-card-by-token.md)(token: String): [StaqCardDetails](../../com.trustless.requests.cards/-staq-card-details/index.md)
 
 Retrieves a card detailed information
 

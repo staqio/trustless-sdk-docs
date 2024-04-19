@@ -2,7 +2,7 @@
 
 # FormUrlParamsBuilder
 
-open class [FormUrlParamsBuilder](index.md) : ParamsBuilder
+open class [FormUrlParamsBuilder](index.md) : ParamsBuilderStringBuild
 
 #### Inheritors
 

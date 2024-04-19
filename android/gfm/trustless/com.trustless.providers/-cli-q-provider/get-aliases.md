@@ -3,7 +3,7 @@
 # getAliases
 
 [kotlin]\
-suspend fun [getAliases](get-aliases.md)(): List&lt;[StaqAliasDetails](../../com.trustless.requests.cliq/-staq-alias-details/index.md)&gt;
+abstract suspend fun [getAliases](get-aliases.md)(): List&lt;[StaqAliasDetails](../../com.trustless.requests.cliq/-staq-alias-details/index.md)&gt;
 
 Returns all CliQ aliases for the specified customer
 

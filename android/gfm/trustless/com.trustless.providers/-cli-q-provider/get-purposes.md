@@ -3,7 +3,7 @@
 # getPurposes
 
 [kotlin]\
-suspend fun [getPurposes](get-purposes.md)(params: [GetPurposesRequestParams](../../com.trustless.requests.cliq/-get-purposes-request-params/index.md)): List&lt;[StaqPurpose](../../com.trustless.requests.cliq/-staq-purpose/index.md)&gt;
+abstract suspend fun [getPurposes](get-purposes.md)(params: [GetPurposesRequestParams](../../com.trustless.requests.cliq/-get-purposes-request-params/index.md)): List&lt;[StaqPurpose](../../com.trustless.requests.cliq/-staq-purpose/index.md)&gt;
 
 Returns all purpose codes related to cliq customer
 

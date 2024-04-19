@@ -2,7 +2,7 @@
 
 # JSONParamsBuilder
 
-open class [JSONParamsBuilder](index.md) : ParamsBuilder
+open class [JSONParamsBuilder](index.md) : ParamsBuilderStringBuild
 
 #### Inheritors
 

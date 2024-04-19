@@ -3,7 +3,7 @@
 # getActiveCards
 
 [kotlin]\
-suspend fun [getActiveCards](get-active-cards.md)(): List&lt;[StaqCardDetails](../../com.trustless.requests.cards/-staq-card-details/index.md)&gt;
+abstract suspend fun [getActiveCards](get-active-cards.md)(): List&lt;[StaqCardDetails](../../com.trustless.requests.cards/-staq-card-details/index.md)&gt;
 
 Retrieves all customer's active cards with no pagination, all of the active cards are returned on one page.
 

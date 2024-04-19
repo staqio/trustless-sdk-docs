@@ -3,7 +3,7 @@
 # setAccountBalance
 
 [kotlin]\
-fun [setAccountBalance](set-account-balance.md)(accountNumber: String): [SetBalanceRequest](../../com.trustless.requests.simulate.setBalance/-set-balance-request/index.md)
+abstract fun [setAccountBalance](set-account-balance.md)(accountNumber: String): [SetBalanceRequest](../../com.trustless.requests.simulate.setBalance/-set-balance-request/index.md)
 
 Set Account Balance (DEV ONLY)
 

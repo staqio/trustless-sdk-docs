@@ -3,7 +3,7 @@
 # fetchFirst
 
 [kotlin]\
-suspend fun [fetchFirst](fetch-first.md)(): [PaginatedResponse](../-paginated-response/index.md)&lt;List&lt;[T](index.md)&gt;&gt;
+abstract suspend fun [fetchFirst](fetch-first.md)(): [PaginatedResponse](../-paginated-response/index.md)&lt;List&lt;[T](index.md)&gt;&gt;
 
 Fetches the first page of results and resets the internal page counter to 1, ensuring the pagination starts from the beginning.
 

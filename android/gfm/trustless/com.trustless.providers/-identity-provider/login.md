@@ -3,7 +3,7 @@
 # login
 
 [kotlin]\
-suspend fun [login](login.md)(params: [UserTokenRequestParams](../../com.trustless.requests.identity.userToken/-user-token-request-params/index.md), useBiometry: Boolean): [StaqUserTokenResponse](../../com.trustless.requests.identity/-staq-user-token-response/index.md)
+abstract suspend fun [login](login.md)(params: [UserTokenRequestParams](../../com.trustless.requests.identity.userToken/-user-token-request-params/index.md), useBiometry: Boolean): [StaqUserTokenResponse](../../com.trustless.requests.identity/-staq-user-token-response/index.md)
 
 Returns access token for an application or user
 

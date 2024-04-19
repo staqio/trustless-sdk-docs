@@ -3,7 +3,7 @@
 # getAccounts
 
 [kotlin]\
-fun [getAccounts](get-accounts.md)(pageSize: Int, currentPage: Int = 1): [Paginator](../../com.trustless.paginator/-paginator/index.md)&lt;[StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md)&gt;
+abstract fun [getAccounts](get-accounts.md)(pageSize: Int, currentPage: Int = 1): [Paginator](../../com.trustless.paginator/-paginator/index.md)&lt;[StaqAccountResponse](../../com.trustless.requests.accounts/-staq-account-response/index.md)&gt;
 
 Returns all accounts for the specified customer
 

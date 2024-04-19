@@ -3,7 +3,7 @@
 # getTransfers
 
 [kotlin]\
-fun [getTransfers](get-transfers.md)(pageSize: Int, currentPage: Int = 1, type: String? = null, month: Int? = null, year: Int? = null): [Paginator](../../com.trustless.paginator/-paginator/index.md)&lt;[StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)&gt;
+abstract fun [getTransfers](get-transfers.md)(pageSize: Int, currentPage: Int = 1, type: String? = null, month: Int? = null, year: Int? = null): [Paginator](../../com.trustless.paginator/-paginator/index.md)&lt;[StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)&gt;
 
 Retrieves all transfers submitted by a customer
 

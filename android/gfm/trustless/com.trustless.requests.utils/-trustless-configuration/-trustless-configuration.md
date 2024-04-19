@@ -3,7 +3,7 @@
 # TrustlessConfiguration
 
 [kotlin]\
-constructor(clientId: String, clientSecret: String, clientCertificate: [ClientCertificate](../../com.trustless.requests.utils.certificate/-client-certificate/index.md), clientBuilder: OkHttpClient.Builder = OkHttpClient.Builder())
+constructor(clientId: String, clientSecret: String, clientCertificate: [ClientCertificate](../../com.trustless.requests.utils.certificate/-client-certificate/index.md), clientBuilder: OkHttpClient.Builder = OkHttpClient.Builder(), baseUrl: String = &quot;https://sandbox-api.finto.io/api/&quot;, scope: String = &quot;identity kyc accounts cards simulation transfers cliq&quot;)
 
 #### Parameters
 

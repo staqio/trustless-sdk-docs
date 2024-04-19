@@ -3,6 +3,9 @@
 # kycProvider
 
 [kotlin]\
+
+@JvmStatic
+
 val [kycProvider](kyc-provider.md): [KYCProvider](../../../com.trustless.providers/-k-y-c-provider/index.md)
 
 KYC-related operations, including getting KYC steps and sending request.

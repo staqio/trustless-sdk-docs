@@ -3,7 +3,7 @@
 # createInternalTransfer
 
 [kotlin]\
-suspend fun [createInternalTransfer](create-internal-transfer.md)(params: [CreateInternalTransferParams](../../com.trustless.requests.transfers/-create-internal-transfer-params/index.md)): [StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)
+abstract suspend fun [createInternalTransfer](create-internal-transfer.md)(params: [CreateInternalTransferParams](../../com.trustless.requests.transfers/-create-internal-transfer-params/index.md)): [StaqTransferResponse](../../com.trustless.requests.transfers/-staq-transfer-response/index.md)
 
 Creates a new internal transfer and returns fees information
 

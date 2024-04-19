@@ -3,7 +3,7 @@
 # getCityList
 
 [kotlin]\
-suspend fun [getCityList](get-city-list.md)(countryCode: String): [RetrieveQuestionsResponse](../../com.trustless.requests.kyc.retrieveQuestions/-retrieve-questions-response/index.md)
+abstract suspend fun [getCityList](get-city-list.md)(countryCode: String): [RetrieveQuestionsResponse](../../com.trustless.requests.kyc.retrieveQuestions/-retrieve-questions-response/index.md)
 
 Retrieves list of values defined by URI parameter {listname} and optionally filtered by the value of the query parameter {filtervalue}
 
