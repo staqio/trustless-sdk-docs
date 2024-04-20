@@ -1,7 +1,7 @@
 # Installation
 
 ```kts
-    implementation("com.staq:wallet:2.1.0")
+    implementation("com.staq:wallet:2.2.0")
 
     maven {
         url = uri("https://repo.staq.io/repository/trustless-sdk/")
