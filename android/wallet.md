@@ -1,7 +1,7 @@
 # Installation
 
 ```kts
-    implementation("com.staq:wallet:2.2.0")
+    implementation("com.staq:wallet:2.11.0")
 
     maven {
         url = uri("https://repo.staq.io/repository/trustless-sdk/")
@@ -25,4 +25,20 @@ Add meta data to application
 ```kotlin
     val intent = Intent(activity, StaqWalletActivity::class.java)
     startActivity(intent)
+```
+
+
+
+# Advance usage
+Update balance
+```kotlin
+CardBalanceHolder.setBalance(30.0)
+```
+
+
+Subscribing to request updates
+```kotlin
+CardBalanceHolder.setUpdateBalanceRequest { oldBalance ->
+    CardBalanceHolder.setBalance(newBalance)
+}
 ```
