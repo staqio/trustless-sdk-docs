@@ -27,18 +27,13 @@ Add meta data to application
     startActivity(intent)
 ```
 
-
-
-# Advance usage
-Update balance
+## Using Fragment
+To embed wallet into fragment you can use `StaqWalletUiFragment`
 ```kotlin
-CardBalanceHolder.setBalance(30.0)
-```
+ val childFragment = StaqWalletUiFragment()
 
-
-Subscribing to request updates
-```kotlin
-CardBalanceHolder.setUpdateBalanceRequest { oldBalance ->
-    CardBalanceHolder.setBalance(newBalance)
-}
+// Begin a transaction to add the ChildFragment to the container layout
+childFragmentManager.beginTransaction()
+    .replace(containerLayout.id, childFragment)
+    .commit()
 ```
