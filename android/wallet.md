@@ -24,10 +24,11 @@ Add meta data to application
 
 ```kotlin
   val intent = Intent(activity, StaqWalletActivity::class.java).apply {
-                putExtra("mobile", "...")
-                putExtra("email", "...")
                 putExtra("userId", "...")
                 putExtra("secret", "...")
+                // optional
+                putExtra("mobile", "...")
+                putExtra("email", "...")
             }
     startActivity(intent)
 ```
@@ -38,10 +39,11 @@ To embed wallet into fragment you can use `StaqWalletUiFragment`
 ```kotlin
     val childFragment = StaqWalletUiFragment()
     val args = Bundle().apply {
-        putString("mobile", "...")
-        putString("email", "...")
         putString("userId", "...")
         putString("secret", "...")
+        // optional
+        putString("mobile", "...")
+        putString("email", "...")
     }
     childFragment.arguments = args
 
@@ -49,4 +51,11 @@ To embed wallet into fragment you can use `StaqWalletUiFragment`
 childFragmentManager.beginTransaction()
     .replace(containerLayout.id, childFragment)
     .commit()
+```
+
+# Language
+make sure you set the language using this method, so that the sdk can capture it
+```kotlin
+val appLocale: LocaleListCompat = LocaleListCompat.forLanguageTags("ar-Ar")
+AppCompatDelegate.setApplicationLocales(appLocale)
 ```
