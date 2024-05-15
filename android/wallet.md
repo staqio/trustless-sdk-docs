@@ -23,14 +23,27 @@ Add meta data to application
 # Usage
 
 ```kotlin
-    val intent = Intent(activity, StaqWalletActivity::class.java)
+  val intent = Intent(activity, StaqWalletActivity::class.java).apply {
+                putExtra("mobile", "...")
+                putExtra("email", "...")
+                putExtra("userId", "...")
+                putExtra("secret", "...")
+            }
     startActivity(intent)
 ```
+
 
 ## Using Fragment
 To embed wallet into fragment you can use `StaqWalletUiFragment`
 ```kotlin
- val childFragment = StaqWalletUiFragment()
+    val childFragment = StaqWalletUiFragment()
+    val args = Bundle().apply {
+        putString("mobile", "...")
+        putString("email", "...")
+        putString("userId", "...")
+        putString("secret", "...")
+    }
+    childFragment.arguments = args
 
 // Begin a transaction to add the ChildFragment to the container layout
 childFragmentManager.beginTransaction()
