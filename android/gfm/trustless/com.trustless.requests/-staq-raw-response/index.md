@@ -20,3 +20,9 @@ data class [StaqRawResponse](index.md)(val code: Int, val byteStream: InputStrea
 | [headers](headers.md) | [kotlin]<br>val [headers](headers.md): Map&lt;String, String&gt; |
 | [isSuccessful](is-successful.md) | [kotlin]<br>val [isSuccessful](is-successful.md): Boolean |
 | [url](url.md) | [kotlin]<br>val [url](url.md): String |
+
+## Functions
+
+| Name | Summary |
+|---|---|
+| [serializeByteArray](../../com.trustless.serializers/serialize-byte-array.md) | [kotlin]<br>fun &lt;[T](../../com.trustless.serializers/serialize-byte-array.md)&gt; [StaqRawResponse](index.md).[serializeByteArray](../../com.trustless.serializers/serialize-byte-array.md)(serializeCallback: (stream: InputStream) -&gt; [T](../../com.trustless.serializers/serialize-byte-array.md)): [T](../../com.trustless.serializers/serialize-byte-array.md) |

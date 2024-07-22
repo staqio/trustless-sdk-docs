@@ -2,7 +2,7 @@
 
 # SetLimitsParams
 
-class [SetLimitsParams](index.md)constructor(period: String, cashLimit: Double?, eCommerceLimit: Double?) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [SetLimitsParams](index.md)(period: String, cashLimit: Double?, eCommerceLimit: Double?) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 Set limit params
 
@@ -17,12 +17,6 @@ kotlin
 | period | Limit period DEFAULT: daily ENUM:  daily, weekly, monthly, annually |
 | cashLimit | ATM operations limit amount If it is set to 0 (zero) then no ATM operations are allowed for the card. If it is set to < 0 (negative value) then card ATM limit is disabled and card product limit (if any) is applied. MAXIMUM: 1000000000000 |
 | eCommerceLimit | E-commerce (Online authorizations) limit amount If it is set to 0 (zero) then no ATM operations are allowed for the card. If it is set to < 0 (negative value) then E-commerce card is disabled and card product limit (if any) is applied. MAXIMUM: 1000000000000 |
-
-#### Throws
-
-| |
-|---|
-| [TrustlessLimitException](../../com.trustless.exceptions/-trustless-limit-exception/index.md) |
 
 ## Constructors
 

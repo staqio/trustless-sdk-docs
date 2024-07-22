@@ -3,4 +3,4 @@
 # StaqRegisterUserResponse
 
 [kotlin]\
-constructor(username: String, id: String, phoneNumber: String, email: String, lastName: String, firstName: String)
+constructor(username: String, id: String, phoneNumber: String? = null, email: String, lastName: String? = null, firstName: String? = null)

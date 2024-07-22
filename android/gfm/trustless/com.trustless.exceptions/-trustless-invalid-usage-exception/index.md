@@ -10,17 +10,8 @@ Base class for exceptions that are related to invalid usage
 
 | |
 |---|
-| [TrustlessAccountNameException](../-trustless-account-name-exception/index.md) |
-| [TrustlessCardholderNameException](../-trustless-cardholder-name-exception/index.md) |
-| [TrustlessCodeException](../-trustless-code-exception/index.md) |
 | [TrustlessConcurrentFetchException](../-trustless-concurrent-fetch-exception/index.md) |
-| [TrustlessCurrencyCodeException](../-trustless-currency-code-exception/index.md) |
-| [TrustlessEmailException](../-trustless-email-exception/index.md) |
 | [TrustlessInvalidNameException](../-trustless-invalid-name-exception/index.md) |
-| [TrustlessMobileNumberException](../-trustless-mobile-number-exception/index.md) |
-| [TrustlessMonthException](../-trustless-month-exception/index.md) |
-| [TrustlessPasswordException](../-trustless-password-exception/index.md) |
-| [TrustlessPhoneNumberException](../-trustless-phone-number-exception/index.md) |
 
 ## Properties
 

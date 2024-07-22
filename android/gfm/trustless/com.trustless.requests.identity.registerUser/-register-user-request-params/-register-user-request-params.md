@@ -3,7 +3,7 @@
 # RegisterUserRequestParams
 
 [kotlin]\
-constructor(email: String, username: String, password: String, firstName: String?, lastName: String?, phoneNumber: String?)
+constructor(email: String, username: String, password: String, firstName: String? = null, lastName: String? = null, phoneNumber: String? = null)
 
 #### Parameters
 

@@ -34,6 +34,7 @@
 | [com.trustless.requests.identity.updateUser](trustless/com.trustless.requests.identity.updateUser/index.md) |
 | [com.trustless.requests.identity.userToken](trustless/com.trustless.requests.identity.userToken/index.md) |
 | [com.trustless.requests.kyc.createKyc](trustless/com.trustless.requests.kyc.createKyc/index.md) |
+| [com.trustless.requests.kyc.retrieveKycStatus](trustless/com.trustless.requests.kyc.retrieveKycStatus/index.md) |
 | [com.trustless.requests.kyc.retrieveQuestions](trustless/com.trustless.requests.kyc.retrieveQuestions/index.md) |
 | [com.trustless.requests.kyc.retrieveSteps](trustless/com.trustless.requests.kyc.retrieveSteps/index.md) |
 | [com.trustless.requests.kyc.retrieveSteps.steps](trustless/com.trustless.requests.kyc.retrieveSteps.steps/index.md) |
@@ -44,5 +45,5 @@
 | [com.trustless.requests.transfers](trustless/com.trustless.requests.transfers/index.md) |
 | [com.trustless.requests.utils](trustless/com.trustless.requests.utils/index.md) |
 | [com.trustless.requests.utils.certificate](trustless/com.trustless.requests.utils.certificate/index.md) |
+| [com.trustless.serializers](trustless/com.trustless.serializers/index.md) |
 | [com.trustless.utils](trustless/com.trustless.utils/index.md) |
-| [com.trustless.validators](trustless/com.trustless.validators/index.md) |

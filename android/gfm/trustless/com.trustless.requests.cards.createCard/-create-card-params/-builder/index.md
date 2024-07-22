@@ -17,7 +17,7 @@ Builder to initiate [CreateCardParams](../index.md)
 
 | Name | Summary |
 |---|---|
-| [build](build.md) | [kotlin]<br>fun [build](build.md)(): [CreateCardParams](../index.md)<br>Creates CreateCardParams |
+| [build](build.md) | [kotlin]<br>fun [build](build.md)(): [CreateCardParams](../index.md) |
 | [cardHolderName](card-holder-name.md) | [kotlin]<br>fun [cardHolderName](card-holder-name.md)(cardHolderName: String?): [CreateCardParams.Builder](index.md) |
 | [creditDetails](credit-details.md) | [kotlin]<br>fun [creditDetails](credit-details.md)(creditDetails: [CreditDetails](../../-credit-details/index.md)?): [CreateCardParams.Builder](index.md) |
 | [mobileNumber](mobile-number.md) | [kotlin]<br>fun [mobileNumber](mobile-number.md)(mobileNumber: String?): [CreateCardParams.Builder](index.md) |

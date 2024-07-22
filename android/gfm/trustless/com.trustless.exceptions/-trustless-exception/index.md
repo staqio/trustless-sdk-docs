@@ -19,7 +19,6 @@ Base class exception, from which all of the other exceptions are inherited This 
 | [TrustlessKycIdIsNull](../-trustless-kyc-id-is-null/index.md) |
 | [TrustlessMalformedResponse](../-trustless-malformed-response/index.md) |
 | [TrustlessNotInitializedSdkException](../-trustless-not-initialized-sdk-exception/index.md) |
-| [TrustlessPreconditionException](../-trustless-precondition-exception/index.md) |
 | [TrustlessUserTokenExpiredException](../-trustless-user-token-expired-exception/index.md) |
 
 ## Properties

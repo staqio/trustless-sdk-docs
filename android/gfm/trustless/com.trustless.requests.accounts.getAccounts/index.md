@@ -6,4 +6,4 @@
 
 | Name | Summary |
 |---|---|
-| [UrlQueryParamsPagination](-url-query-params-pagination/index.md) | [kotlin]<br>open class [UrlQueryParamsPagination](-url-query-params-pagination/index.md)constructor(pageSize: Int, pageNumber: Int) : [UrlQueryParams](../com.trustless.queryParams/-url-query-params/index.md) |
+| [UrlQueryParamsPagination](-url-query-params-pagination/index.md) | [kotlin]<br>open class [UrlQueryParamsPagination](-url-query-params-pagination/index.md)(pageSize: Int, pageNumber: Int) : [UrlQueryParams](../com.trustless.queryParams/-url-query-params/index.md) |

@@ -1,16 +1,10 @@
 $dokka.format:gfm-v1
 $dokka.linkExtension:md
 $dokka.location:com.trustless.exceptions////PointingToDeclaration/trustless/com.trustless.exceptions/index.md
-$dokka.location:com.trustless.exceptions/TrustlessAccountNameException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-account-name-exception/index.md
-$dokka.location:com.trustless.exceptions/TrustlessAmountException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-amount-exception/index.md
 $dokka.location:com.trustless.exceptions/TrustlessAppTokenException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-app-token-exception/index.md
-$dokka.location:com.trustless.exceptions/TrustlessCardholderNameException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-cardholder-name-exception/index.md
 $dokka.location:com.trustless.exceptions/TrustlessCertificateException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-certificate-exception/index.md
-$dokka.location:com.trustless.exceptions/TrustlessCodeException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-code-exception/index.md
 $dokka.location:com.trustless.exceptions/TrustlessConcurrentFetchException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-concurrent-fetch-exception/index.md
-$dokka.location:com.trustless.exceptions/TrustlessCurrencyCodeException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-currency-code-exception/index.md
 $dokka.location:com.trustless.exceptions/TrustlessCustomerIdIsNull///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-customer-id-is-null/index.md
-$dokka.location:com.trustless.exceptions/TrustlessEmailException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-email-exception/index.md
 $dokka.location:com.trustless.exceptions/TrustlessException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-exception/index.md
 $dokka.location:com.trustless.exceptions/TrustlessException/getErrorCode/#/PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-exception/get-error-code.md
 $dokka.location:com.trustless.exceptions/TrustlessExceptionListener///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-exception-listener/index.md
@@ -18,18 +12,9 @@ $dokka.location:com.trustless.exceptions/TrustlessExceptionSecurityProviderIsNot
 $dokka.location:com.trustless.exceptions/TrustlessInvalidNameException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-invalid-name-exception/index.md
 $dokka.location:com.trustless.exceptions/TrustlessInvalidUsageException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-invalid-usage-exception/index.md
 $dokka.location:com.trustless.exceptions/TrustlessKycIdIsNull///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-kyc-id-is-null/index.md
-$dokka.location:com.trustless.exceptions/TrustlessLimitException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-limit-exception/index.md
 $dokka.location:com.trustless.exceptions/TrustlessMalformedResponse///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-malformed-response/index.md
-$dokka.location:com.trustless.exceptions/TrustlessMobileNumberException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-mobile-number-exception/index.md
-$dokka.location:com.trustless.exceptions/TrustlessMonthException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-month-exception/index.md
+$dokka.location:com.trustless.exceptions/TrustlessMalformedResponse/getStatusCode/#/PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-malformed-response/get-status-code.md
 $dokka.location:com.trustless.exceptions/TrustlessNotInitializedSdkException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-not-initialized-sdk-exception/index.md
-$dokka.location:com.trustless.exceptions/TrustlessPageNumberException.Companion///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-page-number-exception/-companion/index.md
-$dokka.location:com.trustless.exceptions/TrustlessPageNumberException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-page-number-exception/index.md
-$dokka.location:com.trustless.exceptions/TrustlessPageSizeException.Companion///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-page-size-exception/-companion/index.md
-$dokka.location:com.trustless.exceptions/TrustlessPageSizeException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-page-size-exception/index.md
-$dokka.location:com.trustless.exceptions/TrustlessPasswordException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-password-exception/index.md
-$dokka.location:com.trustless.exceptions/TrustlessPhoneNumberException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-phone-number-exception/index.md
-$dokka.location:com.trustless.exceptions/TrustlessPreconditionException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-precondition-exception/index.md
 $dokka.location:com.trustless.exceptions/TrustlessUserTokenExpiredException///PointingToDeclaration/trustless/com.trustless.exceptions/-trustless-user-token-expired-exception/index.md
 $dokka.location:com.trustless.paginator////PointingToDeclaration/trustless/com.trustless.paginator/index.md
 $dokka.location:com.trustless.paginator/PaginatedResponse///PointingToDeclaration/trustless/com.trustless.paginator/-paginated-response/index.md
@@ -63,6 +48,7 @@ $dokka.location:com.trustless.providers.implementations/AccountsProviderImp/getA
 $dokka.location:com.trustless.providers.implementations/AccountsProviderImp/getAccountTransactions/#kotlin.Int#kotlin.Int#kotlin.String#java.util.Date#java.util.Date/PointingToDeclaration/trustless/com.trustless.providers.implementations/-accounts-provider-imp/get-account-transactions.md
 $dokka.location:com.trustless.providers.implementations/AccountsProviderImp/getAccounts/#kotlin.Int#kotlin.Int/PointingToDeclaration/trustless/com.trustless.providers.implementations/-accounts-provider-imp/get-accounts.md
 $dokka.location:com.trustless.providers.implementations/CardsProviderImp///PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/index.md
+$dokka.location:com.trustless.providers.implementations/CardsProviderImp/activateCard/#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/activate-card.md
 $dokka.location:com.trustless.providers.implementations/CardsProviderImp/changeCardMobileNumber/#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/change-card-mobile-number.md
 $dokka.location:com.trustless.providers.implementations/CardsProviderImp/changeCardStatus/#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/change-card-status.md
 $dokka.location:com.trustless.providers.implementations/CardsProviderImp/createCard/#com.trustless.requests.cards.createCard.CreateCardParams/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/create-card.md
@@ -70,6 +56,7 @@ $dokka.location:com.trustless.providers.implementations/CardsProviderImp/getActi
 $dokka.location:com.trustless.providers.implementations/CardsProviderImp/getBalances/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/get-balances.md
 $dokka.location:com.trustless.providers.implementations/CardsProviderImp/getCVVByToken/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/get-c-v-v-by-token.md
 $dokka.location:com.trustless.providers.implementations/CardsProviderImp/getCardByToken/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/get-card-by-token.md
+$dokka.location:com.trustless.providers.implementations/CardsProviderImp/getCardPin/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/get-card-pin.md
 $dokka.location:com.trustless.providers.implementations/CardsProviderImp/getCardTransactions/#kotlin.String#java.util.Date#java.util.Date/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/get-card-transactions.md
 $dokka.location:com.trustless.providers.implementations/CardsProviderImp/getCards/#kotlin.Int#kotlin.Int/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/get-cards.md
 $dokka.location:com.trustless.providers.implementations/CardsProviderImp/getLimits/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cards-provider-imp/get-limits.md
@@ -82,20 +69,36 @@ $dokka.location:com.trustless.providers.implementations/CliQProviderImp/createAl
 $dokka.location:com.trustless.providers.implementations/CliQProviderImp/getAliases/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cli-q-provider-imp/get-aliases.md
 $dokka.location:com.trustless.providers.implementations/CliQProviderImp/getPurposes/#com.trustless.requests.cliq.GetPurposesRequestParams/PointingToDeclaration/trustless/com.trustless.providers.implementations/-cli-q-provider-imp/get-purposes.md
 $dokka.location:com.trustless.providers.implementations/IdentityProviderImp///PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/index.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/canLoginUsingSavedToken/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/can-login-using-saved-token.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/canLoginUsingSavedTokenUsingBiometry/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/can-login-using-saved-token-using-biometry.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/clearPasscodeAndBiometry/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/clear-passcode-and-biometry.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/extractSavedToken/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/extract-saved-token.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/isPasscodeCorrect/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/is-passcode-correct.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/isUserAuthenticated/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/is-user-authenticated.md
 $dokka.location:com.trustless.providers.implementations/IdentityProviderImp/login/#com.trustless.requests.identity.userToken.UserTokenRequestParams#kotlin.Boolean/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/login.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/login2FA/#[Error type: Unresolved type for UserToken2FACompleteRequestParams]/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/login2-f-a.md
 $dokka.location:com.trustless.providers.implementations/IdentityProviderImp/logout/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/logout.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/otp2FA/#[Error type: Unresolved type for UserTokenOtp2FARequestParams]/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/otp2-f-a.md
 $dokka.location:com.trustless.providers.implementations/IdentityProviderImp/passwordResetConfirm/#com.trustless.requests.identity.passwordRecoveryConfirm.PasswordRecoveryConfirmRequestParams/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/password-reset-confirm.md
 $dokka.location:com.trustless.providers.implementations/IdentityProviderImp/registerUser/#com.trustless.requests.identity.registerUser.RegisterUserRequestParams/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/register-user.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/registerUser2FA/#[Error type: Unresolved type for RegisterUserRequest2FAParams]/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/register-user2-f-a.md
 $dokka.location:com.trustless.providers.implementations/IdentityProviderImp/resetPassword/#com.trustless.requests.identity.passwordRecovery.PasswordRecoveryRequestParams/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/reset-password.md
 $dokka.location:com.trustless.providers.implementations/IdentityProviderImp/retrieveUser/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/retrieve-user.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/saveUserTokenWithPasscode/#kotlin.String#kotlin.Boolean/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/save-user-token-with-passcode.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/saveUserTokenWithPasscode/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/save-user-token-with-passcode.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/send2FAOtp/#[Error type: Unresolved type for Send2FAOtpRequestParams]/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/send2-f-a-otp.md
+$dokka.location:com.trustless.providers.implementations/IdentityProviderImp/tryExtractingSavedTokenWithBiometry/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/try-extracting-saved-token-with-biometry.md
 $dokka.location:com.trustless.providers.implementations/IdentityProviderImp/updatePassword/#com.trustless.requests.identity.resetPassword.ResetPasswordRequestParams/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/update-password.md
 $dokka.location:com.trustless.providers.implementations/IdentityProviderImp/updateUser/#com.trustless.requests.identity.updateUser.UpdateUserRequestParams/PointingToDeclaration/trustless/com.trustless.providers.implementations/-identity-provider-imp/update-user.md
 $dokka.location:com.trustless.providers.implementations/KYCProviderImp///PointingToDeclaration/trustless/com.trustless.providers.implementations/-k-y-c-provider-imp/index.md
 $dokka.location:com.trustless.providers.implementations/KYCProviderImp/getCityList/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-k-y-c-provider-imp/get-city-list.md
+$dokka.location:com.trustless.providers.implementations/KYCProviderImp/getDeviceStatus/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-k-y-c-provider-imp/get-device-status.md
+$dokka.location:com.trustless.providers.implementations/KYCProviderImp/getKycStatus/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-k-y-c-provider-imp/get-kyc-status.md
 $dokka.location:com.trustless.providers.implementations/KYCProviderImp/getSteps/#com.trustless.requests.kyc.retrieveSteps.steps.SourceFieldsMap/PointingToDeclaration/trustless/com.trustless.providers.implementations/-k-y-c-provider-imp/get-steps.md
 $dokka.location:com.trustless.providers.implementations/KYCProviderImp/retrieveCustomerId/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-k-y-c-provider-imp/retrieve-customer-id.md
 $dokka.location:com.trustless.providers.implementations/KYCProviderImp/retrieveKycId/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-k-y-c-provider-imp/retrieve-kyc-id.md
 $dokka.location:com.trustless.providers.implementations/KYCProviderImp/uploadKyc/#kotlin.String#kotlin.collections.Map[kotlin.String,java.io.File]/PointingToDeclaration/trustless/com.trustless.providers.implementations/-k-y-c-provider-imp/upload-kyc.md
+$dokka.location:com.trustless.providers.implementations/KYCProviderImp/uploadNusukKyc/#com.trustless.requests.kyc.createKyc.CreateKycNusuk/PointingToDeclaration/trustless/com.trustless.providers.implementations/-k-y-c-provider-imp/upload-nusuk-kyc.md
 $dokka.location:com.trustless.providers.implementations/SimulationProviderImp///PointingToDeclaration/trustless/com.trustless.providers.implementations/-simulation-provider-imp/index.md
 $dokka.location:com.trustless.providers.implementations/SimulationProviderImp/approveKyc/#/PointingToDeclaration/trustless/com.trustless.providers.implementations/-simulation-provider-imp/approve-kyc.md
 $dokka.location:com.trustless.providers.implementations/SimulationProviderImp/setAccountBalance/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers.implementations/-simulation-provider-imp/set-account-balance.md
@@ -113,6 +116,7 @@ $dokka.location:com.trustless.providers/AccountsProvider/getAccountByNumber/#kot
 $dokka.location:com.trustless.providers/AccountsProvider/getAccountTransactions/#kotlin.Int#kotlin.Int#kotlin.String#java.util.Date#java.util.Date/PointingToDeclaration/trustless/com.trustless.providers/-accounts-provider/get-account-transactions.md
 $dokka.location:com.trustless.providers/AccountsProvider/getAccounts/#kotlin.Int#kotlin.Int/PointingToDeclaration/trustless/com.trustless.providers/-accounts-provider/get-accounts.md
 $dokka.location:com.trustless.providers/CardsProvider///PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/index.md
+$dokka.location:com.trustless.providers/CardsProvider/activateCard/#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/activate-card.md
 $dokka.location:com.trustless.providers/CardsProvider/changeCardMobileNumber/#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/change-card-mobile-number.md
 $dokka.location:com.trustless.providers/CardsProvider/changeCardStatus/#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/change-card-status.md
 $dokka.location:com.trustless.providers/CardsProvider/createCard/#com.trustless.requests.cards.createCard.CreateCardParams/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/create-card.md
@@ -120,6 +124,7 @@ $dokka.location:com.trustless.providers/CardsProvider/getActiveCards/#/PointingT
 $dokka.location:com.trustless.providers/CardsProvider/getBalances/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/get-balances.md
 $dokka.location:com.trustless.providers/CardsProvider/getCVVByToken/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/get-c-v-v-by-token.md
 $dokka.location:com.trustless.providers/CardsProvider/getCardByToken/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/get-card-by-token.md
+$dokka.location:com.trustless.providers/CardsProvider/getCardPin/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/get-card-pin.md
 $dokka.location:com.trustless.providers/CardsProvider/getCardTransactions/#kotlin.String#java.util.Date#java.util.Date/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/get-card-transactions.md
 $dokka.location:com.trustless.providers/CardsProvider/getCards/#kotlin.Int#kotlin.Int/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/get-cards.md
 $dokka.location:com.trustless.providers/CardsProvider/getLimits/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-cards-provider/get-limits.md
@@ -132,20 +137,36 @@ $dokka.location:com.trustless.providers/CliQProvider/createAlias/#kotlin.String#
 $dokka.location:com.trustless.providers/CliQProvider/getAliases/#/PointingToDeclaration/trustless/com.trustless.providers/-cli-q-provider/get-aliases.md
 $dokka.location:com.trustless.providers/CliQProvider/getPurposes/#com.trustless.requests.cliq.GetPurposesRequestParams/PointingToDeclaration/trustless/com.trustless.providers/-cli-q-provider/get-purposes.md
 $dokka.location:com.trustless.providers/IdentityProvider///PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/index.md
+$dokka.location:com.trustless.providers/IdentityProvider/canLoginUsingSavedToken/#/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/can-login-using-saved-token.md
+$dokka.location:com.trustless.providers/IdentityProvider/canLoginUsingSavedTokenUsingBiometry/#/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/can-login-using-saved-token-using-biometry.md
+$dokka.location:com.trustless.providers/IdentityProvider/clearPasscodeAndBiometry/#/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/clear-passcode-and-biometry.md
+$dokka.location:com.trustless.providers/IdentityProvider/extractSavedToken/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/extract-saved-token.md
+$dokka.location:com.trustless.providers/IdentityProvider/isPasscodeCorrect/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/is-passcode-correct.md
+$dokka.location:com.trustless.providers/IdentityProvider/isUserAuthenticated/#/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/is-user-authenticated.md
 $dokka.location:com.trustless.providers/IdentityProvider/login/#com.trustless.requests.identity.userToken.UserTokenRequestParams#kotlin.Boolean/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/login.md
+$dokka.location:com.trustless.providers/IdentityProvider/login2FA/#[Error type: Unresolved type for UserToken2FACompleteRequestParams]/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/login2-f-a.md
 $dokka.location:com.trustless.providers/IdentityProvider/logout/#/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/logout.md
+$dokka.location:com.trustless.providers/IdentityProvider/otp2FA/#[Error type: Unresolved type for UserTokenOtp2FARequestParams]/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/otp2-f-a.md
 $dokka.location:com.trustless.providers/IdentityProvider/passwordResetConfirm/#com.trustless.requests.identity.passwordRecoveryConfirm.PasswordRecoveryConfirmRequestParams/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/password-reset-confirm.md
 $dokka.location:com.trustless.providers/IdentityProvider/registerUser/#com.trustless.requests.identity.registerUser.RegisterUserRequestParams/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/register-user.md
+$dokka.location:com.trustless.providers/IdentityProvider/registerUser2FA/#[Error type: Unresolved type for RegisterUserRequest2FAParams]/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/register-user2-f-a.md
 $dokka.location:com.trustless.providers/IdentityProvider/resetPassword/#com.trustless.requests.identity.passwordRecovery.PasswordRecoveryRequestParams/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/reset-password.md
 $dokka.location:com.trustless.providers/IdentityProvider/retrieveUser/#/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/retrieve-user.md
+$dokka.location:com.trustless.providers/IdentityProvider/saveUserTokenWithPasscode/#kotlin.String#kotlin.Boolean/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/save-user-token-with-passcode.md
+$dokka.location:com.trustless.providers/IdentityProvider/saveUserTokenWithPasscode/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/save-user-token-with-passcode.md
+$dokka.location:com.trustless.providers/IdentityProvider/send2FAOtp/#[Error type: Unresolved type for Send2FAOtpRequestParams]/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/send2-f-a-otp.md
+$dokka.location:com.trustless.providers/IdentityProvider/tryExtractingSavedTokenWithBiometry/#/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/try-extracting-saved-token-with-biometry.md
 $dokka.location:com.trustless.providers/IdentityProvider/updatePassword/#com.trustless.requests.identity.resetPassword.ResetPasswordRequestParams/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/update-password.md
 $dokka.location:com.trustless.providers/IdentityProvider/updateUser/#com.trustless.requests.identity.updateUser.UpdateUserRequestParams/PointingToDeclaration/trustless/com.trustless.providers/-identity-provider/update-user.md
 $dokka.location:com.trustless.providers/KYCProvider///PointingToDeclaration/trustless/com.trustless.providers/-k-y-c-provider/index.md
 $dokka.location:com.trustless.providers/KYCProvider/getCityList/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-k-y-c-provider/get-city-list.md
+$dokka.location:com.trustless.providers/KYCProvider/getDeviceStatus/#/PointingToDeclaration/trustless/com.trustless.providers/-k-y-c-provider/get-device-status.md
+$dokka.location:com.trustless.providers/KYCProvider/getKycStatus/#/PointingToDeclaration/trustless/com.trustless.providers/-k-y-c-provider/get-kyc-status.md
 $dokka.location:com.trustless.providers/KYCProvider/getSteps/#com.trustless.requests.kyc.retrieveSteps.steps.SourceFieldsMap/PointingToDeclaration/trustless/com.trustless.providers/-k-y-c-provider/get-steps.md
 $dokka.location:com.trustless.providers/KYCProvider/retrieveCustomerId/#/PointingToDeclaration/trustless/com.trustless.providers/-k-y-c-provider/retrieve-customer-id.md
 $dokka.location:com.trustless.providers/KYCProvider/retrieveKycId/#/PointingToDeclaration/trustless/com.trustless.providers/-k-y-c-provider/retrieve-kyc-id.md
 $dokka.location:com.trustless.providers/KYCProvider/uploadKyc/#kotlin.String#kotlin.collections.Map[kotlin.String,java.io.File]/PointingToDeclaration/trustless/com.trustless.providers/-k-y-c-provider/upload-kyc.md
+$dokka.location:com.trustless.providers/KYCProvider/uploadNusukKyc/#com.trustless.requests.kyc.createKyc.CreateKycNusuk/PointingToDeclaration/trustless/com.trustless.providers/-k-y-c-provider/upload-nusuk-kyc.md
 $dokka.location:com.trustless.providers/SimulationProvider///PointingToDeclaration/trustless/com.trustless.providers/-simulation-provider/index.md
 $dokka.location:com.trustless.providers/SimulationProvider/approveKyc/#/PointingToDeclaration/trustless/com.trustless.providers/-simulation-provider/approve-kyc.md
 $dokka.location:com.trustless.providers/SimulationProvider/setAccountBalance/#kotlin.String/PointingToDeclaration/trustless/com.trustless.providers/-simulation-provider/set-account-balance.md
@@ -194,6 +215,8 @@ $dokka.location:com.trustless.requests.accounts/StaqCustomer/fullName/#/Pointing
 $dokka.location:com.trustless.requests.accounts/StaqCustomer/name/#/PointingToDeclaration/trustless/com.trustless.requests.accounts/-staq-customer/name.md
 $dokka.location:com.trustless.requests.accounts/StaqCustomer/typeRaw/#/PointingToDeclaration/trustless/com.trustless.requests.accounts/-staq-customer/type-raw.md
 $dokka.location:com.trustless.requests.cards.changeCardStatus////PointingToDeclaration/trustless/com.trustless.requests.cards.changeCardStatus/index.md
+$dokka.location:com.trustless.requests.cards.changeCardStatus/ActivateCardParams///PointingToDeclaration/trustless/com.trustless.requests.cards.changeCardStatus/-activate-card-params/index.md
+$dokka.location:com.trustless.requests.cards.changeCardStatus/ActivateCardParams/ActivateCardParams/#kotlin.String/PointingToDeclaration/trustless/com.trustless.requests.cards.changeCardStatus/-activate-card-params/-activate-card-params.md
 $dokka.location:com.trustless.requests.cards.changeCardStatus/ChangeCardStatusParams///PointingToDeclaration/trustless/com.trustless.requests.cards.changeCardStatus/-change-card-status-params/index.md
 $dokka.location:com.trustless.requests.cards.changeCardStatus/ChangeCardStatusParams/ChangeCardStatusParams/#kotlin.String/PointingToDeclaration/trustless/com.trustless.requests.cards.changeCardStatus/-change-card-status-params/-change-card-status-params.md
 $dokka.location:com.trustless.requests.cards.changeMobileNumber////PointingToDeclaration/trustless/com.trustless.requests.cards.changeMobileNumber/index.md
@@ -229,6 +252,8 @@ $dokka.location:com.trustless.requests.cards/StaqCardBalance/availableBalance/#/
 $dokka.location:com.trustless.requests.cards/StaqCardBalance/blockedBalance/#/PointingToDeclaration/trustless/com.trustless.requests.cards/-staq-card-balance/blocked-balance.md
 $dokka.location:com.trustless.requests.cards/StaqCardBalance/currencyCode/#/PointingToDeclaration/trustless/com.trustless.requests.cards/-staq-card-balance/currency-code.md
 $dokka.location:com.trustless.requests.cards/StaqCardBalance/currentBalance/#/PointingToDeclaration/trustless/com.trustless.requests.cards/-staq-card-balance/current-balance.md
+$dokka.location:com.trustless.requests.cards/StaqCardBalance/iban/#/PointingToDeclaration/trustless/com.trustless.requests.cards/-staq-card-balance/iban.md
+$dokka.location:com.trustless.requests.cards/StaqCardBalance/swift/#/PointingToDeclaration/trustless/com.trustless.requests.cards/-staq-card-balance/swift.md
 $dokka.location:com.trustless.requests.cards/StaqCardDetails///PointingToDeclaration/trustless/com.trustless.requests.cards/-staq-card-details/index.md
 $dokka.location:com.trustless.requests.cards/StaqCardDetails/balances/#/PointingToDeclaration/trustless/com.trustless.requests.cards/-staq-card-details/balances.md
 $dokka.location:com.trustless.requests.cards/StaqCardDetails/cardHolderName/#/PointingToDeclaration/trustless/com.trustless.requests.cards/-staq-card-details/card-holder-name.md
@@ -380,8 +405,11 @@ $dokka.location:com.trustless.requests.identity.userToken////PointingToDeclarati
 $dokka.location:com.trustless.requests.identity.userToken/UserTokenRequestParams///PointingToDeclaration/trustless/com.trustless.requests.identity.userToken/-user-token-request-params/index.md
 $dokka.location:com.trustless.requests.identity.userToken/UserTokenRequestParams/UserTokenRequestParams/#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.requests.identity.userToken/-user-token-request-params/-user-token-request-params.md
 $dokka.location:com.trustless.requests.identity////PointingToDeclaration/trustless/com.trustless.requests.identity/index.md
+$dokka.location:com.trustless.requests.identity/StaqRegisterUser2FAResponse///PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-register-user2-f-a-response/index.md
+$dokka.location:com.trustless.requests.identity/StaqRegisterUser2FAResponse/StaqRegisterUser2FAResponse/#com.trustless.requests.identity.StaqUserTokenResponse/PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-register-user2-f-a-response/-staq-register-user2-f-a-response.md
+$dokka.location:com.trustless.requests.identity/StaqRegisterUser2FAResponse/token/#/PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-register-user2-f-a-response/token.md
 $dokka.location:com.trustless.requests.identity/StaqRegisterUserResponse///PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-register-user-response/index.md
-$dokka.location:com.trustless.requests.identity/StaqRegisterUserResponse/StaqRegisterUserResponse/#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-register-user-response/-staq-register-user-response.md
+$dokka.location:com.trustless.requests.identity/StaqRegisterUserResponse/StaqRegisterUserResponse/#kotlin.String#kotlin.String#kotlin.String?#kotlin.String#kotlin.String?#kotlin.String?/PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-register-user-response/-staq-register-user-response.md
 $dokka.location:com.trustless.requests.identity/StaqRegisterUserResponse/email/#/PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-register-user-response/email.md
 $dokka.location:com.trustless.requests.identity/StaqRegisterUserResponse/firstName/#/PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-register-user-response/first-name.md
 $dokka.location:com.trustless.requests.identity/StaqRegisterUserResponse/id/#/PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-register-user-response/id.md
@@ -410,9 +438,30 @@ $dokka.location:com.trustless.requests.identity/StaqUserTokenResponse/refreshTok
 $dokka.location:com.trustless.requests.identity/StaqUserTokenResponse/scope/#/PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-user-token-response/scope.md
 $dokka.location:com.trustless.requests.identity/StaqUserTokenResponse/tokenType/#/PointingToDeclaration/trustless/com.trustless.requests.identity/-staq-user-token-response/token-type.md
 $dokka.location:com.trustless.requests.kyc.createKyc////PointingToDeclaration/trustless/com.trustless.requests.kyc.createKyc/index.md
+$dokka.location:com.trustless.requests.kyc.createKyc/CreateKycNusuk///PointingToDeclaration/trustless/com.trustless.requests.kyc.createKyc/-create-kyc-nusuk/index.md
+$dokka.location:com.trustless.requests.kyc.createKyc/CreateKycNusuk/CreateKycNusuk/#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.requests.kyc.createKyc/-create-kyc-nusuk/-create-kyc-nusuk.md
 $dokka.location:com.trustless.requests.kyc.createKyc/CreateKycResponse///PointingToDeclaration/trustless/com.trustless.requests.kyc.createKyc/-create-kyc-response/index.md
 $dokka.location:com.trustless.requests.kyc.createKyc/CreateKycResponse/CreateKycResponse/#kotlin.String/PointingToDeclaration/trustless/com.trustless.requests.kyc.createKyc/-create-kyc-response/-create-kyc-response.md
 $dokka.location:com.trustless.requests.kyc.createKyc/CreateKycResponse/kycId/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.createKyc/-create-kyc-response/kyc-id.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus////PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/index.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/Document///PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-document/index.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/Document/Document/#kotlin.String?#kotlin.String?#kotlin.Boolean?#kotlin.String?#kotlin.String?/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-document/-document.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/Document/approved/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-document/approved.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/Document/documentCode/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-document/document-code.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/Document/name/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-document/name.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/Document/reason/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-document/reason.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/Document/reasonAr/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-document/reason-ar.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse///PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/index.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse/RetrieveKycStatusResponse/#kotlin.String#kotlin.String?#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.Boolean#kotlin.collections.List[com.trustless.requests.kyc.retrieveKycStatus.Document]/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/-retrieve-kyc-status-response.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse/active/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/active.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse/customerId/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/customer-id.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse/documents/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/documents.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse/kycId/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/kyc-id.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse/mobileNumber/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/mobile-number.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse/pendingWalletTimer/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/pending-wallet-timer.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse/status/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/status.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse/statusAr/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/status-ar.md
+$dokka.location:com.trustless.requests.kyc.retrieveKycStatus/RetrieveKycStatusResponse/statusCode/#/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveKycStatus/-retrieve-kyc-status-response/status-code.md
 $dokka.location:com.trustless.requests.kyc.retrieveQuestions////PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveQuestions/index.md
 $dokka.location:com.trustless.requests.kyc.retrieveQuestions/Item///PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveQuestions/-item/index.md
 $dokka.location:com.trustless.requests.kyc.retrieveQuestions/Item/Item/#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.Int/PointingToDeclaration/trustless/com.trustless.requests.kyc.retrieveQuestions/-item/-item.md
@@ -607,6 +656,8 @@ $dokka.location:com.trustless.requests.utils.certificate/ClientCertificate/Clien
 $dokka.location:com.trustless.requests.utils.certificate/ClientCertificate/data/#/PointingToDeclaration/trustless/com.trustless.requests.utils.certificate/-client-certificate/data.md
 $dokka.location:com.trustless.requests.utils.certificate/ClientCertificate/password/#/PointingToDeclaration/trustless/com.trustless.requests.utils.certificate/-client-certificate/password.md
 $dokka.location:com.trustless.requests.utils////PointingToDeclaration/trustless/com.trustless.requests.utils/index.md
+$dokka.location:com.trustless.requests.utils//decodeToByteArray/kotlin.String#/PointingToDeclaration/trustless/com.trustless.requests.utils/decode-to-byte-array.md
+$dokka.location:com.trustless.requests.utils//encodeStringAsBase64/kotlin.ByteArray#/PointingToDeclaration/trustless/com.trustless.requests.utils/encode-string-as-base64.md
 $dokka.location:com.trustless.requests.utils/TrustlessConfiguration///PointingToDeclaration/trustless/com.trustless.requests.utils/-trustless-configuration/index.md
 $dokka.location:com.trustless.requests.utils/TrustlessConfiguration/TrustlessConfiguration/#kotlin.String#kotlin.String#com.trustless.requests.utils.certificate.ClientCertificate#okhttp3.OkHttpClient.Builder#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.requests.utils/-trustless-configuration/-trustless-configuration.md
 $dokka.location:com.trustless.requests////PointingToDeclaration/trustless/com.trustless.requests/index.md
@@ -626,40 +677,13 @@ $dokka.location:com.trustless.requests/StaqRawResponse/code/#/PointingToDeclarat
 $dokka.location:com.trustless.requests/StaqRawResponse/headers/#/PointingToDeclaration/trustless/com.trustless.requests/-staq-raw-response/headers.md
 $dokka.location:com.trustless.requests/StaqRawResponse/isSuccessful/#/PointingToDeclaration/trustless/com.trustless.requests/-staq-raw-response/is-successful.md
 $dokka.location:com.trustless.requests/StaqRawResponse/url/#/PointingToDeclaration/trustless/com.trustless.requests/-staq-raw-response/url.md
+$dokka.location:com.trustless.serializers////PointingToDeclaration/trustless/com.trustless.serializers/index.md
+$dokka.location:com.trustless.serializers//serializeByteArray/com.trustless.requests.StaqRawResponse#kotlin.Function1[java.io.InputStream,TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/trustless/com.trustless.serializers/serialize-byte-array.md
 $dokka.location:com.trustless.utils////PointingToDeclaration/trustless/com.trustless.utils/index.md
 $dokka.location:com.trustless.utils//runAsync/#com.trustless.utils.AsyncCallback[TypeParam(bounds=[kotlin.Any?])]?#kotlin.coroutines.SuspendFunction0[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/trustless/com.trustless.utils/run-async.md
 $dokka.location:com.trustless.utils/AsyncCallback///PointingToDeclaration/trustless/com.trustless.utils/-async-callback/index.md
 $dokka.location:com.trustless.utils/AsyncCallback/onFailure/#com.trustless.exceptions.TrustlessException/PointingToDeclaration/trustless/com.trustless.utils/-async-callback/on-failure.md
 $dokka.location:com.trustless.utils/AsyncCallback/onSuccess/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/trustless/com.trustless.utils/-async-callback/on-success.md
-$dokka.location:com.trustless.validators////PointingToDeclaration/trustless/com.trustless.validators/index.md
-$dokka.location:com.trustless.validators//isAccountNameValid/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/is-account-name-valid.md
-$dokka.location:com.trustless.validators//isAmountValid/#kotlin.Double/PointingToDeclaration/trustless/com.trustless.validators/is-amount-valid.md
-$dokka.location:com.trustless.validators//isCardHolderNameValid/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/is-card-holder-name-valid.md
-$dokka.location:com.trustless.validators//isCodeValid/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/is-code-valid.md
-$dokka.location:com.trustless.validators//isCurrencyCodeValid/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/is-currency-code-valid.md
-$dokka.location:com.trustless.validators//isEmailValid/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/is-email-valid.md
-$dokka.location:com.trustless.validators//isLimitValid/#kotlin.Double/PointingToDeclaration/trustless/com.trustless.validators/is-limit-valid.md
-$dokka.location:com.trustless.validators//isMobileNumberValid/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/is-mobile-number-valid.md
-$dokka.location:com.trustless.validators//isMonthValid/#kotlin.Int/PointingToDeclaration/trustless/com.trustless.validators/is-month-valid.md
-$dokka.location:com.trustless.validators//isNameValid/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/is-name-valid.md
-$dokka.location:com.trustless.validators//isPageNumberValid/#kotlin.Int/PointingToDeclaration/trustless/com.trustless.validators/is-page-number-valid.md
-$dokka.location:com.trustless.validators//isPageSizeValid/#kotlin.Int/PointingToDeclaration/trustless/com.trustless.validators/is-page-size-valid.md
-$dokka.location:com.trustless.validators//isPasswordValid/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/is-password-valid.md
-$dokka.location:com.trustless.validators//isPhoneNumberValid/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/is-phone-number-valid.md
-$dokka.location:com.trustless.validators//validateAccountName/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/validate-account-name.md
-$dokka.location:com.trustless.validators//validateAmount/#kotlin.Double/PointingToDeclaration/trustless/com.trustless.validators/validate-amount.md
-$dokka.location:com.trustless.validators//validateCardHolderName/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/validate-card-holder-name.md
-$dokka.location:com.trustless.validators//validateCode/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/validate-code.md
-$dokka.location:com.trustless.validators//validateCurrencyCode/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/validate-currency-code.md
-$dokka.location:com.trustless.validators//validateEmail/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/validate-email.md
-$dokka.location:com.trustless.validators//validateLimit/#kotlin.Double/PointingToDeclaration/trustless/com.trustless.validators/validate-limit.md
-$dokka.location:com.trustless.validators//validateMobileNumber/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/validate-mobile-number.md
-$dokka.location:com.trustless.validators//validateMonth/#kotlin.Int/PointingToDeclaration/trustless/com.trustless.validators/validate-month.md
-$dokka.location:com.trustless.validators//validateName/#kotlin.String#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/validate-name.md
-$dokka.location:com.trustless.validators//validatePageNumber/#kotlin.Int/PointingToDeclaration/trustless/com.trustless.validators/validate-page-number.md
-$dokka.location:com.trustless.validators//validatePageSize/#kotlin.Int/PointingToDeclaration/trustless/com.trustless.validators/validate-page-size.md
-$dokka.location:com.trustless.validators//validatePassword/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/validate-password.md
-$dokka.location:com.trustless.validators//validatePhoneNumber/#kotlin.String/PointingToDeclaration/trustless/com.trustless.validators/validate-phone-number.md
 $dokka.location:com.trustless////PointingToDeclaration/trustless/com.trustless/index.md
 $dokka.location:com.trustless/TrustlessSDK.Companion///PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/-companion/index.md
 $dokka.location:com.trustless/TrustlessSDK.Companion/accountsProvider/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/-companion/accounts-provider.md
@@ -672,17 +696,12 @@ $dokka.location:com.trustless/TrustlessSDK.Companion/instance/#/PointingToDeclar
 $dokka.location:com.trustless/TrustlessSDK.Companion/kycProvider/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/-companion/kyc-provider.md
 $dokka.location:com.trustless/TrustlessSDK.Companion/simulationProvider/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/-companion/simulation-provider.md
 $dokka.location:com.trustless/TrustlessSDK.Companion/transfersProvider/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/-companion/transfers-provider.md
+$dokka.location:com.trustless/TrustlessSDK.Companion/verificationProvider/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/-companion/verification-provider.md
 $dokka.location:com.trustless/TrustlessSDK///PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/index.md
-$dokka.location:com.trustless/TrustlessSDK/clearLogoutListener/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/clear-logout-listener.md
-$dokka.location:com.trustless/TrustlessSDK/isAbleToLogInUsingBiometry/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/is-able-to-log-in-using-biometry.md
-$dokka.location:com.trustless/TrustlessSDK/securityProviderFailed/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/security-provider-failed.md
-$dokka.location:com.trustless/TrustlessSDK/securityProviderFailedAsync/#com.trustless.utils.AsyncCallback[kotlin.Unit]?/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/security-provider-failed-async.md
-$dokka.location:com.trustless/TrustlessSDK/securityProviderSuccess/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/security-provider-success.md
-$dokka.location:com.trustless/TrustlessSDK/securityProviderSuccessAsync/#com.trustless.utils.AsyncCallback[kotlin.Unit]?/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/security-provider-success-async.md
-$dokka.location:com.trustless/TrustlessSDK/setLogoutListener/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/set-logout-listener.md
-$dokka.location:com.trustless/TrustlessSDK/subscribeToBiometryRequest/#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/subscribe-to-biometry-request.md
-$dokka.location:com.trustless/TrustlessSDK/subscribeToSecurityProviderUpdate/#kotlin.Function2[kotlin.Int,android.content.Intent?,kotlin.Unit]/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/subscribe-to-security-provider-update.md
-$dokka.location:com.trustless/TrustlessSDK/userWasAuthenticated/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/user-was-authenticated.md
+$dokka.location:com.trustless/TrustlessSDK/clearLocalToken/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/clear-local-token.md
+$dokka.location:com.trustless/TrustlessSDK/clearUserTokenExpiredListener/#/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/clear-user-token-expired-listener.md
+$dokka.location:com.trustless/TrustlessSDK/setUser/#kotlin.String/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/set-user.md
+$dokka.location:com.trustless/TrustlessSDK/setUserTokenExpiredListener/#kotlin.coroutines.SuspendFunction0[kotlin.Unit]/PointingToDeclaration/trustless/com.trustless/-trustless-s-d-k/set-user-token-expired-listener.md
 com.trustless
 com.trustless.exceptions
 com.trustless.paginator
@@ -711,6 +730,7 @@ com.trustless.requests.identity.resetPassword
 com.trustless.requests.identity.updateUser
 com.trustless.requests.identity.userToken
 com.trustless.requests.kyc.createKyc
+com.trustless.requests.kyc.retrieveKycStatus
 com.trustless.requests.kyc.retrieveQuestions
 com.trustless.requests.kyc.retrieveSteps
 com.trustless.requests.kyc.retrieveSteps.steps
@@ -721,6 +741,6 @@ com.trustless.requests.simulate.setBalance
 com.trustless.requests.transfers
 com.trustless.requests.utils
 com.trustless.requests.utils.certificate
+com.trustless.serializers
 com.trustless.utils
-com.trustless.validators
 

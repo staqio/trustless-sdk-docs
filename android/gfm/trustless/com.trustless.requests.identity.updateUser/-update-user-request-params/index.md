@@ -16,13 +16,6 @@ kotlin
 | lastName | Last name of the application user |
 | phoneNumber | Phone number of the application user. Should start from a + (plus), no zero as a first digit is allowed. |
 
-#### Throws
-
-| |
-|---|
-| [TrustlessInvalidNameException](../../com.trustless.exceptions/-trustless-invalid-name-exception/index.md) |
-| [TrustlessPhoneNumberException](../../com.trustless.exceptions/-trustless-phone-number-exception/index.md) |
-
 ## Constructors
 
 | | |

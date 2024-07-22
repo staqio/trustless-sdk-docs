@@ -2,7 +2,7 @@
 
 # CreditDetails
 
-class [CreditDetails](index.md)constructor(accountNumber: String, amount: Double) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [CreditDetails](index.md)(accountNumber: String, amount: Double) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 Optional Parameter for [CreateCardParams](../-create-card-params/index.md) class
 
@@ -14,12 +14,6 @@ kotlin
 |---|---|
 | accountNumber | Bank Account number to be used as a source of funds for the card. Account should have sufficient balance if Amount field is greater than 0 (zero). |
 | amount | to be credited to the card right after the card is created. You should specify 0 (zero) Amount if top-up is not required. MAXIMUM: 1000000000000000000 MINIMUM: 0 |
-
-#### Throws
-
-| |
-|---|
-| [TrustlessAmountException](../../com.trustless.exceptions/-trustless-amount-exception/index.md) |
 
 ## Constructors
 

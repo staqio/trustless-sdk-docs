@@ -3,7 +3,7 @@
 # UrlQueryParamsPagination
 
 [kotlin]\
-open class [UrlQueryParamsPagination](index.md)constructor(pageSize: Int, pageNumber: Int) : [UrlQueryParams](../../com.trustless.queryParams/-url-query-params/index.md)
+open class [UrlQueryParamsPagination](index.md)(pageSize: Int, pageNumber: Int) : [UrlQueryParams](../../com.trustless.queryParams/-url-query-params/index.md)
 
 ## Constructors
 

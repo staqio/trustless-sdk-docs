@@ -17,6 +17,7 @@ object [Companion](index.md)
 | [kycProvider](kyc-provider.md) | [kotlin]<br>@JvmStatic<br>val [kycProvider](kyc-provider.md): [KYCProvider](../../../com.trustless.providers/-k-y-c-provider/index.md)<br>KYC-related operations, including getting KYC steps and sending request. |
 | [simulationProvider](simulation-provider.md) | [kotlin]<br>@JvmStatic<br>val [simulationProvider](simulation-provider.md): [SimulationProvider](../../../com.trustless.providers/-simulation-provider/index.md)<br>Simulation-related operations, including approving kyc, setting accounts balance. |
 | [transfersProvider](transfers-provider.md) | [kotlin]<br>@JvmStatic<br>val [transfersProvider](transfers-provider.md): [TransfersProvider](../../../com.trustless.providers/-transfers-provider/index.md)<br>Transfers-related operations, including creating card, getting card and card details, close card. |
+| [verificationProvider](verification-provider.md) | [kotlin]<br>@JvmStatic<br>val [verificationProvider](verification-provider.md): &lt;Error class: unknown class&gt; |
 
 ## Functions
 

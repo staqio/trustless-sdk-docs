@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;FirstName&quot;)
 
-val [firstName](first-name.md): String
+val [firstName](first-name.md): String? = null

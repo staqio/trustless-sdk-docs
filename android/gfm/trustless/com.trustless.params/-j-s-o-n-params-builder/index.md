@@ -10,6 +10,7 @@ open class [JSONParamsBuilder](index.md) : ParamsBuilderStringBuild
 |---|
 | [CreateAnAccountParams](../../com.trustless.requests.accounts.createAnAccount/-create-an-account-params/index.md) |
 | [ChangeCardStatusParams](../../com.trustless.requests.cards.changeCardStatus/-change-card-status-params/index.md) |
+| [ActivateCardParams](../../com.trustless.requests.cards.changeCardStatus/-activate-card-params/index.md) |
 | [ChangeMobileNumberParams](../../com.trustless.requests.cards.changeMobileNumber/-change-mobile-number-params/index.md) |
 | [CreditDetails](../../com.trustless.requests.cards.createCard/-credit-details/index.md) |
 | [CreateCardParams](../../com.trustless.requests.cards.createCard/-create-card-params/index.md) |

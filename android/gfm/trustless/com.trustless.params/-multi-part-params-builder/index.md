@@ -8,6 +8,7 @@ open class [MultiPartParamsBuilder](index.md) : ParamsBuilder
 
 | |
 |---|
+| [CreateKycNusuk](../../com.trustless.requests.kyc.createKyc/-create-kyc-nusuk/index.md) |
 | [ConfirmTransferParams](../../com.trustless.requests.transfers/-confirm-transfer-params/index.md) |
 
 ## Properties

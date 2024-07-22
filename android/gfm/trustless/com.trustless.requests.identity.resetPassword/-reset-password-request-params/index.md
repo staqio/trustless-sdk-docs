@@ -2,7 +2,7 @@
 
 # ResetPasswordRequestParams
 
-class [ResetPasswordRequestParams](index.md)constructor(oldPassword: String, newPassword: String) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
+class [ResetPasswordRequestParams](index.md)(oldPassword: String, newPassword: String) : [JSONParamsBuilder](../../com.trustless.params/-j-s-o-n-params-builder/index.md)
 
 [Server Api Reference](https://developer.staq.io/docs/apis/identity#/User%20management/Set%20password)
 
@@ -14,12 +14,6 @@ kotlin
 |---|---|
 | oldPassword | Current password of the application user |
 | newPassword | New password of the application user |
-
-#### Throws
-
-| |
-|---|
-| [TrustlessPasswordException](../../com.trustless.exceptions/-trustless-password-exception/index.md) |
 
 ## Constructors
 

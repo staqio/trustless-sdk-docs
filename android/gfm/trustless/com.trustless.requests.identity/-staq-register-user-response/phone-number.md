@@ -6,4 +6,4 @@
 
 @SerialName(value = &quot;PhoneNumber&quot;)
 
-val [phoneNumber](phone-number.md): String
+val [phoneNumber](phone-number.md): String? = null
