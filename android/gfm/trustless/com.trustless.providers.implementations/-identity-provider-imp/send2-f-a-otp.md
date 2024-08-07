@@ -3,4 +3,4 @@
 # send2FAOtp
 
 [kotlin]\
-open suspend override fun [send2FAOtp](send2-f-a-otp.md)(params: &lt;Error class: unknown class&gt;)
+open suspend override fun [send2FAOtp](send2-f-a-otp.md)(params: [Send2FAOtpRequestParams](../../com.trustless.requests.identity.login2FA/-send2-f-a-otp-request-params/index.md))

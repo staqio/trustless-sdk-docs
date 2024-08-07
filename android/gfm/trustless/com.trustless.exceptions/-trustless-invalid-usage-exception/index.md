@@ -11,6 +11,7 @@ Base class for exceptions that are related to invalid usage
 | |
 |---|
 | [TrustlessConcurrentFetchException](../-trustless-concurrent-fetch-exception/index.md) |
+| [TrustlessExceptionUserAlreadyExists](../-trustless-exception-user-already-exists/index.md) |
 | [TrustlessInvalidNameException](../-trustless-invalid-name-exception/index.md) |
 
 ## Properties

@@ -13,3 +13,4 @@
 | [KYCProviderImp](-k-y-c-provider-imp/index.md) | [kotlin]<br>class [KYCProviderImp](-k-y-c-provider-imp/index.md) : [KYCProvider](../com.trustless.providers/-k-y-c-provider/index.md) |
 | [SimulationProviderImp](-simulation-provider-imp/index.md) | [kotlin]<br>class [SimulationProviderImp](-simulation-provider-imp/index.md) : [SimulationProvider](../com.trustless.providers/-simulation-provider/index.md) |
 | [TransfersProviderImp](-transfers-provider-imp/index.md) | [kotlin]<br>class [TransfersProviderImp](-transfers-provider-imp/index.md) : [TransfersProvider](../com.trustless.providers/-transfers-provider/index.md) |
+| [VerificationProviderImpl](-verification-provider-impl/index.md) | [kotlin]<br>class [VerificationProviderImpl](-verification-provider-impl/index.md) : [VerificationProvider](../com.trustless.providers/-verification-provider/index.md) |

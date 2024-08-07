@@ -22,8 +22,8 @@ KYC (Know your customer) field types
 | Name | Summary |
 |---|---|
 | [entries](entries.md) | [kotlin]<br>val [entries](entries.md): EnumEntries&lt;[KYCInputType](index.md)&gt;<br>Returns a representation of an immutable list of all enum entries, in the order they're declared. |
-| [name](-d-o-c-u-m-e-n-t/index.md#-372974862%2FProperties%2F-1818097539) | [kotlin]<br>val [name](-d-o-c-u-m-e-n-t/index.md#-372974862%2FProperties%2F-1818097539): String |
-| [ordinal](-d-o-c-u-m-e-n-t/index.md#-739389684%2FProperties%2F-1818097539) | [kotlin]<br>val [ordinal](-d-o-c-u-m-e-n-t/index.md#-739389684%2FProperties%2F-1818097539): Int |
+| [name](../../com.trustless.utils.security/-security-violation-type/-v-p-n_-d-e-t-e-c-t-e-d/index.md#-372974862%2FProperties%2F-1818097539) | [kotlin]<br>val [name](../../com.trustless.utils.security/-security-violation-type/-v-p-n_-d-e-t-e-c-t-e-d/index.md#-372974862%2FProperties%2F-1818097539): String |
+| [ordinal](../../com.trustless.utils.security/-security-violation-type/-v-p-n_-d-e-t-e-c-t-e-d/index.md#-739389684%2FProperties%2F-1818097539) | [kotlin]<br>val [ordinal](../../com.trustless.utils.security/-security-violation-type/-v-p-n_-d-e-t-e-c-t-e-d/index.md#-739389684%2FProperties%2F-1818097539): Int |
 
 ## Functions
 

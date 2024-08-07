@@ -3,4 +3,4 @@
 # Builder
 
 [kotlin]\
-constructor(currency: String)
+constructor(currency: String, deliveryAddress: String)

@@ -13,3 +13,4 @@
 | [KYCProvider](-k-y-c-provider/index.md) | [kotlin]<br>interface [KYCProvider](-k-y-c-provider/index.md) |
 | [SimulationProvider](-simulation-provider/index.md) | [kotlin]<br>interface [SimulationProvider](-simulation-provider/index.md) |
 | [TransfersProvider](-transfers-provider/index.md) | [kotlin]<br>interface [TransfersProvider](-transfers-provider/index.md) |
+| [VerificationProvider](-verification-provider/index.md) | [kotlin]<br>interface [VerificationProvider](-verification-provider/index.md) |

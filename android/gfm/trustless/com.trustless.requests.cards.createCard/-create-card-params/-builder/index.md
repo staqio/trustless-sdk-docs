@@ -3,7 +3,7 @@
 # Builder
 
 [kotlin]\
-class [Builder](index.md)(currency: String)
+class [Builder](index.md)(currency: String, deliveryAddress: String)
 
 Builder to initiate [CreateCardParams](../index.md)
 
@@ -11,7 +11,7 @@ Builder to initiate [CreateCardParams](../index.md)
 
 | | |
 |---|---|
-| [Builder](-builder.md) | [kotlin]<br>constructor(currency: String) |
+| [Builder](-builder.md) | [kotlin]<br>constructor(currency: String, deliveryAddress: String) |
 
 ## Functions
 

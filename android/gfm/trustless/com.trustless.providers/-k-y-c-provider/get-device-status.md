@@ -3,4 +3,4 @@
 # getDeviceStatus
 
 [kotlin]\
-abstract suspend fun [getDeviceStatus](get-device-status.md)(): &lt;Error class: unknown class&gt;
+abstract suspend fun [getDeviceStatus](get-device-status.md)(): [GetDeviceStatusResponse](../../com.trustless.requests.kyc.deviceStatus/-get-device-status-response/index.md)

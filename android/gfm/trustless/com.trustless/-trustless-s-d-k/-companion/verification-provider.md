@@ -6,4 +6,4 @@
 
 @JvmStatic
 
-val [verificationProvider](verification-provider.md): &lt;Error class: unknown class&gt;
+val [verificationProvider](verification-provider.md): [VerificationProvider](../../../com.trustless.providers/-verification-provider/index.md)

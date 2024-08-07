@@ -8,6 +8,7 @@
 |---|
 | [com.trustless](trustless/com.trustless/index.md) |
 | [com.trustless.exceptions](trustless/com.trustless.exceptions/index.md) |
+| [com.trustless.logger](trustless/com.trustless.logger/index.md) |
 | [com.trustless.paginator](trustless/com.trustless.paginator/index.md) |
 | [com.trustless.params](trustless/com.trustless.params/index.md) |
 | [com.trustless.providers](trustless/com.trustless.providers/index.md) |
@@ -22,11 +23,13 @@
 | [com.trustless.requests.cards.changeMobileNumber](trustless/com.trustless.requests.cards.changeMobileNumber/index.md) |
 | [com.trustless.requests.cards.createCard](trustless/com.trustless.requests.cards.createCard/index.md) |
 | [com.trustless.requests.cards.getCards](trustless/com.trustless.requests.cards.getCards/index.md) |
+| [com.trustless.requests.cards.getPin](trustless/com.trustless.requests.cards.getPin/index.md) |
 | [com.trustless.requests.cards.setLimits](trustless/com.trustless.requests.cards.setLimits/index.md) |
 | [com.trustless.requests.cards.topUp](trustless/com.trustless.requests.cards.topUp/index.md) |
 | [com.trustless.requests.cards.withdraw](trustless/com.trustless.requests.cards.withdraw/index.md) |
 | [com.trustless.requests.cliq](trustless/com.trustless.requests.cliq/index.md) |
 | [com.trustless.requests.identity](trustless/com.trustless.requests.identity/index.md) |
+| [com.trustless.requests.identity.login2FA](trustless/com.trustless.requests.identity.login2FA/index.md) |
 | [com.trustless.requests.identity.passwordRecovery](trustless/com.trustless.requests.identity.passwordRecovery/index.md) |
 | [com.trustless.requests.identity.passwordRecoveryConfirm](trustless/com.trustless.requests.identity.passwordRecoveryConfirm/index.md) |
 | [com.trustless.requests.identity.registerUser](trustless/com.trustless.requests.identity.registerUser/index.md) |
@@ -34,6 +37,7 @@
 | [com.trustless.requests.identity.updateUser](trustless/com.trustless.requests.identity.updateUser/index.md) |
 | [com.trustless.requests.identity.userToken](trustless/com.trustless.requests.identity.userToken/index.md) |
 | [com.trustless.requests.kyc.createKyc](trustless/com.trustless.requests.kyc.createKyc/index.md) |
+| [com.trustless.requests.kyc.deviceStatus](trustless/com.trustless.requests.kyc.deviceStatus/index.md) |
 | [com.trustless.requests.kyc.retrieveKycStatus](trustless/com.trustless.requests.kyc.retrieveKycStatus/index.md) |
 | [com.trustless.requests.kyc.retrieveQuestions](trustless/com.trustless.requests.kyc.retrieveQuestions/index.md) |
 | [com.trustless.requests.kyc.retrieveSteps](trustless/com.trustless.requests.kyc.retrieveSteps/index.md) |
@@ -45,5 +49,7 @@
 | [com.trustless.requests.transfers](trustless/com.trustless.requests.transfers/index.md) |
 | [com.trustless.requests.utils](trustless/com.trustless.requests.utils/index.md) |
 | [com.trustless.requests.utils.certificate](trustless/com.trustless.requests.utils.certificate/index.md) |
+| [com.trustless.requests.verification](trustless/com.trustless.requests.verification/index.md) |
 | [com.trustless.serializers](trustless/com.trustless.serializers/index.md) |
 | [com.trustless.utils](trustless/com.trustless.utils/index.md) |
+| [com.trustless.utils.security](trustless/com.trustless.utils.security/index.md) |

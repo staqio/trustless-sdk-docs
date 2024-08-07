@@ -3,4 +3,4 @@
 # otp2FA
 
 [kotlin]\
-open suspend override fun [otp2FA](otp2-f-a.md)(params: &lt;Error class: unknown class&gt;)
+open suspend override fun [otp2FA](otp2-f-a.md)(params: [UserTokenOtp2FARequestParams](../../com.trustless.requests.identity.login2FA/-user-token-otp2-f-a-request-params/index.md))
