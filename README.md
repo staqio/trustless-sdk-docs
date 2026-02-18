@@ -1,1 +1,1 @@
-# trustless-sdk-docs
+# TrustlessSDK
